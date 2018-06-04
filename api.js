@@ -12,6 +12,7 @@ var app = express();
 var fs = require('fs');
 const sf = require('snekfetch');
 var server = app.listen(port, listening);
+console.log("Running on port: " + port);
 var RateLimit = require('express-rate-limit');
 const userfunc = require("./util/userfunc.js")
 const logger = require("./util/logger.js")
