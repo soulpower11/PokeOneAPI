@@ -1,0 +1,71 @@
+{
+  "name": "Kakuna",
+  "national_id": 14,
+  "types": [
+    "Bug",
+    "Poison"
+  ],
+  "abilities": [{
+    "name": "Shed Skin"
+  }],
+  "gender_ratios": {
+    "male": 50,
+    "female": 50
+  },
+  "egg_groups": [
+    "Bug"
+  ],
+  "height_us": "2'00\"",
+  "height_eu": "0.6 m",
+  "weight_us": "22.0 lbs.",
+  "weight_eu": "10.0 kg",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 2,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "base_stats": {
+    "hp": 45,
+    "atk": 25,
+    "def": 50,
+    "sp_atk": 25,
+    "sp_def": 25,
+    "speed": 35
+  },
+  "evolution_from": "Weedle",
+  "evolutions": [{
+    "to": "Beedrill",
+    "level": 10
+  }],
+  "move_learnsets": [{
+      "tm_learnset": [{
+          "move": "Harden",
+          "level": 1
+        },
+        {
+          "move": "Harden",
+          "level": 7
+        }
+      ]
+    },
+    {
+    "regular_learnset": [{
+        "move": "Harden",
+        "level": 1
+      }]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [{
+        "move": "Harden",
+        "level": 1
+      }]
+    }
+  ]
+}

@@ -1,0 +1,562 @@
+{
+  "name": "Wormadam Plant Cloak",
+  "national_id": 413,
+  "types": [
+    "Bug",
+    "Grass"
+  ],
+  "abilities": [{
+      "name": "Anticipation"
+    },
+    {
+      "name": "Overcoat",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "female": 100.0,
+    "male": 0.0
+  },
+  "egg_groups": [
+    "Bug"
+  ],
+  "height_us": "1'08\"",
+  "height_eu": "0.5 m",
+  "weight_us": "14.3 lbs.",
+  "weight_eu": "6.5 kg",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 2,
+    "speed": 0
+  },
+  "base_stats": {
+    "hp": 60,
+    "atk": 59,
+    "def": 85,
+    "sp_atk": 79,
+    "sp_def": 105,
+    "speed": 36
+  },
+  "evolution_from": "Burmy",
+  "move_learnsets": [{
+      "tm_learnset": [{
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Venoshock",
+          "tm": "TM09"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Struggle Bug",
+          "tm": "TM76"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Infestation",
+          "tm": "TM83"
+        },
+        {
+          "move": "Dream Eater",
+          "tm": "TM85"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM94"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+    "regular_learnset": [{
+          "move": "Bug Bite",
+          "level": 1
+        },
+        {
+          "move": "Protect",
+          "level": 1
+        },
+        {
+          "move": "Quiver Dance",
+          "level": 1
+        },
+        {
+          "move": "Sucker Punch",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Protect",
+          "level": 10
+        },
+        {
+          "move": "Bug Bite",
+          "level": 15
+        },
+        {
+          "move": "Hidden Power",
+          "level": 20
+        },
+        {
+          "move": "Confusion",
+          "level": 23
+        },
+        {
+          "move": "Razor Leaf",
+          "level": 26
+        },
+        {
+          "move": "Growth",
+          "level": 29
+        },
+        {
+          "move": "Psybeam",
+          "level": 32
+        },
+        {
+          "move": "Captivate",
+          "level": 35
+        },
+        {
+          "move": "Flail",
+          "level": 38
+        },
+        {
+          "move": "Attract",
+          "level": 41
+        },
+        {
+          "move": "Psychic",
+          "level": 44
+        },
+        {
+          "move": "Leaf Storm",
+          "level": 47
+        },
+        {
+          "move": "Bug Buzz",
+          "level": 50
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Venoshock",
+          "tm": "TM09"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Infestation",
+          "tm": "TM83"
+        },
+        {
+          "move": "Dream Eater",
+          "tm": "TM85"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [{
+          "move": "Bug Bite",
+          "level": 1
+        },
+        {
+          "move": "Protect",
+          "level": 1
+        },
+        {
+          "move": "Quiver Dance",
+          "level": 1
+        },
+        {
+          "move": "Sucker Punch",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Protect",
+          "level": 10
+        },
+        {
+          "move": "Bug Bite",
+          "level": 15
+        },
+        {
+          "move": "Hidden Power",
+          "level": 20
+        },
+        {
+          "move": "Confusion",
+          "level": 23
+        },
+        {
+          "move": "Razor Leaf",
+          "level": 26
+        },
+        {
+          "move": "Growth",
+          "level": 29
+        },
+        {
+          "move": "Psybeam",
+          "level": 32
+        },
+        {
+          "move": "Captivate",
+          "level": 35
+        },
+        {
+          "move": "Flail",
+          "level": 38
+        },
+        {
+          "move": "Attract",
+          "level": 41
+        },
+        {
+          "move": "Psychic",
+          "level": 44
+        },
+        {
+          "move": "Leaf Storm",
+          "level": 47
+        },
+        {
+          "move": "Bug Buzz",
+          "level": 50
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Venoshock",
+          "tm": "TM09"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Infestation",
+          "tm": "TM83"
+        },
+        {
+          "move": "Dream Eater",
+          "tm": "TM85"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,634 @@
+{
+  "name": "Axew",
+  "national_id": 610,
+  "types": [
+    "Dragon"
+  ],
+  "abilities": [{
+      "name": "Rivalry"
+    },
+    {
+      "name": "Unnerve",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50,
+    "female": 50
+  },
+  "egg_groups": [
+    "Monster",
+    "Dragon"
+  ],
+  "height_us": "2'00\"",
+  "height_eu": "0.6 m",
+  "weight_us": "39.7 lbs.",
+  "weight_eu": "18.0 kg",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 1,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "base_stats": {
+    "hp": 46,
+    "atk": 87,
+    "def": 60,
+    "sp_atk": 30,
+    "sp_def": 40,
+    "speed": 57
+  },
+  "evolutions": [{
+    "to": "Fraxure",
+    "level": 38
+  }],
+  "evolution_from": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
+          "move": "Cut",
+          "tm": "HM01"
+        },
+        {
+          "move": "Strength",
+          "tm": "HM04"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "HM06"
+        },
+        {
+          "move": "Hone Claws",
+          "tm": "TM01"
+        },
+        {
+          "move": "Dragon Claw",
+          "tm": "TM02"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM05"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Dig",
+          "tm": "TM28"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "False Swipe",
+          "tm": "TM54"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Incinerate",
+          "tm": "TM59"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "X-Scissor",
+          "tm": "TM81"
+        },
+        {
+          "move": "Poison Jab",
+          "tm": "TM84"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM94"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+    "regular_learnset": [{
+          "move": "Scratch",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 4
+        },
+        {
+          "move": "Assurance",
+          "level": 7
+        },
+        {
+          "move": "Dragon Rage",
+          "level": 10
+        },
+        {
+          "move": "Dual Chop",
+          "level": 13
+        },
+        {
+          "move": "Scary Face",
+          "level": 16
+        },
+        {
+          "move": "Slash",
+          "level": 20
+        },
+        {
+          "move": "False Swipe",
+          "level": 24
+        },
+        {
+          "move": "Dragon Claw",
+          "level": 28
+        },
+        {
+          "move": "Dragon Dance",
+          "level": 32
+        },
+        {
+          "move": "Taunt",
+          "level": 36
+        },
+        {
+          "move": "Dragon Pulse",
+          "level": 41
+        },
+        {
+          "move": "Swords Dance",
+          "level": 46
+        },
+        {
+          "move": "Guillotine",
+          "level": 50
+        },
+        {
+          "move": "Outrage",
+          "level": 56
+        },
+        {
+          "move": "Giga Impact",
+          "level": 61
+        },
+        {
+          "move": "Counter",
+          "egg_move": true
+        },
+        {
+          "move": "Dragon Pulse",
+          "egg_move": true
+        },
+        {
+          "move": "Endeavor",
+          "egg_move": true
+        },
+        {
+          "move": "Endure",
+          "egg_move": true
+        },
+        {
+          "move": "Focus Energy",
+          "egg_move": true
+        },
+        {
+          "move": "Harden",
+          "egg_move": true
+        },
+        {
+          "move": "Iron Tail",
+          "egg_move": true
+        },
+        {
+          "move": "Night Slash",
+          "egg_move": true
+        },
+        {
+          "move": "Razor Wind",
+          "egg_move": true
+        },
+        {
+          "move": "Reversal",
+          "egg_move": true
+        },
+        {
+          "move": "Dragon Claw",
+          "tm": "TM02"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM05"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "False Swipe",
+          "tm": "TM54"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "X-Scissor",
+          "tm": "TM81"
+        },
+        {
+          "move": "Poison Jab",
+          "tm": "TM84"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [{
+          "move": "Scratch",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 4
+        },
+        {
+          "move": "Assurance",
+          "level": 7
+        },
+        {
+          "move": "Dragon Rage",
+          "level": 10
+        },
+        {
+          "move": "Dual Chop",
+          "level": 13
+        },
+        {
+          "move": "Scary Face",
+          "level": 16
+        },
+        {
+          "move": "Slash",
+          "level": 20
+        },
+        {
+          "move": "False Swipe",
+          "level": 24
+        },
+        {
+          "move": "Dragon Claw",
+          "level": 28
+        },
+        {
+          "move": "Dragon Dance",
+          "level": 32
+        },
+        {
+          "move": "Taunt",
+          "level": 36
+        },
+        {
+          "move": "Dragon Pulse",
+          "level": 41
+        },
+        {
+          "move": "Swords Dance",
+          "level": 46
+        },
+        {
+          "move": "Guillotine",
+          "level": 50
+        },
+        {
+          "move": "Outrage",
+          "level": 56
+        },
+        {
+          "move": "Giga Impact",
+          "level": 61
+        },
+        {
+          "move": "Counter",
+          "egg_move": true
+        },
+        {
+          "move": "Dragon Pulse",
+          "egg_move": true
+        },
+        {
+          "move": "Endeavor",
+          "egg_move": true
+        },
+        {
+          "move": "Endure",
+          "egg_move": true
+        },
+        {
+          "move": "Focus Energy",
+          "egg_move": true
+        },
+        {
+          "move": "Harden",
+          "egg_move": true
+        },
+        {
+          "move": "Iron Tail",
+          "egg_move": true
+        },
+        {
+          "move": "Night Slash",
+          "egg_move": true
+        },
+        {
+          "move": "Razor Wind",
+          "egg_move": true
+        },
+        {
+          "move": "Reversal",
+          "egg_move": true
+        },
+        {
+          "move": "Dragon Claw",
+          "tm": "TM02"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM05"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "False Swipe",
+          "tm": "TM54"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "X-Scissor",
+          "tm": "TM81"
+        },
+        {
+          "move": "Poison Jab",
+          "tm": "TM84"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
+}

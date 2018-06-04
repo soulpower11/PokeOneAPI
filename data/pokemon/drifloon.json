@@ -1,0 +1,661 @@
+{
+  "name": "Drifloon",
+  "national_id": 425,
+  "types": [
+    "Ghost",
+    "Flying"
+  ],
+  "abilities": [{
+      "name": "Aftermath"
+    },
+    {
+      "name": "Unburden"
+    },
+    {
+      "name": "Flare Boost",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50,
+    "female": 50
+  },
+  "egg_groups": [
+    "Amorphous"
+  ],
+  "height_us": "1'04\"",
+  "height_eu": "0.4 m",
+  "weight_us": "2.6 lbs.",
+  "weight_eu": "1.2 kg",
+  "ev_yield": {
+    "hp": 1,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "base_stats": {
+    "hp": 90,
+    "atk": 50,
+    "def": 34,
+    "sp_atk": 60,
+    "sp_def": 44,
+    "speed": 70
+  },
+  "evolutions": [{
+    "to": "Drifblim",
+    "level": 28
+  }],
+  "evolution_from": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
+          "move": "Cut",
+          "tm": "HM01"
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM04"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Will-O-Wisp",
+          "tm": "TM61"
+        },
+        {
+          "move": "Acrobatics",
+          "tm": "TM62"
+        },
+        {
+          "move": "Embargo",
+          "tm": "TM63"
+        },
+        {
+          "move": "Explosion",
+          "tm": "TM64"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Dream Eater",
+          "tm": "TM85"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM94"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+    "regular_learnset": [{
+          "move": "Constrict",
+          "level": 1
+        },
+        {
+          "move": "Minimize",
+          "level": 1
+        },
+        {
+          "move": "Astonish",
+          "level": 4
+        },
+        {
+          "move": "Gust",
+          "level": 8
+        },
+        {
+          "move": "Focus Energy",
+          "level": 13
+        },
+        {
+          "move": "Payback",
+          "level": 16
+        },
+        {
+          "move": "Ominous Wind",
+          "level": 20
+        },
+        {
+          "move": "Stockpile",
+          "level": 25
+        },
+        {
+          "move": "Hex",
+          "level": 27
+        },
+        {
+          "move": "Spit Up",
+          "level": 32
+        },
+        {
+          "move": "Swallow",
+          "level": 32
+        },
+        {
+          "move": "Shadow Ball",
+          "level": 36
+        },
+        {
+          "move": "Amnesia",
+          "level": 40
+        },
+        {
+          "move": "Baton Pass",
+          "level": 44
+        },
+        {
+          "move": "Explosion",
+          "level": 50
+        },
+        {
+          "move": "Body Slam",
+          "egg_move": true
+        },
+        {
+          "move": "Clear Smog",
+          "egg_move": true
+        },
+        {
+          "move": "Defog",
+          "egg_move": true
+        },
+        {
+          "move": "Destiny Bond",
+          "egg_move": true
+        },
+        {
+          "move": "Disable",
+          "egg_move": true
+        },
+        {
+          "move": "Haze",
+          "egg_move": true
+        },
+        {
+          "move": "Hypnosis",
+          "egg_move": true
+        },
+        {
+          "move": "Memento",
+          "egg_move": true
+        },
+        {
+          "move": "Tailwind",
+          "egg_move": true
+        },
+        {
+          "move": "Weather Ball",
+          "egg_move": true
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM04"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Will-O-Wisp",
+          "tm": "TM61"
+        },
+        {
+          "move": "Acrobatics",
+          "tm": "TM62"
+        },
+        {
+          "move": "Embargo",
+          "tm": "TM63"
+        },
+        {
+          "move": "Explosion",
+          "tm": "TM64"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Dream Eater",
+          "tm": "TM85"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [{
+          "move": "Constrict",
+          "level": 1
+        },
+        {
+          "move": "Minimize",
+          "level": 1
+        },
+        {
+          "move": "Astonish",
+          "level": 4
+        },
+        {
+          "move": "Gust",
+          "level": 8
+        },
+        {
+          "move": "Focus Energy",
+          "level": 13
+        },
+        {
+          "move": "Payback",
+          "level": 16
+        },
+        {
+          "move": "Ominous Wind",
+          "level": 20
+        },
+        {
+          "move": "Stockpile",
+          "level": 25
+        },
+        {
+          "move": "Hex",
+          "level": 27
+        },
+        {
+          "move": "Spit Up",
+          "level": 32
+        },
+        {
+          "move": "Swallow",
+          "level": 32
+        },
+        {
+          "move": "Shadow Ball",
+          "level": 36
+        },
+        {
+          "move": "Amnesia",
+          "level": 40
+        },
+        {
+          "move": "Baton Pass",
+          "level": 44
+        },
+        {
+          "move": "Explosion",
+          "level": 50
+        },
+        {
+          "move": "Body Slam",
+          "egg_move": true
+        },
+        {
+          "move": "Clear Smog",
+          "egg_move": true
+        },
+        {
+          "move": "Defog",
+          "egg_move": true
+        },
+        {
+          "move": "Destiny Bond",
+          "egg_move": true
+        },
+        {
+          "move": "Disable",
+          "egg_move": true
+        },
+        {
+          "move": "Haze",
+          "egg_move": true
+        },
+        {
+          "move": "Hypnosis",
+          "egg_move": true
+        },
+        {
+          "move": "Memento",
+          "egg_move": true
+        },
+        {
+          "move": "Tailwind",
+          "egg_move": true
+        },
+        {
+          "move": "Weather Ball",
+          "egg_move": true
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM04"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Will-O-Wisp",
+          "tm": "TM61"
+        },
+        {
+          "move": "Acrobatics",
+          "tm": "TM62"
+        },
+        {
+          "move": "Embargo",
+          "tm": "TM63"
+        },
+        {
+          "move": "Explosion",
+          "tm": "TM64"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Dream Eater",
+          "tm": "TM85"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
+}

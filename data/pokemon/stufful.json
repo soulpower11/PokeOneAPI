@@ -1,0 +1,582 @@
+{
+  "name": "Stufful",
+  "national_id": 759,
+  "types": [
+    "Normal",
+    "Fighting"
+  ],
+  "abilities": [{
+      "name": "Fluffy"
+    },
+    {
+      "name": "Cute Charm",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50,
+    "female": 50
+  },
+  "egg_groups": [
+    "Field"
+  ],
+  "height_us": "1'08\"",
+  "height_eu": "0.5 m",
+  "weight_us": "15.0 lbs.",
+  "weight_eu": "6.8 kg",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 1,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "base_stats": {
+    "hp": 70,
+    "atk": 75,
+    "def": 50,
+    "sp_atk": 45,
+    "sp_def": 50,
+    "speed": 50
+  },
+  "evolutions": [{
+    "to": "Bewear",
+    "level": 27
+  }],
+  "evolution_from": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
+          "move": "Work Up",
+          "tm": "TM01"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM05"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Bulk Up",
+          "tm": "TM08"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Low Sweep",
+          "tm": "TM47"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Brutal Swing",
+          "tm": "TM59"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+    "regular_learnset": [{
+          "move": "Leer",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Bide",
+          "level": 5
+        },
+        {
+          "move": "Baby-Doll Eyes",
+          "level": 10
+        },
+        {
+          "move": "Brutal Swing",
+          "level": 14
+        },
+        {
+          "move": "Flail",
+          "level": 19
+        },
+        {
+          "move": "Payback",
+          "level": 23
+        },
+        {
+          "move": "Take Down",
+          "level": 28
+        },
+        {
+          "move": "Hammer Arm",
+          "level": 32
+        },
+        {
+          "move": "Thrash",
+          "level": 37
+        },
+        {
+          "move": "Pain Split",
+          "level": 41
+        },
+        {
+          "move": "Double-Edge",
+          "level": 46
+        },
+        {
+          "move": "Superpower",
+          "level": 50
+        },
+        {
+          "move": "Endure",
+          "egg_move": true
+        },
+        {
+          "move": "Force Palm",
+          "egg_move": true
+        },
+        {
+          "move": "Ice Punch",
+          "egg_move": true
+        },
+        {
+          "move": "Mega Kick",
+          "egg_move": true
+        },
+        {
+          "move": "Stomping Tantrum",
+          "egg_move": true
+        },
+        {
+          "move": "Thunder Punch",
+          "egg_move": true
+        },
+        {
+          "move": "Wide Guard",
+          "egg_move": true
+        },
+        {
+          "move": "Work Up",
+          "tm": "TM01"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM05"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Bulk Up",
+          "tm": "TM08"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Low Sweep",
+          "tm": "TM47"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Brutal Swing",
+          "tm": "TM59"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [{
+          "move": "Leer",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Bide",
+          "level": 5
+        },
+        {
+          "move": "Baby-Doll Eyes",
+          "level": 10
+        },
+        {
+          "move": "Brutal Swing",
+          "level": 14
+        },
+        {
+          "move": "Flail",
+          "level": 19
+        },
+        {
+          "move": "Payback",
+          "level": 23
+        },
+        {
+          "move": "Take Down",
+          "level": 28
+        },
+        {
+          "move": "Hammer Arm",
+          "level": 32
+        },
+        {
+          "move": "Thrash",
+          "level": 37
+        },
+        {
+          "move": "Pain Split",
+          "level": 41
+        },
+        {
+          "move": "Double-Edge",
+          "level": 46
+        },
+        {
+          "move": "Superpower",
+          "level": 50
+        },
+        {
+          "move": "Endure",
+          "egg_move": true
+        },
+        {
+          "move": "Force Palm",
+          "egg_move": true
+        },
+        {
+          "move": "Ice Punch",
+          "egg_move": true
+        },
+        {
+          "move": "Mega Kick",
+          "egg_move": true
+        },
+        {
+          "move": "Stomping Tantrum",
+          "egg_move": true
+        },
+        {
+          "move": "Thunder Punch",
+          "egg_move": true
+        },
+        {
+          "move": "Wide Guard",
+          "egg_move": true
+        },
+        {
+          "move": "Work Up",
+          "tm": "TM01"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM05"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Bulk Up",
+          "tm": "TM08"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Low Sweep",
+          "tm": "TM47"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Brutal Swing",
+          "tm": "TM59"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
+}

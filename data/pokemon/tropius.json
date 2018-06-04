@@ -1,0 +1,687 @@
+{
+  "name": "Tropius",
+  "national_id": 357,
+  "types": [
+    "Grass",
+    "Flying"
+  ],
+  "abilities": [{
+      "name": "Chlorophyll"
+    },
+    {
+      "name": "Solar Power"
+    },
+    {
+      "name": "Harvest",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50,
+    "female": 50
+  },
+  "egg_groups": [
+    "Monster",
+    "Grass"
+  ],
+  "height_us": "6'07\"",
+  "height_eu": "2.0 m",
+  "weight_us": "220.5 lbs.",
+  "weight_eu": "100.0 kg",
+  "ev_yield": {
+    "hp": 2,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "base_stats": {
+    "hp": 99,
+    "atk": 68,
+    "def": 83,
+    "sp_atk": 72,
+    "sp_def": 87,
+    "speed": 51
+  },
+  "evolutions": null,
+  "evolution_from": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
+          "move": "Cut",
+          "tm": "HM01"
+        },
+        {
+          "move": "Fly",
+          "tm": "HM02"
+        },
+        {
+          "move": "Strength",
+          "tm": "HM04"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "HM06"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM05"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Roost",
+          "tm": "TM19"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Steel Wing",
+          "tm": "TM51"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM94"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+    "regular_learnset": [{
+          "move": "Growth",
+          "level": 1
+        },
+        {
+          "move": "Gust",
+          "level": 1
+        },
+        {
+          "move": "Leaf Storm",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 1
+        },
+        {
+          "move": "Razor Leaf",
+          "level": 1
+        },
+        {
+          "move": "Sweet Scent",
+          "level": 6
+        },
+        {
+          "move": "Stomp",
+          "level": 10
+        },
+        {
+          "move": "Magical Leaf",
+          "level": 16
+        },
+        {
+          "move": "Whirlwind",
+          "level": 21
+        },
+        {
+          "move": "Leaf Tornado",
+          "level": 26
+        },
+        {
+          "move": "Natural Gift",
+          "level": 30
+        },
+        {
+          "move": "Air Slash",
+          "level": 36
+        },
+        {
+          "move": "Body Slam",
+          "level": 41
+        },
+        {
+          "move": "Bestow",
+          "level": 46
+        },
+        {
+          "move": "Synthesis",
+          "level": 50
+        },
+        {
+          "move": "Solar Beam",
+          "level": 56
+        },
+        {
+          "move": "Leaf Storm",
+          "level": 61
+        },
+        {
+          "move": "Bullet Seed",
+          "egg_move": true
+        },
+        {
+          "move": "Curse",
+          "egg_move": true
+        },
+        {
+          "move": "Dragon Dance",
+          "egg_move": true
+        },
+        {
+          "move": "Headbutt",
+          "egg_move": true
+        },
+        {
+          "move": "Leaf Blade",
+          "egg_move": true
+        },
+        {
+          "move": "Leaf Storm",
+          "egg_move": true
+        },
+        {
+          "move": "Leech Seed",
+          "egg_move": true
+        },
+        {
+          "move": "Natural Gift",
+          "egg_move": true
+        },
+        {
+          "move": "Nature Power",
+          "egg_move": true
+        },
+        {
+          "move": "Razor Wind",
+          "egg_move": true
+        },
+        {
+          "move": "Slam",
+          "egg_move": true
+        },
+        {
+          "move": "Synthesis",
+          "egg_move": true
+        },
+        {
+          "move": "Roar",
+          "tm": "TM05"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Roost",
+          "tm": "TM19"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Steel Wing",
+          "tm": "TM51"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Brutal Swing",
+          "tm": "TM59"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Fly",
+          "tm": "TM76"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [{
+          "move": "Growth",
+          "level": 1
+        },
+        {
+          "move": "Gust",
+          "level": 1
+        },
+        {
+          "move": "Leaf Storm",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 1
+        },
+        {
+          "move": "Razor Leaf",
+          "level": 1
+        },
+        {
+          "move": "Sweet Scent",
+          "level": 6
+        },
+        {
+          "move": "Stomp",
+          "level": 10
+        },
+        {
+          "move": "Magical Leaf",
+          "level": 16
+        },
+        {
+          "move": "Whirlwind",
+          "level": 21
+        },
+        {
+          "move": "Leaf Tornado",
+          "level": 26
+        },
+        {
+          "move": "Natural Gift",
+          "level": 30
+        },
+        {
+          "move": "Air Slash",
+          "level": 36
+        },
+        {
+          "move": "Body Slam",
+          "level": 41
+        },
+        {
+          "move": "Bestow",
+          "level": 46
+        },
+        {
+          "move": "Synthesis",
+          "level": 50
+        },
+        {
+          "move": "Solar Beam",
+          "level": 56
+        },
+        {
+          "move": "Leaf Storm",
+          "level": 61
+        },
+        {
+          "move": "Bullet Seed",
+          "egg_move": true
+        },
+        {
+          "move": "Curse",
+          "egg_move": true
+        },
+        {
+          "move": "Dragon Dance",
+          "egg_move": true
+        },
+        {
+          "move": "Dragon Hammer",
+          "egg_move": true
+        },
+        {
+          "move": "Headbutt",
+          "egg_move": true
+        },
+        {
+          "move": "Leaf Blade",
+          "egg_move": true
+        },
+        {
+          "move": "Leaf Storm",
+          "egg_move": true
+        },
+        {
+          "move": "Leech Seed",
+          "egg_move": true
+        },
+        {
+          "move": "Natural Gift",
+          "egg_move": true
+        },
+        {
+          "move": "Nature Power",
+          "egg_move": true
+        },
+        {
+          "move": "Razor Wind",
+          "egg_move": true
+        },
+        {
+          "move": "Slam",
+          "egg_move": true
+        },
+        {
+          "move": "Synthesis",
+          "egg_move": true
+        },
+        {
+          "move": "Roar",
+          "tm": "TM05"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Roost",
+          "tm": "TM19"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Steel Wing",
+          "tm": "TM51"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Brutal Swing",
+          "tm": "TM59"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Fly",
+          "tm": "TM76"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
+}

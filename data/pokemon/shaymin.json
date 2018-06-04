@@ -1,0 +1,692 @@
+{
+  "name": "Shaymin",
+  "national_id": 492,
+  "types": [
+    "Grass"
+  ],
+  "abilities": [{
+    "name": "Natural Cure"
+  }],
+  "gender_ratios": null,
+  "egg_groups": [
+    "Undiscovered"
+  ],
+  "height_us": "0'08\"",
+  "height_eu": "0.2 m",
+  "weight_us": "4.6 lbs.",
+  "weight_eu": "2.1 kg",
+  "ev_yield": {
+    "hp": 3,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "base_stats": {
+    "hp": 100,
+    "atk": 100,
+    "def": 100,
+    "sp_atk": 100,
+    "sp_def": 100,
+    "speed": 100
+  },
+  "move_learnsets": [{
+      "tm_learnset": [{
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM94"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+    "regular_learnset": [{
+          "move": "Growth",
+          "level": 1,
+          "variations": [
+            "Land Forme"
+          ]
+        },
+        {
+          "move": "Magical Leaf",
+          "level": 10,
+          "variations": [
+            "Land Forme"
+          ]
+        },
+        {
+          "move": "Leech Seed",
+          "level": 19,
+          "variations": [
+            "Land Forme"
+          ]
+        },
+        {
+          "move": "Synthesis",
+          "level": 28,
+          "variations": [
+            "Land Forme"
+          ]
+        },
+        {
+          "move": "Sweet Scent",
+          "level": 37,
+          "variations": [
+            "Land Forme"
+          ]
+        },
+        {
+          "move": "Natural Gift",
+          "level": 46,
+          "variations": [
+            "Land Forme"
+          ]
+        },
+        {
+          "move": "Worry Seed",
+          "level": 55,
+          "variations": [
+            "Land Forme"
+          ]
+        },
+        {
+          "move": "Aromatherapy",
+          "level": 64,
+          "variations": [
+            "Land Forme"
+          ]
+        },
+        {
+          "move": "Energy Ball",
+          "level": 73,
+          "variations": [
+            "Land Forme"
+          ]
+        },
+        {
+          "move": "Sweet Kiss",
+          "level": 82,
+          "variations": [
+            "Land Forme"
+          ]
+        },
+        {
+          "move": "Healing Wish",
+          "level": 91,
+          "variations": [
+            "Land Forme"
+          ]
+        },
+        {
+          "move": "Seed Flare",
+          "level": 100,
+          "variations": [
+            "Land Forme"
+          ]
+        },
+        {
+          "move": "Growth",
+          "level": 1,
+          "variations": [
+            "Sky Forme"
+          ]
+        },
+        {
+          "move": "Magical Leaf",
+          "level": 10,
+          "variations": [
+            "Sky Forme"
+          ]
+        },
+        {
+          "move": "Leech Seed",
+          "level": 19,
+          "variations": [
+            "Sky Forme"
+          ]
+        },
+        {
+          "move": "Quick Attack",
+          "level": 28,
+          "variations": [
+            "Sky Forme"
+          ]
+        },
+        {
+          "move": "Sweet Scent",
+          "level": 37,
+          "variations": [
+            "Sky Forme"
+          ]
+        },
+        {
+          "move": "Natural Gift",
+          "level": 46,
+          "variations": [
+            "Sky Forme"
+          ]
+        },
+        {
+          "move": "Worry Seed",
+          "level": 55,
+          "variations": [
+            "Sky Forme"
+          ]
+        },
+        {
+          "move": "Air Slash",
+          "level": 64,
+          "variations": [
+            "Sky Forme"
+          ]
+        },
+        {
+          "move": "Energy Ball",
+          "level": 73,
+          "variations": [
+            "Sky Forme"
+          ]
+        },
+        {
+          "move": "Sweet Kiss",
+          "level": 82,
+          "variations": [
+            "Sky Forme"
+          ]
+        },
+        {
+          "move": "Leaf Storm",
+          "level": 91,
+          "variations": [
+            "Sky Forme"
+          ]
+        },
+        {
+          "move": "Seed Flare",
+          "level": 100,
+          "variations": [
+            "Sky Forme"
+          ]
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [{
+          "move": "Growth",
+          "level": 1,
+          "variations": [
+            "Land Forme"
+          ]
+        },
+        {
+          "move": "Magical Leaf",
+          "level": 10,
+          "variations": [
+            "Land Forme"
+          ]
+        },
+        {
+          "move": "Leech Seed",
+          "level": 19,
+          "variations": [
+            "Land Forme"
+          ]
+        },
+        {
+          "move": "Synthesis",
+          "level": 28,
+          "variations": [
+            "Land Forme"
+          ]
+        },
+        {
+          "move": "Sweet Scent",
+          "level": 37,
+          "variations": [
+            "Land Forme"
+          ]
+        },
+        {
+          "move": "Natural Gift",
+          "level": 46,
+          "variations": [
+            "Land Forme"
+          ]
+        },
+        {
+          "move": "Worry Seed",
+          "level": 55,
+          "variations": [
+            "Land Forme"
+          ]
+        },
+        {
+          "move": "Aromatherapy",
+          "level": 64,
+          "variations": [
+            "Land Forme"
+          ]
+        },
+        {
+          "move": "Energy Ball",
+          "level": 73,
+          "variations": [
+            "Land Forme"
+          ]
+        },
+        {
+          "move": "Sweet Kiss",
+          "level": 82,
+          "variations": [
+            "Land Forme"
+          ]
+        },
+        {
+          "move": "Healing Wish",
+          "level": 91,
+          "variations": [
+            "Land Forme"
+          ]
+        },
+        {
+          "move": "Seed Flare",
+          "level": 100,
+          "variations": [
+            "Land Forme"
+          ]
+        },
+        {
+          "move": "Growth",
+          "level": 1,
+          "variations": [
+            "Sky Forme"
+          ]
+        },
+        {
+          "move": "Magical Leaf",
+          "level": 10,
+          "variations": [
+            "Sky Forme"
+          ]
+        },
+        {
+          "move": "Leech Seed",
+          "level": 19,
+          "variations": [
+            "Sky Forme"
+          ]
+        },
+        {
+          "move": "Quick Attack",
+          "level": 28,
+          "variations": [
+            "Sky Forme"
+          ]
+        },
+        {
+          "move": "Sweet Scent",
+          "level": 37,
+          "variations": [
+            "Sky Forme"
+          ]
+        },
+        {
+          "move": "Natural Gift",
+          "level": 46,
+          "variations": [
+            "Sky Forme"
+          ]
+        },
+        {
+          "move": "Worry Seed",
+          "level": 55,
+          "variations": [
+            "Sky Forme"
+          ]
+        },
+        {
+          "move": "Air Slash",
+          "level": 64,
+          "variations": [
+            "Sky Forme"
+          ]
+        },
+        {
+          "move": "Energy Ball",
+          "level": 73,
+          "variations": [
+            "Sky Forme"
+          ]
+        },
+        {
+          "move": "Sweet Kiss",
+          "level": 82,
+          "variations": [
+            "Sky Forme"
+          ]
+        },
+        {
+          "move": "Leaf Storm",
+          "level": 91,
+          "variations": [
+            "Sky Forme"
+          ]
+        },
+        {
+          "move": "Seed Flare",
+          "level": 100,
+          "variations": [
+            "Sky Forme"
+          ]
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
+}

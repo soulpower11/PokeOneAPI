@@ -1,0 +1,519 @@
+{
+  "name": "Klinklang",
+  "national_id": 601,
+  "types": [
+    "Steel"
+  ],
+  "abilities": [{
+      "name": "Plus"
+    },
+    {
+      "name": "Clear Body",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": null,
+  "egg_groups": [
+    "Mineral"
+  ],
+  "height_us": "2'00\"",
+  "height_eu": "0.6 m",
+  "weight_us": "178.6 lbs.",
+  "weight_eu": "81.0 kg",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 3,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "base_stats": {
+    "hp": 60,
+    "atk": 100,
+    "def": 115,
+    "sp_atk": 70,
+    "sp_def": 85,
+    "speed": 90
+  },
+  "evolution_from": "Klang",
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sandstorm",
+          "tm": "TM37"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Rock Polish",
+          "tm": "TM69"
+        },
+        {
+          "move": "Volt Switch",
+          "tm": "TM72"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Trick Room",
+          "tm": "TM92"
+        },
+        {
+          "move": "Wild Charge",
+          "tm": "TM93"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM94"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+    "regular_learnset": [{
+          "move": "Charge",
+          "level": 1
+        },
+        {
+          "move": "Gear Grind",
+          "level": 1
+        },
+        {
+          "move": "Gear Up",
+          "level": 1
+        },
+        {
+          "move": "Magnetic Flux",
+          "level": 1
+        },
+        {
+          "move": "Thunder Shock",
+          "level": 1
+        },
+        {
+          "move": "Vice Grip",
+          "level": 1
+        },
+        {
+          "move": "Charge",
+          "level": 6
+        },
+        {
+          "move": "Thunder Shock",
+          "level": 11
+        },
+        {
+          "move": "Gear Grind",
+          "level": 16
+        },
+        {
+          "move": "Bind",
+          "level": 21
+        },
+        {
+          "move": "Charge Beam",
+          "level": 25
+        },
+        {
+          "move": "Autotomize",
+          "level": 31
+        },
+        {
+          "move": "Mirror Shot",
+          "level": 36
+        },
+        {
+          "move": "Screech",
+          "level": 40
+        },
+        {
+          "move": "Discharge",
+          "level": 44
+        },
+        {
+          "move": "Metal Sound",
+          "level": 48
+        },
+        {
+          "move": "Shift Gear",
+          "level": 54
+        },
+        {
+          "move": "Lock-On",
+          "level": 60
+        },
+        {
+          "move": "Zap Cannon",
+          "level": 66
+        },
+        {
+          "move": "Hyper Beam",
+          "level": 72
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sandstorm",
+          "tm": "TM37"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Rock Polish",
+          "tm": "TM69"
+        },
+        {
+          "move": "Volt Switch",
+          "tm": "TM72"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Trick Room",
+          "tm": "TM92"
+        },
+        {
+          "move": "Wild Charge",
+          "tm": "TM93"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [{
+          "move": "Charge",
+          "level": 1
+        },
+        {
+          "move": "Gear Grind",
+          "level": 1
+        },
+        {
+          "move": "Gear Up",
+          "level": 1
+        },
+        {
+          "move": "Magnetic Flux",
+          "level": 1
+        },
+        {
+          "move": "Thunder Shock",
+          "level": 1
+        },
+        {
+          "move": "Vice Grip",
+          "level": 1
+        },
+        {
+          "move": "Charge",
+          "level": 6
+        },
+        {
+          "move": "Thunder Shock",
+          "level": 11
+        },
+        {
+          "move": "Gear Grind",
+          "level": 16
+        },
+        {
+          "move": "Bind",
+          "level": 21
+        },
+        {
+          "move": "Charge Beam",
+          "level": 25
+        },
+        {
+          "move": "Autotomize",
+          "level": 31
+        },
+        {
+          "move": "Mirror Shot",
+          "level": 36
+        },
+        {
+          "move": "Screech",
+          "level": 40
+        },
+        {
+          "move": "Discharge",
+          "level": 44
+        },
+        {
+          "move": "Metal Sound",
+          "level": 48
+        },
+        {
+          "move": "Shift Gear",
+          "level": 54
+        },
+        {
+          "move": "Lock-On",
+          "level": 60
+        },
+        {
+          "move": "Zap Cannon",
+          "level": 66
+        },
+        {
+          "move": "Hyper Beam",
+          "level": 72
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sandstorm",
+          "tm": "TM37"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Rock Polish",
+          "tm": "TM69"
+        },
+        {
+          "move": "Volt Switch",
+          "tm": "TM72"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Trick Room",
+          "tm": "TM92"
+        },
+        {
+          "move": "Wild Charge",
+          "tm": "TM93"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
+}

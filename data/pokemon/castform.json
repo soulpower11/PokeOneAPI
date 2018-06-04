@@ -1,0 +1,632 @@
+{
+  "name": "Castform",
+  "national_id": 351,
+  "types": [
+    "Normal"
+  ],
+  "abilities": [{
+    "name": "Forecast"
+  }],
+  "gender_ratios": {
+    "male": 50,
+    "female": 50
+  },
+  "egg_groups": [
+    "Fairy",
+    "Amorphous"
+  ],
+  "height_us": "1'00\"",
+  "height_eu": "0.3 m",
+  "weight_us": "1.8 lbs.",
+  "weight_eu": "0.8 kg",
+  "ev_yield": {
+    "hp": 1,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "base_stats": {
+    "hp": 70,
+    "atk": 70,
+    "def": 70,
+    "sp_atk": 70,
+    "sp_def": 70,
+    "speed": 70
+  },
+  "move_learnsets": [{
+      "tm_learnset": [{
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hail",
+          "tm": "TM07"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Flamethrower",
+          "tm": "TM35"
+        },
+        {
+          "move": "Sandstorm",
+          "tm": "TM37"
+        },
+        {
+          "move": "Fire Blast",
+          "tm": "TM38"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Scald",
+          "tm": "TM55"
+        },
+        {
+          "move": "Incinerate",
+          "tm": "TM59"
+        },
+        {
+          "move": "Retaliate",
+          "tm": "TM67"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM94"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+    "regular_learnset": [{
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Ember",
+          "level": 10
+        },
+        {
+          "move": "Powder Snow",
+          "level": 10
+        },
+        {
+          "move": "Water Gun",
+          "level": 10
+        },
+        {
+          "move": "Headbutt",
+          "level": 15
+        },
+        {
+          "move": "Hail",
+          "level": 20
+        },
+        {
+          "move": "Rain Dance",
+          "level": 20
+        },
+        {
+          "move": "Sunny Day",
+          "level": 20
+        },
+        {
+          "move": "Weather Ball",
+          "level": 25
+        },
+        {
+          "move": "Blizzard",
+          "level": 35
+        },
+        {
+          "move": "Fire Blast",
+          "level": 35
+        },
+        {
+          "move": "Hydro Pump",
+          "level": 35
+        },
+        {
+          "move": "Hurricane",
+          "level": 45
+        },
+        {
+          "move": "Amnesia",
+          "egg_move": true
+        },
+        {
+          "move": "Clear Smog",
+          "egg_move": true
+        },
+        {
+          "move": "Cosmic Power",
+          "egg_move": true
+        },
+        {
+          "move": "Disable",
+          "egg_move": true
+        },
+        {
+          "move": "Future Sight",
+          "egg_move": true
+        },
+        {
+          "move": "Guard Swap",
+          "egg_move": true
+        },
+        {
+          "move": "Hex",
+          "egg_move": true
+        },
+        {
+          "move": "Lucky Chant",
+          "egg_move": true
+        },
+        {
+          "move": "Ominous Wind",
+          "egg_move": true
+        },
+        {
+          "move": "Reflect Type",
+          "egg_move": true
+        },
+        {
+          "move": "Work Up",
+          "tm": "TM01"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hail",
+          "tm": "TM07"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Flamethrower",
+          "tm": "TM35"
+        },
+        {
+          "move": "Sandstorm",
+          "tm": "TM37"
+        },
+        {
+          "move": "Fire Blast",
+          "tm": "TM38"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Scald",
+          "tm": "TM55"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [{
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Ember",
+          "level": 10
+        },
+        {
+          "move": "Powder Snow",
+          "level": 10
+        },
+        {
+          "move": "Water Gun",
+          "level": 10
+        },
+        {
+          "move": "Headbutt",
+          "level": 15
+        },
+        {
+          "move": "Hail",
+          "level": 20
+        },
+        {
+          "move": "Rain Dance",
+          "level": 20
+        },
+        {
+          "move": "Sunny Day",
+          "level": 20
+        },
+        {
+          "move": "Weather Ball",
+          "level": 25
+        },
+        {
+          "move": "Blizzard",
+          "level": 35
+        },
+        {
+          "move": "Fire Blast",
+          "level": 35
+        },
+        {
+          "move": "Hydro Pump",
+          "level": 35
+        },
+        {
+          "move": "Hurricane",
+          "level": 45
+        },
+        {
+          "move": "Amnesia",
+          "egg_move": true
+        },
+        {
+          "move": "Clear Smog",
+          "egg_move": true
+        },
+        {
+          "move": "Cosmic Power",
+          "egg_move": true
+        },
+        {
+          "move": "Disable",
+          "egg_move": true
+        },
+        {
+          "move": "Future Sight",
+          "egg_move": true
+        },
+        {
+          "move": "Guard Swap",
+          "egg_move": true
+        },
+        {
+          "move": "Hex",
+          "egg_move": true
+        },
+        {
+          "move": "Lucky Chant",
+          "egg_move": true
+        },
+        {
+          "move": "Ominous Wind",
+          "egg_move": true
+        },
+        {
+          "move": "Reflect Type",
+          "egg_move": true
+        },
+        {
+          "move": "Work Up",
+          "tm": "TM01"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hail",
+          "tm": "TM07"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Flamethrower",
+          "tm": "TM35"
+        },
+        {
+          "move": "Sandstorm",
+          "tm": "TM37"
+        },
+        {
+          "move": "Fire Blast",
+          "tm": "TM38"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Scald",
+          "tm": "TM55"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
+}

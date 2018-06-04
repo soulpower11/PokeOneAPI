@@ -1,0 +1,685 @@
+{
+    "kanto": {
+        "type": "Region",
+        "name": "Kanto",
+        "quests": [
+            "The Pokemon Prof",
+            "First Battle",
+            "Trainer on Route 1",
+            "Viridian City",
+            "Viridian Forest",
+            "Hard as a Rock",
+            "Ceruelan City",
+            "Bill",
+            "Electrified",
+            "The Long Journey",
+            "Trouble in Town",
+            "The Case of Mr Fuji",
+            "The Psy-Master",
+            "Fuchsia City",
+            "fleaf glf mfmfl feefh!",
+            "Cinnabar Island",
+            "The Last Badge",
+            "Pokemon League"
+        ]
+    },
+    "the pokemon prof": {
+        "type": "Main Quest",
+        "name": "The Pokémon Prof",
+        "parts": "1",
+        "part1": {
+            "description": "Find Prof. Oak in his lab!",
+            "rewards": [
+                "50 EXP"
+            ]
+        }
+    },
+    "first battle": {
+        "type": "Main Quest",
+        "name": "First Battle",
+        "parts": "1",
+        "part1": {
+            "description": "Find Gary",
+            "rewards": [
+                "100 EXP",
+                "1x Potion"
+            ]
+        }
+    },
+    "trainer on route 1": {
+        "type": "Main Quest",
+        "name": "Trainer on Route 1",
+        "parts": "2",
+        "part1": {
+            "description": "Challenge Joey on Route 1",
+            "rewards": [
+                "50 EXP",
+                "$100"
+            ]
+        },
+        "part2": {
+            "description": "Challenge Sherman and Nancy on Route 1",
+            "rewards": [
+                "50 EXP",
+                "$100"
+            ]
+        }
+    },
+    "viridian city": {
+        "type": "Main Quest",
+        "name": "Viridian City",
+        "parts": "4",
+        "part1": {
+            "description": "Find Nurse Joy in the Poke Center in Viridian City",
+            "rewards": [
+                "55 EXP",
+                "$110"
+            ]
+        },
+        "part2": {
+            "description": "Visit Carl in the Poke Mart in Viridian City",
+            "rewards": [
+                "55 EXP",
+                "$110"
+            ]
+        },
+        "part3": {
+            "description": "Visit Dizzy in the Trainer School",
+            "rewards": [
+                "55 EXP",
+                "$110"
+            ]
+        },
+        "part4": {
+            "description": "Find old man in Viridian City",
+            "rewards": [
+                "55 EXP",
+                "$110"
+            ]
+        }
+    },
+    "viridian forest": {
+        "type": "Main Quest",
+        "name": "Viridian Forest",
+        "parts": "3",
+        "part1": {
+            "description": "Travel through the Viridian Forest",
+            "rewards": [
+                "50 EXP",
+                "$100"
+            ]
+        },
+        "part2": {
+            "description": "Find Lara in the West",
+            "rewards": [
+                "100 EXP",
+                "$200"
+            ]
+        },
+        "part3": {
+            "description": "Find your way through the forest",
+            "rewards": [
+                "250 EXP",
+                "$500"
+            ]
+        }
+    },
+    "hard as a rock": {
+        "type": "Main Quest",
+        "name": "Hard as a Rock",
+        "parts": "2",
+        "part1": {
+            "description": "Reach the gym in Pewter City",
+            "rewards": [
+                "100 EXP",
+                "$200"
+            ]
+        },
+        "part2": {
+            "description": "Challenge Brock in Pewter City",
+            "rewards": [
+                "300 EXP",
+                "$600",
+                "1x TM69",
+                "Boulder Badge"
+            ]
+        }
+    },
+    "cerulean city": {
+        "type": "Main Quest",
+        "name": "Cerulean City",
+        "parts": "9",
+        "part1": {
+            "description": "Find the way to Cerulean City",
+            "rewards": [
+                "60 EXP"
+            ]  
+        },
+        "part2": {
+            "description": "Find a Moon Stone near the Meteroite",
+            "rewards": [
+                "55 EXP",
+                "$110"
+            ]  
+        },
+        "part3": {
+            "description": "Return to Hiker Willy",
+            "rewards": [
+                "55 EXP",
+                "$110"
+            ]  
+        },
+        "part4": {
+            "description": "Master the way to Cerulean City",
+            "rewards": [
+                "N/A"
+            ]  
+        },
+        "part5": {
+            "description": "Find your way though Mt. Moon",
+            "rewards": [
+                "75 EXP",
+                "$150"
+            ]  
+        },
+        "part6": {
+            "description": "Challenge Team Rocket",
+            "rewards": [
+                "350 EXP",
+                "$500"
+            ]  
+        },
+        "part7": {
+            "description": "Talk with Miguel",
+            "rewards": [
+                "75 EXP",
+                "$150"
+            ]   
+        },
+        "part8": {
+            "description": "Travel to Cerulean City",
+            "rewards": [
+                "50 EXP",
+                "$100"
+            ]    
+        },
+        "part9": {
+            "description": "Challenge Misty in Cerulean City Gym",
+            "rewards": [
+                "500 EXP",
+                "$1200",
+                "1x TM55",
+                "Cascade Badge"
+             ]   
+        }
+    },
+    "bill": {
+        "type": "Main Quest",
+        "name": "Bill",
+        "parts": "3",
+        "part1": {
+            "description": "Visit Bill on Route 25",
+            "rewards": [
+                "N/A"
+            ]  
+        },
+        "part2": {
+            "description": "Use the computer to transform Bill",
+            "rewards": [
+                "N/A"
+            ]  
+        },
+        "part3": {
+            "description": "Talk to Bill",
+            "rewards": [
+                "250 EXP",
+                "$500"
+            ]  
+        }
+    },
+    "electrified": {
+        "type": "Main Quest",
+        "name": "Electrified",
+        "parts": "7",
+        "part1": {
+            "description": "Reach Vermilion City",
+            "rewards": [
+                "80 EXP",
+                "$160"
+            ]
+        },
+        "part2": {
+            "description": "Reach Vermilion City",
+            "rewards": [
+                "80 EXP",
+                "$160"
+            ]
+        },
+        "part3": {
+            "description": "Reach the harbor of Vermilion City",
+            "rewards": [
+                "25 EXP",
+                "$160"
+            ]
+        },
+        "part4": {
+            "description": "Enter the S.S. Anne",
+            "rewards": [
+                "25 EXP",
+                "$160"
+            ]
+        },
+        "part5": {
+            "description": "Find the Captain on the S.S. Anne",
+            "rewards": [
+                "80 EXP",
+                "$160",
+                "1x HM01"
+            ]
+        },
+        "part6": {
+            "description": "Reach Vermilion Gym",
+            "rewards": [
+                "80 EXP",
+                "$160"
+            ]
+        },
+        "part7": {
+            "description": "Challenge Lt. Surge",
+            "rewards": [
+                "500 EXP",
+                "$1000",
+                "1x TM57",
+                "Thunder Badge"
+            ]
+        }
+    },
+    "the long journey": {
+        "type": "Main Quest",
+        "name": "The Long Jorney",
+        "parts": "9",
+        "part1": {
+            "description": "Cross Diglett's Cave",
+            "rewards": [
+                "25 EXP",
+                "$100"
+            ]
+        },
+        "part2": {
+            "description": "Return to Cerulean City and cunt the bushes to Route 9",
+            "rewards": [
+                "50 EXP",
+                "$100"
+            ]
+        },
+        "part3": {
+            "description": "Reach Rock Tunnel",
+            "rewards": [
+                "50 EXP",
+                "$100"
+            ]
+        },
+        "part4": {
+            "description": "Find your way though Rock Tunnel",
+            "rewards": [
+                "50 EXP",
+                "$100"
+            ]
+        },
+        "part5": {
+            "description": "Enter Lavender Town",
+            "rewards": [
+                "50 EXP",
+                "$100"
+            ]
+        },
+        "part6": {
+            "description": "Reach the underground pass to Celadon City",
+            "rewards": [
+                "50 EXP",
+                "$100"
+            ]
+        },
+        "part7": {
+            "description": "Enter Celadon City",
+            "rewards": [
+                "50 EXP",
+                "$100"
+            ]
+        },
+        "part8": {
+            "description": "Enter Celadon Gym",
+            "rewards": [
+                "50 EXP",
+                "$100"
+            ]
+        },
+        "part9": {
+            "description": "Challenge Erika",
+            "rewards": [
+                "500 EXP",
+                "$2500",
+                "1x TM53",
+                "Rainbow Badge"
+            ]
+        }
+    },
+    "trouble in town": {
+        "type": "Main Quest",
+        "name": "Trouble in Town",
+        "parts": "7",
+        "part1": {
+            "description": "Talk to Commander Willy at the gate to Saffron City",
+            "rewards": [
+                "50 EXP",
+                "$200"
+            ]
+        },
+        "part2": {
+            "description": "Find Commander Willy some tea",
+            "rewards": [
+                "100 EXP",
+                "$200"
+            ]
+        },
+        "part3": {
+            "description": "Enter Saffron City",
+            "rewards": [
+                "100 EXP",
+                "$200"
+            ]
+        },
+        "part4": {
+            "description": "Find Mr. Silph!",
+            "rewards": [
+                "100 EXP",
+                "$200"
+            ]
+        },
+        "part5": {
+            "description": "Find the card key",
+            "rewards": [
+                "N/A"
+            ]
+        },
+        "part6": {
+            "description": "Reach Mr. Silph on Floor 11",
+            "rewards": [
+                "500 EXP",
+                "$2500"
+            ]
+        },
+        "part7": {
+            "description": "Talk to Mr. Silph",
+            "rewards": [
+                "250 EXP",
+                "$1000",
+                "1x Master Ball"
+            ]
+        }
+    },
+    "the case of mr fuji": {
+        "type": "Main Quest",
+        "name": "The Case of Mr. Fuji",
+        "parts": "8",
+        "part1": {
+            "description": "Visit the Game Corner in Celadon City",
+            "rewards": [
+                "50 EXP",
+                "$100"
+            ]
+        },
+        "part2": {
+            "description": "Search the Game Corner's basement",
+            "rewards": [
+                "50 EXP",
+                "$100"
+            ]
+        },
+        "part3": {
+            "description": "Find the lift key",
+            "rewards": [
+                "50 EXP",
+                "$100"
+            ]
+        },
+        "part4": {
+            "description": "Use the lift to reach Jessie and James",
+            "rewards": [
+                "50 EXP",
+                "$100"
+            ]
+        },
+        "part5": {
+            "description": "Pick up the Silph Scope",
+            "rewards": [
+                "50 EXP",
+                "$200"
+            ]
+        },
+        "part6": {
+            "description": "Travel to Pokemon Tower",
+            "rewards": [
+                "50 EXP",
+                "$100"
+            ]
+        },
+        "part7": {
+            "description": "Find Mr. Fuji inside Pokemon Tower",
+            "rewards": [
+                "100 EXP",
+                "$200"
+            ]
+        },
+        "part8": {
+            "description": "Look for a Silph Scope in Celadon City",
+            "rewards": [
+                "50 EXP",
+                "$100"
+            ]
+        }
+    },
+    "the psy-master": {
+        "type": "Main Quest",
+        "name": "The Psy-Master",
+        "parts": "2",
+        "part1": {
+            "description": "Enter Saffon City",
+            "rewards": [
+                "100 EXP",
+                "$200"
+            ]
+        },
+        "part2": {
+            "description": "Find your way and challenge Sabrina",
+            "rewards": [
+                "500 EXP",
+                "$3500",
+                "1x TM03",
+                "Marsh Badge"
+            ]
+        }
+    },
+    "fuchsia city": {
+        "type": "Main Quest",
+        "name": "Fuchsia City",
+        "parts": "3",
+        "part1": {
+            "description": "Travel to Fuchsia City",
+            "rewards": [
+                "100 EXP"
+            ]
+        },
+        "part2": {
+            "description": "Enter Fuchsia Gym",
+            "rewards": [
+                "100 EXP",
+                "$200"
+            ]
+        },
+        "part3": {
+            "description": "Challenge Koga",
+            "rewards": [
+                "600 EXP",
+                "$3500",
+                "1x TM84",
+                "Soul Badge"
+            ]
+        }
+    },
+    "fleaf glf mfmfl feefh!": {
+        "type": "Main Quest",
+        "name": "fleaf glf mfmfl feefh!",
+        "parts": "2",
+        "part1": {
+            "description": "Find Warden's teeth in Safari Zone!",
+            "rewards": [
+                "N/A"
+            ]
+        },
+        "part2": {
+            "description": "Return the holy grail to it's rightful owner!",
+            "rewards": [
+                "500 EXP",
+                "$2500",
+                "1x HM06"
+            ]
+        }
+    },
+    "cinnabar island": {
+        "type": "Main Quest",
+        "name": "Cinnabar Island",
+        "parts": "6",
+        "part1": {
+            "description": "Find HM03 Surf in the Safari Zone",
+            "rewards": [
+                "250 EXP"
+            ]
+        },
+        "part2": {
+            "description": "Reach the gym on Cinnabar Island",
+            "rewards": [
+                "300 EXP",
+                "$1000"
+            ]
+        },
+        "part3": {
+            "description": "Find the key to Cinnabar Gym",
+            "rewards": [
+                "350 EXP"
+            ]
+        },
+        "part4": {
+            "description": "Enter Cinnabar Gym",
+            "rewards": [
+                "100 EXP"
+            ]
+        },
+        "part5": {
+            "description": "Enter the gym on Seafoam Island",
+            "rewards": [
+                "100 EXP",
+                "$300"
+            ]
+        },
+        "part6": {
+            "description": "Challenge Blaine",
+            "rewards": [
+                "700 EXP",
+                "$4000",
+                "1x TM38",
+                "Volcano Badge"
+            ]
+        }
+    },
+    "the last badge": {
+        "type": "Main Quest",
+        "name": "The Last Badge",
+        "parts": "2",
+        "part1": {
+            "description": "Reach Viridian Gym",
+            "rewards": [
+                "250 EXP",
+                "$500"
+            ]
+        },
+        "part2": {
+            "description": "Challenge the Gym Leader",
+            "rewards": [
+                "1000 EXP",
+                "$5000",
+                "1x TM28",
+                "Earth Badge"
+            ]
+        }
+    },
+    "pokemon league": {
+        "type": "Main Quest",
+        "name": "Pokémon League",
+        "parts": "10",
+        "part1": {
+            "description": "Travel to Route 23",
+            "rewards": [
+                "100 EXP",
+                "$250"
+            ]
+        },
+        "part2": {
+            "description": "Enter Victory Road",
+            "rewards": [
+                "100 EXP",
+                "$250"
+            ]
+        },
+        "part3": {
+            "description": "Cross Victory Road",
+            "rewards": [
+                "500 EXP",
+                "$1000"
+            ]
+        },
+        "part4": {
+            "description": "Get Registered in Pokemon League",
+            "rewards": [
+                "100 EXP",
+                "$250"
+            ]
+        },
+        "part5": {
+            "description": "Enter the chamber of the Elite Four",
+            "rewards": [
+                "N/A"
+            ]
+        },
+        "part6": {
+            "description": "Challenge Lorelei",
+            "rewards": [
+                "N/A"
+            ]
+        },
+        "part7": {
+            "description": "Challenge Bruno",
+            "rewards": [
+                "N/A"
+            ]
+        },
+        "part8": {
+            "description": "Challenge Agatha",
+            "rewards": [
+                "N/A"
+            ]
+        },
+        "part9": {
+            "description": "Challenge Lance",
+            "rewards": [
+                "N/A"
+            ]
+        },
+        "part10": {
+            "description": "The last challenge",
+            "rewards": [
+                "N/A"
+            ]
+        }
+    }
+}

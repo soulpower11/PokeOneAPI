@@ -1,0 +1,541 @@
+{
+  "name": "Cherubi",
+  "national_id": 420,
+  "types": [
+    "Grass"
+  ],
+  "abilities": [{
+    "name": "Chlorophyll"
+  }],
+  "gender_ratios": {
+    "male": 50,
+    "female": 50
+  },
+  "egg_groups": [
+    "Fairy",
+    "Grass"
+  ],
+  "height_us": "1'04\"",
+  "height_eu": "0.4 m",
+  "weight_us": "7.3 lbs.",
+  "weight_eu": "3.3 kg",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 1,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "base_stats": {
+    "hp": 45,
+    "atk": 35,
+    "def": 45,
+    "sp_atk": 62,
+    "sp_def": 53,
+    "speed": 35
+  },
+  "evolutions": [{
+    "to": "Cherrim",
+    "level": 25
+  }],
+  "evolution_from": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM94"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+    "regular_learnset": [{
+          "move": "Morning Sun",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Growth",
+          "level": 7
+        },
+        {
+          "move": "Leech Seed",
+          "level": 10
+        },
+        {
+          "move": "Helping Hand",
+          "level": 13
+        },
+        {
+          "move": "Magical Leaf",
+          "level": 19
+        },
+        {
+          "move": "Sunny Day",
+          "level": 22
+        },
+        {
+          "move": "Worry Seed",
+          "level": 28
+        },
+        {
+          "move": "Take Down",
+          "level": 31
+        },
+        {
+          "move": "Solar Beam",
+          "level": 37
+        },
+        {
+          "move": "Lucky Chant",
+          "level": 40
+        },
+        {
+          "move": "Petal Blizzard",
+          "level": 47
+        },
+        {
+          "move": "Aromatherapy",
+          "egg_move": true
+        },
+        {
+          "move": "Defense Curl",
+          "egg_move": true
+        },
+        {
+          "move": "Flower Shield",
+          "egg_move": true
+        },
+        {
+          "move": "Grass Whistle",
+          "egg_move": true
+        },
+        {
+          "move": "Heal Pulse",
+          "egg_move": true
+        },
+        {
+          "move": "Healing Wish",
+          "egg_move": true
+        },
+        {
+          "move": "Natural Gift",
+          "egg_move": true
+        },
+        {
+          "move": "Nature Power",
+          "egg_move": true
+        },
+        {
+          "move": "Razor Leaf",
+          "egg_move": true
+        },
+        {
+          "move": "Rollout",
+          "egg_move": true
+        },
+        {
+          "move": "Seed Bomb",
+          "egg_move": true
+        },
+        {
+          "move": "Sweet Scent",
+          "egg_move": true
+        },
+        {
+          "move": "Tickle",
+          "egg_move": true
+        },
+        {
+          "move": "Weather Ball",
+          "egg_move": true
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [{
+          "move": "Morning Sun",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Growth",
+          "level": 7
+        },
+        {
+          "move": "Leech Seed",
+          "level": 10
+        },
+        {
+          "move": "Helping Hand",
+          "level": 13
+        },
+        {
+          "move": "Magical Leaf",
+          "level": 19
+        },
+        {
+          "move": "Sunny Day",
+          "level": 22
+        },
+        {
+          "move": "Worry Seed",
+          "level": 28
+        },
+        {
+          "move": "Take Down",
+          "level": 31
+        },
+        {
+          "move": "Solar Beam",
+          "level": 37
+        },
+        {
+          "move": "Lucky Chant",
+          "level": 40
+        },
+        {
+          "move": "Petal Blizzard",
+          "level": 47
+        },
+        {
+          "move": "Aromatherapy",
+          "egg_move": true
+        },
+        {
+          "move": "Defense Curl",
+          "egg_move": true
+        },
+        {
+          "move": "Flower Shield",
+          "egg_move": true
+        },
+        {
+          "move": "Grass Whistle",
+          "egg_move": true
+        },
+        {
+          "move": "Grassy Terrain",
+          "egg_move": true
+        },
+        {
+          "move": "Heal Pulse",
+          "egg_move": true
+        },
+        {
+          "move": "Healing Wish",
+          "egg_move": true
+        },
+        {
+          "move": "Natural Gift",
+          "egg_move": true
+        },
+        {
+          "move": "Nature Power",
+          "egg_move": true
+        },
+        {
+          "move": "Razor Leaf",
+          "egg_move": true
+        },
+        {
+          "move": "Rollout",
+          "egg_move": true
+        },
+        {
+          "move": "Seed Bomb",
+          "egg_move": true
+        },
+        {
+          "move": "Sweet Scent",
+          "egg_move": true
+        },
+        {
+          "move": "Tickle",
+          "egg_move": true
+        },
+        {
+          "move": "Weather Ball",
+          "egg_move": true
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
+}

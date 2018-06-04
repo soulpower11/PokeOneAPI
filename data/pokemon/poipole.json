@@ -1,0 +1,350 @@
+{
+  "name": "Poipole",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 1
+  },
+  "base_stats": {
+    "hp": 67,
+    "atk": 73,
+    "def": 67,
+    "sp_atk": 73,
+    "sp_def": 67,
+    "speed": 73
+  },
+  "evolutions": [{
+    "to": "Naganadel",
+    "level_up": true,
+    "move_learned": "Dragon Pulse"
+  }],
+  "evolution_from": null,
+  "national_id": 803,
+  "types": [
+    "Poison"
+  ],
+  "height_us": "2'0\"",
+  "height_eu": "0.6 m",
+  "weight_us": "4.0 lbs.",
+  "weight_eu": "1.8 kg",
+  "abilities": [{
+    "name": "Beast Boost"
+  }],
+  "egg_groups": [
+    "Undiscovered"
+  ],
+  "gender_ratios": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Venoshock",
+          "tm": "TM09"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Sludge Wave",
+          "tm": "TM34"
+        },
+        {
+          "move": "Sludge Bomb",
+          "tm": "TM36"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Poison Jab",
+          "tm": "TM84"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+    "regular_learnset": [{
+          "move": "Acid",
+          "level": 1
+        },
+        {
+          "move": "Dragon Pulse",
+          "level": 1
+        },
+        {
+          "move": "Growl",
+          "level": 1
+        },
+        {
+          "move": "Helping Hand",
+          "level": 1
+        },
+        {
+          "move": "Peck",
+          "level": 1
+        },
+        {
+          "move": "Fury Attack",
+          "level": 7
+        },
+        {
+          "move": "Venoshock",
+          "level": 13
+        },
+        {
+          "move": "Charm",
+          "level": 19
+        },
+        {
+          "move": "Venom Drench",
+          "level": 23
+        },
+        {
+          "move": "Nasty Plot",
+          "level": 31
+        },
+        {
+          "move": "Poison Jab",
+          "level": 37
+        },
+        {
+          "move": "Toxic",
+          "level": 41
+        },
+        {
+          "move": "Fell Stinger",
+          "level": 47
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Venoshock",
+          "tm": "TM09"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Sludge Wave",
+          "tm": "TM34"
+        },
+        {
+          "move": "Sludge Bomb",
+          "tm": "TM36"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Poison Jab",
+          "tm": "TM84"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [{
+          "move": "Acid",
+          "level": 1
+        },
+        {
+          "move": "Dragon Pulse",
+          "level": 1
+        },
+        {
+          "move": "Growl",
+          "level": 1
+        },
+        {
+          "move": "Helping Hand",
+          "level": 1
+        },
+        {
+          "move": "Peck",
+          "level": 1
+        },
+        {
+          "move": "Fury Attack",
+          "level": 7
+        },
+        {
+          "move": "Venoshock",
+          "level": 13
+        },
+        {
+          "move": "Charm",
+          "level": 19
+        },
+        {
+          "move": "Venom Drench",
+          "level": 23
+        },
+        {
+          "move": "Nasty Plot",
+          "level": 31
+        },
+        {
+          "move": "Poison Jab",
+          "level": 37
+        },
+        {
+          "move": "Toxic",
+          "level": 41
+        },
+        {
+          "move": "Fell Stinger",
+          "level": 47
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Venoshock",
+          "tm": "TM09"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Sludge Wave",
+          "tm": "TM34"
+        },
+        {
+          "move": "Sludge Bomb",
+          "tm": "TM36"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Poison Jab",
+          "tm": "TM84"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,736 @@
+{
+  "name": "Froslass",
+  "national_id": 478,
+  "types": [
+    "Ice",
+    "Ghost"
+  ],
+  "abilities": [{
+      "name": "Snow Cloak"
+    },
+    {
+      "name": "Cursed Body",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "female": 100.0,
+    "male": 0.0
+  },
+  "egg_groups": [
+    "Fairy",
+    "Mineral"
+  ],
+  "height_us": "4'03\"",
+  "height_eu": "1.3 m",
+  "weight_us": "58.6 lbs.",
+  "weight_eu": "26.6 kg",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 2
+  },
+  "base_stats": {
+    "hp": 70,
+    "atk": 80,
+    "def": 70,
+    "sp_atk": 80,
+    "sp_def": 70,
+    "speed": 110
+  },
+  "evolution_from": "Snorunt",
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hail",
+          "tm": "TM07"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Torment",
+          "tm": "TM41"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Embargo",
+          "tm": "TM63"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Frost Breath",
+          "tm": "TM79"
+        },
+        {
+          "move": "Dream Eater",
+          "tm": "TM85"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM94"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+    "regular_learnset": [{
+          "move": "Destiny Bond",
+          "level": 1
+        },
+        {
+          "move": "Double Team",
+          "level": 1
+        },
+        {
+          "move": "Ice Shard",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 1
+        },
+        {
+          "move": "Ominous Wind",
+          "level": 1
+        },
+        {
+          "move": "Powder Snow",
+          "level": 1
+        },
+        {
+          "move": "Double Team",
+          "level": 5
+        },
+        {
+          "move": "Ice Shard",
+          "level": 10
+        },
+        {
+          "move": "Icy Wind",
+          "level": 14
+        },
+        {
+          "move": "Astonish",
+          "level": 19
+        },
+        {
+          "move": "Draining Kiss",
+          "level": 23
+        },
+        {
+          "move": "Will-O-Wisp",
+          "level": 28
+        },
+        {
+          "move": "Confuse Ray",
+          "level": 32
+        },
+        {
+          "move": "Wake-Up Slap",
+          "level": 37
+        },
+        {
+          "move": "Captivate",
+          "level": 41
+        },
+        {
+          "move": "Shadow Ball",
+          "level": 42
+        },
+        {
+          "move": "Blizzard",
+          "level": 48
+        },
+        {
+          "move": "Hail",
+          "level": 54
+        },
+        {
+          "move": "Destiny Bond",
+          "level": 61
+        },
+        {
+          "move": "Avalanche",
+          "egg_move": true
+        },
+        {
+          "move": "Bide",
+          "egg_move": true
+        },
+        {
+          "move": "Block",
+          "egg_move": true
+        },
+        {
+          "move": "Disable",
+          "egg_move": true
+        },
+        {
+          "move": "Fake Tears",
+          "egg_move": true
+        },
+        {
+          "move": "Hex",
+          "egg_move": true
+        },
+        {
+          "move": "Rollout",
+          "egg_move": true
+        },
+        {
+          "move": "Spikes",
+          "egg_move": true
+        },
+        {
+          "move": "Switcheroo",
+          "egg_move": true
+        },
+        {
+          "move": "Weather Ball",
+          "egg_move": true
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hail",
+          "tm": "TM07"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Torment",
+          "tm": "TM41"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Will-O-Wisp",
+          "tm": "TM61"
+        },
+        {
+          "move": "Embargo",
+          "tm": "TM63"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Aurora Veil",
+          "tm": "TM70"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Frost Breath",
+          "tm": "TM79"
+        },
+        {
+          "move": "Dream Eater",
+          "tm": "TM85"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [{
+          "move": "Destiny Bond",
+          "level": 1
+        },
+        {
+          "move": "Double Team",
+          "level": 1
+        },
+        {
+          "move": "Ice Shard",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 1
+        },
+        {
+          "move": "Ominous Wind",
+          "level": 1
+        },
+        {
+          "move": "Powder Snow",
+          "level": 1
+        },
+        {
+          "move": "Double Team",
+          "level": 5
+        },
+        {
+          "move": "Ice Shard",
+          "level": 10
+        },
+        {
+          "move": "Icy Wind",
+          "level": 14
+        },
+        {
+          "move": "Astonish",
+          "level": 19
+        },
+        {
+          "move": "Draining Kiss",
+          "level": 23
+        },
+        {
+          "move": "Will-O-Wisp",
+          "level": 28
+        },
+        {
+          "move": "Confuse Ray",
+          "level": 32
+        },
+        {
+          "move": "Wake-Up Slap",
+          "level": 37
+        },
+        {
+          "move": "Captivate",
+          "level": 41
+        },
+        {
+          "move": "Shadow Ball",
+          "level": 42
+        },
+        {
+          "move": "Blizzard",
+          "level": 48
+        },
+        {
+          "move": "Hail",
+          "level": 54
+        },
+        {
+          "move": "Destiny Bond",
+          "level": 61
+        },
+        {
+          "move": "Avalanche",
+          "egg_move": true
+        },
+        {
+          "move": "Bide",
+          "egg_move": true
+        },
+        {
+          "move": "Block",
+          "egg_move": true
+        },
+        {
+          "move": "Disable",
+          "egg_move": true
+        },
+        {
+          "move": "Fake Tears",
+          "egg_move": true
+        },
+        {
+          "move": "Hex",
+          "egg_move": true
+        },
+        {
+          "move": "Rollout",
+          "egg_move": true
+        },
+        {
+          "move": "Spikes",
+          "egg_move": true
+        },
+        {
+          "move": "Switcheroo",
+          "egg_move": true
+        },
+        {
+          "move": "Weather Ball",
+          "egg_move": true
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hail",
+          "tm": "TM07"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Torment",
+          "tm": "TM41"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Will-O-Wisp",
+          "tm": "TM61"
+        },
+        {
+          "move": "Embargo",
+          "tm": "TM63"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Aurora Veil",
+          "tm": "TM70"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Frost Breath",
+          "tm": "TM79"
+        },
+        {
+          "move": "Dream Eater",
+          "tm": "TM85"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
+}

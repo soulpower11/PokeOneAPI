@@ -1,0 +1,1905 @@
+{
+  "name": "Dugtrio",
+  "national_id": 51,
+  "types": [
+    "Ground"
+  ],
+  "abilities": [{
+      "name": "Sand Veil"
+    },
+    {
+      "name": "Arena Trap"
+    },
+    {
+      "name": "Sand Force",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50,
+    "female": 50
+  },
+  "egg_groups": [
+    "Field"
+  ],
+  "height_us": "2'04\"",
+  "height_eu": "0.7 m",
+  "weight_us": "73.4 lbs.",
+  "weight_eu": "33.3 kg",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 2
+  },
+  "base_stats": {
+    "hp": 35,
+    "atk": 100,
+    "def": 50,
+    "sp_atk": 50,
+    "sp_def": 70,
+    "speed": 120
+  },
+  "evolution_from": "Diglett",
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
+          "move": "Cut",
+          "tm": "HM01"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "HM06"
+        },
+        {
+          "move": "Hone Claws",
+          "tm": "TM01"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Dig",
+          "tm": "TM28"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sludge Wave",
+          "tm": "TM34"
+        },
+        {
+          "move": "Sludge Bomb",
+          "tm": "TM36"
+        },
+        {
+          "move": "Sandstorm",
+          "tm": "TM37"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Shadow Claw",
+          "tm": "TM65"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM94"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+    "regular_learnset": [{
+          "move": "Growl",
+          "level": 1,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Night Slash",
+          "level": 1,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Rototiller",
+          "level": 1,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Sand Attack",
+          "level": 1,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Sand Tomb",
+          "level": 1,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Scratch",
+          "level": 1,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Tri Attack",
+          "level": 1,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Growl",
+          "level": 4,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Astonish",
+          "level": 7,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Mud-Slap",
+          "level": 10,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Magnitude",
+          "level": 14,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Bulldoze",
+          "level": 18,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Sucker Punch",
+          "level": 22,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Mud Bomb",
+          "level": 25,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Earth Power",
+          "level": 30,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Dig",
+          "level": 35,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Slash",
+          "level": 41,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Earthquake",
+          "level": 47,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Fissure",
+          "level": 53,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Growl",
+          "level": 1,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Metal Claw",
+          "level": 1,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Night Slash",
+          "level": 1,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Rototiller",
+          "level": 1,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Sand Attack",
+          "level": 1,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Sand Tomb",
+          "level": 1,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Tri Attack",
+          "level": 1,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Growl",
+          "level": 4,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Astonish",
+          "level": 7,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Mud-Slap",
+          "level": 10,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Magnitude",
+          "level": 14,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Bulldoze",
+          "level": 18,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Sucker Punch",
+          "level": 22,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Mud Bomb",
+          "level": 25,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Earth Power",
+          "level": 30,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Dig",
+          "level": 35,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Iron Head",
+          "level": 41,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Earthquake",
+          "level": 47,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Fissure",
+          "level": 53,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Ancient Power",
+          "egg_move": true,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Astonish",
+          "egg_move": true,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Beat Up",
+          "egg_move": true,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Endure",
+          "egg_move": true,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Feint Attack",
+          "egg_move": true,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Final Gambit",
+          "egg_move": true,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Headbutt",
+          "egg_move": true,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Memento",
+          "egg_move": true,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Mud Bomb",
+          "egg_move": true,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Pursuit",
+          "egg_move": true,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Reversal",
+          "egg_move": true,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Screech",
+          "egg_move": true,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Uproar",
+          "egg_move": true,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Ancient Power",
+          "egg_move": true,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Beat Up",
+          "egg_move": true,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Endure",
+          "egg_move": true,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Feint Attack",
+          "egg_move": true,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Final Gambit",
+          "egg_move": true,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Headbutt",
+          "egg_move": true,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Memento",
+          "egg_move": true,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Metal Sound",
+          "egg_move": true,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Pursuit",
+          "egg_move": true,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Reversal",
+          "egg_move": true,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Thrash",
+          "egg_move": true,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Return",
+          "tm": "TM27",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Sludge Wave",
+          "tm": "TM34",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Sludge Bomb",
+          "tm": "TM36",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Sandstorm",
+          "tm": "TM37",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Round",
+          "tm": "TM48",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Shadow Claw",
+          "tm": "TM65",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Work Up",
+          "tm": "TM01",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Return",
+          "tm": "TM27",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Sludge Wave",
+          "tm": "TM34",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Sludge Bomb",
+          "tm": "TM36",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Sandstorm",
+          "tm": "TM37",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Round",
+          "tm": "TM48",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Shadow Claw",
+          "tm": "TM65",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [{
+          "move": "Growl",
+          "level": 1,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Night Slash",
+          "level": 1,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Rototiller",
+          "level": 1,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Sand Attack",
+          "level": 1,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Sand Tomb",
+          "level": 1,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Scratch",
+          "level": 1,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Tri Attack",
+          "level": 1,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Growl",
+          "level": 4,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Astonish",
+          "level": 7,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Mud-Slap",
+          "level": 10,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Magnitude",
+          "level": 14,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Bulldoze",
+          "level": 18,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Sucker Punch",
+          "level": 22,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Mud Bomb",
+          "level": 25,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Earth Power",
+          "level": 30,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Dig",
+          "level": 35,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Slash",
+          "level": 41,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Earthquake",
+          "level": 47,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Fissure",
+          "level": 53,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Growl",
+          "level": 1,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Metal Claw",
+          "level": 1,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Night Slash",
+          "level": 1,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Rototiller",
+          "level": 1,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Sand Attack",
+          "level": 1,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Sand Tomb",
+          "level": 1,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Tri Attack",
+          "level": 1,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Growl",
+          "level": 4,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Astonish",
+          "level": 7,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Mud-Slap",
+          "level": 10,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Magnitude",
+          "level": 14,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Bulldoze",
+          "level": 18,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Sucker Punch",
+          "level": 22,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Mud Bomb",
+          "level": 25,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Earth Power",
+          "level": 30,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Dig",
+          "level": 35,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Iron Head",
+          "level": 41,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Earthquake",
+          "level": 47,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Fissure",
+          "level": 53,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Ancient Power",
+          "egg_move": true,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Astonish",
+          "egg_move": true,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Beat Up",
+          "egg_move": true,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Endure",
+          "egg_move": true,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Feint Attack",
+          "egg_move": true,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Final Gambit",
+          "egg_move": true,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Headbutt",
+          "egg_move": true,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Memento",
+          "egg_move": true,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Mud Bomb",
+          "egg_move": true,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Pursuit",
+          "egg_move": true,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Reversal",
+          "egg_move": true,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Screech",
+          "egg_move": true,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Uproar",
+          "egg_move": true,
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Ancient Power",
+          "egg_move": true,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Beat Up",
+          "egg_move": true,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Endure",
+          "egg_move": true,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Feint Attack",
+          "egg_move": true,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Final Gambit",
+          "egg_move": true,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Headbutt",
+          "egg_move": true,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Memento",
+          "egg_move": true,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Metal Sound",
+          "egg_move": true,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Pursuit",
+          "egg_move": true,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Reversal",
+          "egg_move": true,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Thrash",
+          "egg_move": true,
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Return",
+          "tm": "TM27",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Sludge Wave",
+          "tm": "TM34",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Sludge Bomb",
+          "tm": "TM36",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Sandstorm",
+          "tm": "TM37",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Round",
+          "tm": "TM48",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Shadow Claw",
+          "tm": "TM65",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100",
+          "variations": [
+            "Dugtrio"
+          ]
+        },
+        {
+          "move": "Work Up",
+          "tm": "TM01",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Return",
+          "tm": "TM27",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Sludge Wave",
+          "tm": "TM34",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Sludge Bomb",
+          "tm": "TM36",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Sandstorm",
+          "tm": "TM37",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Round",
+          "tm": "TM48",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Shadow Claw",
+          "tm": "TM65",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100",
+          "variations": [
+            "Alolan Dugtrio"
+          ]
+        }
+      ]
+    }
+  ]
+}

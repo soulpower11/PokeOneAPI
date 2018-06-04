@@ -1,0 +1,673 @@
+{
+  "name": "Duskull",
+  "national_id": 355,
+  "types": [
+    "Ghost"
+  ],
+  "abilities": [{
+      "name": "Levitate"
+    },
+    {
+      "name": "Frisk",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50,
+    "female": 50
+  },
+  "egg_groups": [
+    "Amorphous"
+  ],
+  "height_us": "2'07\"",
+  "height_eu": "0.8 m",
+  "weight_us": "33.1 lbs.",
+  "weight_eu": "15.0 kg",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 1,
+    "speed": 0
+  },
+  "base_stats": {
+    "hp": 20,
+    "atk": 40,
+    "def": 90,
+    "sp_atk": 30,
+    "sp_def": 90,
+    "speed": 25
+  },
+  "evolutions": [{
+    "to": "Dusclops",
+    "level": 37
+  }],
+  "evolution_from": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Torment",
+          "tm": "TM41"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Will-O-Wisp",
+          "tm": "TM61"
+        },
+        {
+          "move": "Embargo",
+          "tm": "TM63"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Infestation",
+          "tm": "TM83"
+        },
+        {
+          "move": "Dream Eater",
+          "tm": "TM85"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Trick Room",
+          "tm": "TM92"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM94"
+        },
+        {
+          "move": "Dark Pulse",
+          "tm": "TM97"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+    "regular_learnset": [{
+          "move": "Leer",
+          "level": 1
+        },
+        {
+          "move": "Night Shade",
+          "level": 1
+        },
+        {
+          "move": "Disable",
+          "level": 6
+        },
+        {
+          "move": "Astonish",
+          "level": 9
+        },
+        {
+          "move": "Foresight",
+          "level": 14
+        },
+        {
+          "move": "Shadow Sneak",
+          "level": 17
+        },
+        {
+          "move": "Pursuit",
+          "level": 22
+        },
+        {
+          "move": "Will-O-Wisp",
+          "level": 25
+        },
+        {
+          "move": "Confuse Ray",
+          "level": 30
+        },
+        {
+          "move": "Curse",
+          "level": 33
+        },
+        {
+          "move": "Hex",
+          "level": 38
+        },
+        {
+          "move": "Shadow Ball",
+          "level": 41
+        },
+        {
+          "move": "Mean Look",
+          "level": 46
+        },
+        {
+          "move": "Payback",
+          "level": 49
+        },
+        {
+          "move": "Future Sight",
+          "level": 54
+        },
+        {
+          "move": "Dark Pulse",
+          "egg_move": true
+        },
+        {
+          "move": "Destiny Bond",
+          "egg_move": true
+        },
+        {
+          "move": "Feint Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Grudge",
+          "egg_move": true
+        },
+        {
+          "move": "Haze",
+          "egg_move": true
+        },
+        {
+          "move": "Imprison",
+          "egg_move": true
+        },
+        {
+          "move": "Memento",
+          "egg_move": true
+        },
+        {
+          "move": "Ominous Wind",
+          "egg_move": true
+        },
+        {
+          "move": "Pain Split",
+          "egg_move": true
+        },
+        {
+          "move": "Skill Swap",
+          "egg_move": true
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM04"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Torment",
+          "tm": "TM41"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Will-O-Wisp",
+          "tm": "TM61"
+        },
+        {
+          "move": "Embargo",
+          "tm": "TM63"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Infestation",
+          "tm": "TM83"
+        },
+        {
+          "move": "Dream Eater",
+          "tm": "TM85"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Trick Room",
+          "tm": "TM92"
+        },
+        {
+          "move": "Dark Pulse",
+          "tm": "TM97"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [{
+          "move": "Leer",
+          "level": 1
+        },
+        {
+          "move": "Night Shade",
+          "level": 1
+        },
+        {
+          "move": "Disable",
+          "level": 6
+        },
+        {
+          "move": "Astonish",
+          "level": 9
+        },
+        {
+          "move": "Foresight",
+          "level": 14
+        },
+        {
+          "move": "Shadow Sneak",
+          "level": 17
+        },
+        {
+          "move": "Pursuit",
+          "level": 22
+        },
+        {
+          "move": "Will-O-Wisp",
+          "level": 25
+        },
+        {
+          "move": "Confuse Ray",
+          "level": 30
+        },
+        {
+          "move": "Curse",
+          "level": 33
+        },
+        {
+          "move": "Hex",
+          "level": 38
+        },
+        {
+          "move": "Shadow Ball",
+          "level": 41
+        },
+        {
+          "move": "Mean Look",
+          "level": 46
+        },
+        {
+          "move": "Payback",
+          "level": 49
+        },
+        {
+          "move": "Future Sight",
+          "level": 54
+        },
+        {
+          "move": "Dark Pulse",
+          "egg_move": true
+        },
+        {
+          "move": "Destiny Bond",
+          "egg_move": true
+        },
+        {
+          "move": "Feint Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Grudge",
+          "egg_move": true
+        },
+        {
+          "move": "Haze",
+          "egg_move": true
+        },
+        {
+          "move": "Imprison",
+          "egg_move": true
+        },
+        {
+          "move": "Memento",
+          "egg_move": true
+        },
+        {
+          "move": "Ominous Wind",
+          "egg_move": true
+        },
+        {
+          "move": "Pain Split",
+          "egg_move": true
+        },
+        {
+          "move": "Skill Swap",
+          "egg_move": true
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM04"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Torment",
+          "tm": "TM41"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Will-O-Wisp",
+          "tm": "TM61"
+        },
+        {
+          "move": "Embargo",
+          "tm": "TM63"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Infestation",
+          "tm": "TM83"
+        },
+        {
+          "move": "Dream Eater",
+          "tm": "TM85"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Trick Room",
+          "tm": "TM92"
+        },
+        {
+          "move": "Dark Pulse",
+          "tm": "TM97"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
+}

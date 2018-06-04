@@ -1,0 +1,594 @@
+{
+  "name": "Seadra",
+  "national_id": 117,
+  "types": [
+    "Water"
+  ],
+  "abilities": [{
+      "name": "Poison Point"
+    },
+    {
+      "name": "Sniper"
+    },
+    {
+      "name": "Damp",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50,
+    "female": 50
+  },
+  "egg_groups": [
+    "Water 1",
+    "Dragon"
+  ],
+  "height_us": "3'11\"",
+  "height_eu": "1.2 m",
+  "weight_us": "55.1 lbs.",
+  "weight_eu": "25.0 kg",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 1,
+    "sp_atk": 1,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "base_stats": {
+    "hp": 55,
+    "atk": 65,
+    "def": 95,
+    "sp_atk": 95,
+    "sp_def": 45,
+    "speed": 85
+  },
+  "evolution_from": "Horsea",
+  "evolutions": [{
+    "to": "Kingdra",
+    "trade": true,
+    "hold_item": "Dragon Scale"
+  }],
+  "move_learnsets": [{
+      "tm_learnset": [{
+          "move": "Surf",
+          "tm": "HM03"
+        },
+        {
+          "move": "Waterfall",
+          "tm": "HM05"
+        },
+        {
+          "move": "Dive",
+          "tm": "HM07"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hail",
+          "tm": "TM07"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Scald",
+          "tm": "TM55"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM94"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+    "regular_learnset": [{
+          "move": "Bubble",
+          "level": 1
+        },
+        {
+          "move": "Hydro Pump",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 1
+        },
+        {
+          "move": "Smokescreen",
+          "level": 1
+        },
+        {
+          "move": "Water Gun",
+          "level": 1
+        },
+        {
+          "move": "Smokescreen",
+          "level": 5
+        },
+        {
+          "move": "Leer",
+          "level": 9
+        },
+        {
+          "move": "Water Gun",
+          "level": 13
+        },
+        {
+          "move": "Twister",
+          "level": 17
+        },
+        {
+          "move": "Bubble Beam",
+          "level": 21
+        },
+        {
+          "move": "Focus Energy",
+          "level": 26
+        },
+        {
+          "move": "Brine",
+          "level": 31
+        },
+        {
+          "move": "Agility",
+          "level": 38
+        },
+        {
+          "move": "Dragon Pulse",
+          "level": 45
+        },
+        {
+          "move": "Dragon Dance",
+          "level": 52
+        },
+        {
+          "move": "Hydro Pump",
+          "level": 60
+        },
+        {
+          "move": "Aurora Beam",
+          "egg_move": true
+        },
+        {
+          "move": "Clear Smog",
+          "egg_move": true
+        },
+        {
+          "move": "Disable",
+          "egg_move": true
+        },
+        {
+          "move": "Dragon Breath",
+          "egg_move": true
+        },
+        {
+          "move": "Dragon Rage",
+          "egg_move": true
+        },
+        {
+          "move": "Flail",
+          "egg_move": true
+        },
+        {
+          "move": "Muddy Water",
+          "egg_move": true
+        },
+        {
+          "move": "Octazooka",
+          "egg_move": true
+        },
+        {
+          "move": "Outrage",
+          "egg_move": true
+        },
+        {
+          "move": "Razor Wind",
+          "egg_move": true
+        },
+        {
+          "move": "Signal Beam",
+          "egg_move": true
+        },
+        {
+          "move": "Splash",
+          "egg_move": true
+        },
+        {
+          "move": "Water Pulse",
+          "egg_move": true
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hail",
+          "tm": "TM07"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Scald",
+          "tm": "TM55"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Surf",
+          "tm": "TM94"
+        },
+        {
+          "move": "Waterfall",
+          "tm": "TM98"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [{
+          "move": "Bubble",
+          "level": 1
+        },
+        {
+          "move": "Hydro Pump",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 1
+        },
+        {
+          "move": "Smokescreen",
+          "level": 1
+        },
+        {
+          "move": "Water Gun",
+          "level": 1
+        },
+        {
+          "move": "Smokescreen",
+          "level": 5
+        },
+        {
+          "move": "Leer",
+          "level": 9
+        },
+        {
+          "move": "Water Gun",
+          "level": 13
+        },
+        {
+          "move": "Twister",
+          "level": 17
+        },
+        {
+          "move": "Bubble Beam",
+          "level": 21
+        },
+        {
+          "move": "Focus Energy",
+          "level": 26
+        },
+        {
+          "move": "Brine",
+          "level": 31
+        },
+        {
+          "move": "Agility",
+          "level": 38
+        },
+        {
+          "move": "Dragon Pulse",
+          "level": 45
+        },
+        {
+          "move": "Dragon Dance",
+          "level": 52
+        },
+        {
+          "move": "Hydro Pump",
+          "level": 60
+        },
+        {
+          "move": "Aurora Beam",
+          "egg_move": true
+        },
+        {
+          "move": "Clear Smog",
+          "egg_move": true
+        },
+        {
+          "move": "Disable",
+          "egg_move": true
+        },
+        {
+          "move": "Dragon Breath",
+          "egg_move": true
+        },
+        {
+          "move": "Dragon Rage",
+          "egg_move": true
+        },
+        {
+          "move": "Flail",
+          "egg_move": true
+        },
+        {
+          "move": "Muddy Water",
+          "egg_move": true
+        },
+        {
+          "move": "Octazooka",
+          "egg_move": true
+        },
+        {
+          "move": "Outrage",
+          "egg_move": true
+        },
+        {
+          "move": "Razor Wind",
+          "egg_move": true
+        },
+        {
+          "move": "Signal Beam",
+          "egg_move": true
+        },
+        {
+          "move": "Splash",
+          "egg_move": true
+        },
+        {
+          "move": "Water Pulse",
+          "egg_move": true
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hail",
+          "tm": "TM07"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Scald",
+          "tm": "TM55"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Surf",
+          "tm": "TM94"
+        },
+        {
+          "move": "Waterfall",
+          "tm": "TM98"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
+}

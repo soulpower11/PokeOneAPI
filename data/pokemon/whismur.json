@@ -1,0 +1,570 @@
+{
+  "name": "Whismur",
+  "national_id": 293,
+  "types": [
+    "Normal"
+  ],
+  "abilities": [{
+      "name": "Soundproof"
+    },
+    {
+      "name": "Rattled",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50,
+    "female": 50
+  },
+  "egg_groups": [
+    "Monster",
+    "Field"
+  ],
+  "height_us": "2'00\"",
+  "height_eu": "0.6 m",
+  "weight_us": "35.9 lbs.",
+  "weight_eu": "16.3 kg",
+  "ev_yield": {
+    "hp": 1,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "base_stats": {
+    "hp": 64,
+    "atk": 51,
+    "def": 23,
+    "sp_atk": 51,
+    "sp_def": 23,
+    "speed": 28
+  },
+  "evolutions": [{
+    "to": "Loudred",
+    "level": 20
+  }],
+  "evolution_from": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
+          "move": "Roar",
+          "tm": "TM05"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Flamethrower",
+          "tm": "TM35"
+        },
+        {
+          "move": "Fire Blast",
+          "tm": "TM38"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Incinerate",
+          "tm": "TM59"
+        },
+        {
+          "move": "Retaliate",
+          "tm": "TM67"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM94"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+    "regular_learnset": [{
+          "move": "Pound",
+          "level": 1
+        },
+        {
+          "move": "Echoed Voice",
+          "level": 4
+        },
+        {
+          "move": "Astonish",
+          "level": 8
+        },
+        {
+          "move": "Howl",
+          "level": 11
+        },
+        {
+          "move": "Screech",
+          "level": 15
+        },
+        {
+          "move": "Supersonic",
+          "level": 18
+        },
+        {
+          "move": "Stomp",
+          "level": 22
+        },
+        {
+          "move": "Uproar",
+          "level": 25
+        },
+        {
+          "move": "Roar",
+          "level": 29
+        },
+        {
+          "move": "Rest",
+          "level": 32
+        },
+        {
+          "move": "Sleep Talk",
+          "level": 36
+        },
+        {
+          "move": "Hyper Voice",
+          "level": 39
+        },
+        {
+          "move": "Synchronoise",
+          "level": 43
+        },
+        {
+          "move": "Circle Throw",
+          "egg_move": true
+        },
+        {
+          "move": "Disarming Voice",
+          "egg_move": true
+        },
+        {
+          "move": "Endeavor",
+          "egg_move": true
+        },
+        {
+          "move": "Extrasensory",
+          "egg_move": true
+        },
+        {
+          "move": "Fake Tears",
+          "egg_move": true
+        },
+        {
+          "move": "Hammer Arm",
+          "egg_move": true
+        },
+        {
+          "move": "Smelling Salts",
+          "egg_move": true
+        },
+        {
+          "move": "Smokescreen",
+          "egg_move": true
+        },
+        {
+          "move": "Snore",
+          "egg_move": true
+        },
+        {
+          "move": "Take Down",
+          "egg_move": true
+        },
+        {
+          "move": "Work Up",
+          "tm": "TM01"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM05"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Flamethrower",
+          "tm": "TM35"
+        },
+        {
+          "move": "Fire Blast",
+          "tm": "TM38"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [{
+          "move": "Pound",
+          "level": 1
+        },
+        {
+          "move": "Echoed Voice",
+          "level": 4
+        },
+        {
+          "move": "Astonish",
+          "level": 8
+        },
+        {
+          "move": "Howl",
+          "level": 11
+        },
+        {
+          "move": "Screech",
+          "level": 15
+        },
+        {
+          "move": "Supersonic",
+          "level": 18
+        },
+        {
+          "move": "Stomp",
+          "level": 22
+        },
+        {
+          "move": "Uproar",
+          "level": 25
+        },
+        {
+          "move": "Roar",
+          "level": 29
+        },
+        {
+          "move": "Rest",
+          "level": 32
+        },
+        {
+          "move": "Sleep Talk",
+          "level": 36
+        },
+        {
+          "move": "Hyper Voice",
+          "level": 39
+        },
+        {
+          "move": "Synchronoise",
+          "level": 43
+        },
+        {
+          "move": "Circle Throw",
+          "egg_move": true
+        },
+        {
+          "move": "Disarming Voice",
+          "egg_move": true
+        },
+        {
+          "move": "Endeavor",
+          "egg_move": true
+        },
+        {
+          "move": "Extrasensory",
+          "egg_move": true
+        },
+        {
+          "move": "Fake Tears",
+          "egg_move": true
+        },
+        {
+          "move": "Hammer Arm",
+          "egg_move": true
+        },
+        {
+          "move": "Smelling Salts",
+          "egg_move": true
+        },
+        {
+          "move": "Smokescreen",
+          "egg_move": true
+        },
+        {
+          "move": "Snore",
+          "egg_move": true
+        },
+        {
+          "move": "Take Down",
+          "egg_move": true
+        },
+        {
+          "move": "Whirlwind",
+          "egg_move": true
+        },
+        {
+          "move": "Work Up",
+          "tm": "TM01"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM05"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Flamethrower",
+          "tm": "TM35"
+        },
+        {
+          "move": "Fire Blast",
+          "tm": "TM38"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
+}

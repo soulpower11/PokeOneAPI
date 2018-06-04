@@ -1,0 +1,673 @@
+{
+  "name": "Tentacool",
+  "national_id": 72,
+  "types": [
+    "Water",
+    "Poison"
+  ],
+  "abilities": [{
+      "name": "Clear Body"
+    },
+    {
+      "name": "Liquid Ooze"
+    },
+    {
+      "name": "Rain Dish",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50,
+    "female": 50
+  },
+  "egg_groups": [
+    "Water 3"
+  ],
+  "height_us": "2'11\"",
+  "height_eu": "0.9 m",
+  "weight_us": "100.3 lbs.",
+  "weight_eu": "45.5 kg",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 1,
+    "speed": 0
+  },
+  "base_stats": {
+    "hp": 40,
+    "atk": 40,
+    "def": 35,
+    "sp_atk": 50,
+    "sp_def": 100,
+    "speed": 70
+  },
+  "evolutions": [{
+    "to": "Tentacruel",
+    "level": 30
+  }],
+  "evolution_from": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
+          "move": "Cut",
+          "tm": "HM01"
+        },
+        {
+          "move": "Surf",
+          "tm": "HM03"
+        },
+        {
+          "move": "Waterfall",
+          "tm": "HM05"
+        },
+        {
+          "move": "Dive",
+          "tm": "HM07"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hail",
+          "tm": "TM07"
+        },
+        {
+          "move": "Venoshock",
+          "tm": "TM09"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sludge Wave",
+          "tm": "TM34"
+        },
+        {
+          "move": "Sludge Bomb",
+          "tm": "TM36"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Scald",
+          "tm": "TM55"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Infestation",
+          "tm": "TM83"
+        },
+        {
+          "move": "Poison Jab",
+          "tm": "TM84"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM94"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+    "regular_learnset": [{
+          "move": "Poison Sting",
+          "level": 1
+        },
+        {
+          "move": "Supersonic",
+          "level": 4
+        },
+        {
+          "move": "Constrict",
+          "level": 7
+        },
+        {
+          "move": "Acid",
+          "level": 10
+        },
+        {
+          "move": "Toxic Spikes",
+          "level": 13
+        },
+        {
+          "move": "Water Pulse",
+          "level": 16
+        },
+        {
+          "move": "Wrap",
+          "level": 19
+        },
+        {
+          "move": "Acid Spray",
+          "level": 22
+        },
+        {
+          "move": "Bubble Beam",
+          "level": 25
+        },
+        {
+          "move": "Barrier",
+          "level": 28
+        },
+        {
+          "move": "Poison Jab",
+          "level": 31
+        },
+        {
+          "move": "Brine",
+          "level": 34
+        },
+        {
+          "move": "Screech",
+          "level": 37
+        },
+        {
+          "move": "Hex",
+          "level": 40
+        },
+        {
+          "move": "Sludge Wave",
+          "level": 43
+        },
+        {
+          "move": "Hydro Pump",
+          "level": 46
+        },
+        {
+          "move": "Wring Out",
+          "level": 49
+        },
+        {
+          "move": "Acupressure",
+          "egg_move": true
+        },
+        {
+          "move": "Aqua Ring",
+          "egg_move": true
+        },
+        {
+          "move": "Aurora Beam",
+          "egg_move": true
+        },
+        {
+          "move": "Bubble",
+          "egg_move": true
+        },
+        {
+          "move": "Confuse Ray",
+          "egg_move": true
+        },
+        {
+          "move": "Haze",
+          "egg_move": true
+        },
+        {
+          "move": "Knock Off",
+          "egg_move": true
+        },
+        {
+          "move": "Mirror Coat",
+          "egg_move": true
+        },
+        {
+          "move": "Muddy Water",
+          "egg_move": true
+        },
+        {
+          "move": "Rapid Spin",
+          "egg_move": true
+        },
+        {
+          "move": "Tickle",
+          "egg_move": true
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hail",
+          "tm": "TM07"
+        },
+        {
+          "move": "Venoshock",
+          "tm": "TM09"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sludge Wave",
+          "tm": "TM34"
+        },
+        {
+          "move": "Sludge Bomb",
+          "tm": "TM36"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Scald",
+          "tm": "TM55"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Infestation",
+          "tm": "TM83"
+        },
+        {
+          "move": "Poison Jab",
+          "tm": "TM84"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Surf",
+          "tm": "TM94"
+        },
+        {
+          "move": "Waterfall",
+          "tm": "TM98"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [{
+          "move": "Poison Sting",
+          "level": 1
+        },
+        {
+          "move": "Supersonic",
+          "level": 4
+        },
+        {
+          "move": "Constrict",
+          "level": 7
+        },
+        {
+          "move": "Acid",
+          "level": 10
+        },
+        {
+          "move": "Toxic Spikes",
+          "level": 13
+        },
+        {
+          "move": "Water Pulse",
+          "level": 16
+        },
+        {
+          "move": "Wrap",
+          "level": 19
+        },
+        {
+          "move": "Acid Spray",
+          "level": 22
+        },
+        {
+          "move": "Bubble Beam",
+          "level": 25
+        },
+        {
+          "move": "Barrier",
+          "level": 28
+        },
+        {
+          "move": "Poison Jab",
+          "level": 31
+        },
+        {
+          "move": "Brine",
+          "level": 34
+        },
+        {
+          "move": "Screech",
+          "level": 37
+        },
+        {
+          "move": "Hex",
+          "level": 40
+        },
+        {
+          "move": "Sludge Wave",
+          "level": 43
+        },
+        {
+          "move": "Hydro Pump",
+          "level": 46
+        },
+        {
+          "move": "Wring Out",
+          "level": 49
+        },
+        {
+          "move": "Acupressure",
+          "egg_move": true
+        },
+        {
+          "move": "Aqua Ring",
+          "egg_move": true
+        },
+        {
+          "move": "Aurora Beam",
+          "egg_move": true
+        },
+        {
+          "move": "Bubble",
+          "egg_move": true
+        },
+        {
+          "move": "Confuse Ray",
+          "egg_move": true
+        },
+        {
+          "move": "Haze",
+          "egg_move": true
+        },
+        {
+          "move": "Knock Off",
+          "egg_move": true
+        },
+        {
+          "move": "Mirror Coat",
+          "egg_move": true
+        },
+        {
+          "move": "Muddy Water",
+          "egg_move": true
+        },
+        {
+          "move": "Rapid Spin",
+          "egg_move": true
+        },
+        {
+          "move": "Tickle",
+          "egg_move": true
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hail",
+          "tm": "TM07"
+        },
+        {
+          "move": "Venoshock",
+          "tm": "TM09"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sludge Wave",
+          "tm": "TM34"
+        },
+        {
+          "move": "Sludge Bomb",
+          "tm": "TM36"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Scald",
+          "tm": "TM55"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Infestation",
+          "tm": "TM83"
+        },
+        {
+          "move": "Poison Jab",
+          "tm": "TM84"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Surf",
+          "tm": "TM94"
+        },
+        {
+          "move": "Waterfall",
+          "tm": "TM98"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
+}

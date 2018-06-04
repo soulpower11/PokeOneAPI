@@ -1,0 +1,646 @@
+{
+  "name": "Roselia",
+  "national_id": 315,
+  "types": [
+    "Grass",
+    "Poison"
+  ],
+  "abilities": [{
+      "name": "Natural Cure"
+    },
+    {
+      "name": "Poison Point"
+    },
+    {
+      "name": "Leaf Guard",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50,
+    "female": 50
+  },
+  "egg_groups": [
+    "Fairy",
+    "Grass"
+  ],
+  "height_us": "1'00\"",
+  "height_eu": "0.3 m",
+  "weight_us": "4.4 lbs.",
+  "weight_eu": "2.0 kg",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 2,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "base_stats": {
+    "hp": 50,
+    "atk": 60,
+    "def": 45,
+    "sp_atk": 100,
+    "sp_def": 80,
+    "speed": 65
+  },
+  "evolutions": [{
+    "to": "Roserade",
+    "item": "Shiny Stone"
+  }],
+  "evolution_from": "Budew",
+  "move_learnsets": [{
+      "tm_learnset": [{
+          "move": "Cut",
+          "tm": "HM01"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Venoshock",
+          "tm": "TM09"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sludge Bomb",
+          "tm": "TM36"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Poison Jab",
+          "tm": "TM84"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM94"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+    "regular_learnset": [{
+          "move": "Absorb",
+          "level": 1
+        },
+        {
+          "move": "Growth",
+          "level": 4
+        },
+        {
+          "move": "Poison Sting",
+          "level": 7
+        },
+        {
+          "move": "Stun Spore",
+          "level": 10
+        },
+        {
+          "move": "Mega Drain",
+          "level": 13
+        },
+        {
+          "move": "Leech Seed",
+          "level": 16
+        },
+        {
+          "move": "Magical Leaf",
+          "level": 19
+        },
+        {
+          "move": "Grass Whistle",
+          "level": 22
+        },
+        {
+          "move": "Giga Drain",
+          "level": 25
+        },
+        {
+          "move": "Toxic Spikes",
+          "level": 28
+        },
+        {
+          "move": "Sweet Scent",
+          "level": 31
+        },
+        {
+          "move": "Ingrain",
+          "level": 34
+        },
+        {
+          "move": "Petal Blizzard",
+          "level": 37
+        },
+        {
+          "move": "Toxic",
+          "level": 40
+        },
+        {
+          "move": "Aromatherapy",
+          "level": 43
+        },
+        {
+          "move": "Synthesis",
+          "level": 46
+        },
+        {
+          "move": "Petal Dance",
+          "level": 50
+        },
+        {
+          "move": "Cotton Spore",
+          "egg_move": true
+        },
+        {
+          "move": "Extrasensory",
+          "egg_move": true
+        },
+        {
+          "move": "Giga Drain",
+          "egg_move": true
+        },
+        {
+          "move": "Grass Whistle",
+          "egg_move": true
+        },
+        {
+          "move": "Leaf Storm",
+          "egg_move": true
+        },
+        {
+          "move": "Mind Reader",
+          "egg_move": true
+        },
+        {
+          "move": "Natural Gift",
+          "egg_move": true
+        },
+        {
+          "move": "Pin Missile",
+          "egg_move": true
+        },
+        {
+          "move": "Razor Leaf",
+          "egg_move": true
+        },
+        {
+          "move": "Seed Bomb",
+          "egg_move": true
+        },
+        {
+          "move": "Sleep Powder",
+          "egg_move": true
+        },
+        {
+          "move": "Spikes",
+          "egg_move": true
+        },
+        {
+          "move": "Synthesis",
+          "egg_move": true
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Venoshock",
+          "tm": "TM09"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sludge Bomb",
+          "tm": "TM36"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Poison Jab",
+          "tm": "TM84"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [{
+          "move": "Absorb",
+          "level": 1
+        },
+        {
+          "move": "Growth",
+          "level": 4
+        },
+        {
+          "move": "Poison Sting",
+          "level": 7
+        },
+        {
+          "move": "Stun Spore",
+          "level": 10
+        },
+        {
+          "move": "Mega Drain",
+          "level": 13
+        },
+        {
+          "move": "Leech Seed",
+          "level": 16
+        },
+        {
+          "move": "Magical Leaf",
+          "level": 19
+        },
+        {
+          "move": "Grass Whistle",
+          "level": 22
+        },
+        {
+          "move": "Giga Drain",
+          "level": 25
+        },
+        {
+          "move": "Toxic Spikes",
+          "level": 28
+        },
+        {
+          "move": "Sweet Scent",
+          "level": 31
+        },
+        {
+          "move": "Ingrain",
+          "level": 34
+        },
+        {
+          "move": "Petal Blizzard",
+          "level": 37
+        },
+        {
+          "move": "Toxic",
+          "level": 40
+        },
+        {
+          "move": "Aromatherapy",
+          "level": 43
+        },
+        {
+          "move": "Synthesis",
+          "level": 46
+        },
+        {
+          "move": "Petal Dance",
+          "level": 50
+        },
+        {
+          "move": "Bullet Seed",
+          "egg_move": true
+        },
+        {
+          "move": "Cotton Spore",
+          "egg_move": true
+        },
+        {
+          "move": "Giga Drain",
+          "egg_move": true
+        },
+        {
+          "move": "Grass Whistle",
+          "egg_move": true
+        },
+        {
+          "move": "Leaf Storm",
+          "egg_move": true
+        },
+        {
+          "move": "Mind Reader",
+          "egg_move": true
+        },
+        {
+          "move": "Natural Gift",
+          "egg_move": true
+        },
+        {
+          "move": "Pin Missile",
+          "egg_move": true
+        },
+        {
+          "move": "Power Whip",
+          "egg_move": true
+        },
+        {
+          "move": "Razor Leaf",
+          "egg_move": true
+        },
+        {
+          "move": "Seed Bomb",
+          "egg_move": true
+        },
+        {
+          "move": "Sleep Powder",
+          "egg_move": true
+        },
+        {
+          "move": "Spikes",
+          "egg_move": true
+        },
+        {
+          "move": "Synthesis",
+          "egg_move": true
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Venoshock",
+          "tm": "TM09"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sludge Bomb",
+          "tm": "TM36"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Poison Jab",
+          "tm": "TM84"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
+}

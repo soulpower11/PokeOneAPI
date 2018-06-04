@@ -1,0 +1,167 @@
+{
+    "adamant": {
+        "name": "Adamant",
+        "increase": "Attack",
+        "likes": "Spicy",
+        "decrease": "Special Attack",
+        "dislikes": "Dry"
+    },
+    "bashful": {
+        "name": "Bashful",
+        "increase": null,
+        "decrease": null
+    },
+    "bold": {
+        "name": "Bold",
+        "increase": "Defense",
+        "likes": "Sour",
+        "decrease": "Attack",
+        "dislikes": "Spicy"
+    },
+    "brave": {
+        "name": "Brave",
+        "increase": "Attack",
+        "likes": "Spicy",
+        "decrease": "Speed",
+        "dislikes": "Sweet"
+    },
+    "calm": {
+        "name": "Calm",
+        "increase": "Special Defense",
+        "likes": "Bitter",
+        "decrease": "Attack",
+        "dislikes": "Spicy"
+    },
+    "careful": {
+        "name": "Careful",
+        "increase": "Special Defense",
+        "likes": "Bitter",
+        "decrease": "Special Attack",
+        "dislikes": "Dry"
+    },
+    "docile": {
+        "name": "Docile",
+        "increase": null,
+        "decrease": null
+    },
+    "gentle": {
+        "name": "Gentle",
+        "increase": "Special Defense",
+        "likes": "Bitter",
+        "decrease": "Defense",
+        "dislikes": "Sour"
+    },
+    "hardy": {
+        "name": "Hardy",
+        "increase": null,
+        "decrease": null
+    },
+    "hasty": {
+        "name": "Hasty",
+        "increase": "Speed",
+        "likes": "Sweet",
+        "decrease": "Defense",
+        "dislikes": "Sour"
+    },
+    "impish": {
+        "name": "Impish",
+        "increase": "Defense",
+        "likes": "Sour",
+        "decrease": "Special Attack",
+        "dislikes": "Dry"
+    },
+    "jolly": {
+        "name": "Jolly",
+        "increase": "Speed",
+        "likes": "Sweet",
+        "decrease": "Special Attack",
+        "dislikes": "Dry"
+    },
+    "lax": {
+        "name": "Lax",
+        "increase": "Defense",
+        "likes": "Sour",
+        "decrease": "Special Defense",
+        "dislikes": "Bitter"
+    },
+    "lonely": {
+        "name": "Lonely",
+        "increase": "Attack",
+        "likes": "Spicy",
+        "decrease": "Defense",
+        "dislikes": "Sour"
+    },
+    "mild": {
+        "name": "Mild",
+        "increase": "Special Attack",
+        "likes": "Dry",
+        "decrease": "Defense",
+        "dislikes": "Sour"
+    },
+    "modest": {
+        "name": "Modest",
+        "increase": "Special Attack",
+        "likes": "Dry",
+        "decrease": "Attack",
+        "dislikes": "Spicy"
+    },
+    "naive": {
+        "name": "Naive",
+        "increase": "Speed",
+        "likes": "Sweet",
+        "decrease": "Special Defense",
+        "dislikes": "Bitter"
+    },
+    "naughty": {
+        "name": "Naughty",
+        "increase": "Attack",
+        "likes": "Spicy",
+        "decrease": "Special Defense",
+        "dislikes": "Bitter"
+    },
+    "quiet": {
+        "name": "Quiet",
+        "increase": "Special Attack",
+        "likes": "Dry",
+        "decrease": "Speed",
+        "dislikes": "Sweet"
+    },
+    "quirky": {
+        "name": "Quirky",
+        "increase": null,
+        "decrease": null
+    },
+    "rash": {
+        "name": "Rash",
+        "increase": "Special Attack",
+        "likes": "Dry",
+        "decrease": "Special Defense",
+        "dislikes": "Bitter"
+    },
+    "relaxed": {
+        "name": "Relaxed",
+        "increase": "Defense",
+        "likes": "Sour",
+        "decrease": "Speed",
+        "dislikes": "Sweet"
+    },
+    "sassy": {
+        "name": "Sassy",
+        "increase": "Special Defense",
+        "likes": "Bitter",
+        "decrease": "Speed",
+        "dislikes": "Sweet"
+    },
+    "serious": {
+        "name": "Serious",
+        "increase": null,
+        "decrease": null
+    },
+    "timid": {
+        "name": "Timid",
+        "increase": "Speed",
+        "likes": "Sweet",
+        "decrease": "Attack",
+        "dislikes": "Spicy"
+    }
+}

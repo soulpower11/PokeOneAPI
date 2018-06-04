@@ -1,0 +1,567 @@
+{
+  "name": "Cottonee",
+  "national_id": 546,
+  "types": [
+    "Grass",
+    "Fairy"
+  ],
+  "abilities": [{
+      "name": "Prankster"
+    },
+    {
+      "name": "Chlorophyll",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50,
+    "female": 50
+  },
+  "egg_groups": [
+    "Grass",
+    "Fairy"
+  ],
+  "height_us": "1'00\"",
+  "height_eu": "0.3 m",
+  "weight_us": "1.3 lbs.",
+  "weight_eu": "0.6 kg",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 1
+  },
+  "base_stats": {
+    "hp": 40,
+    "atk": 27,
+    "def": 60,
+    "sp_atk": 37,
+    "sp_def": 50,
+    "speed": 66
+  },
+  "evolutions": [{
+    "to": "Whimsicott",
+    "item": "Sun Stone"
+  }],
+  "evolution_from": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Dream Eater",
+          "tm": "TM85"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM94"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+    "regular_learnset": [{
+          "move": "Absorb",
+          "level": 1
+        },
+        {
+          "move": "Fairy Wind",
+          "level": 1
+        },
+        {
+          "move": "Growth",
+          "level": 4
+        },
+        {
+          "move": "Leech Seed",
+          "level": 8
+        },
+        {
+          "move": "Stun Spore",
+          "level": 10
+        },
+        {
+          "move": "Mega Drain",
+          "level": 13
+        },
+        {
+          "move": "Cotton Spore",
+          "level": 17
+        },
+        {
+          "move": "Razor Leaf",
+          "level": 19
+        },
+        {
+          "move": "Poison Powder",
+          "level": 22
+        },
+        {
+          "move": "Giga Drain",
+          "level": 26
+        },
+        {
+          "move": "Charm",
+          "level": 28
+        },
+        {
+          "move": "Helping Hand",
+          "level": 31
+        },
+        {
+          "move": "Energy Ball",
+          "level": 35
+        },
+        {
+          "move": "Cotton Guard",
+          "level": 37
+        },
+        {
+          "move": "Sunny Day",
+          "level": 40
+        },
+        {
+          "move": "Endeavor",
+          "level": 44
+        },
+        {
+          "move": "Solar Beam",
+          "level": 46
+        },
+        {
+          "move": "Beat Up",
+          "egg_move": true
+        },
+        {
+          "move": "Captivate",
+          "egg_move": true
+        },
+        {
+          "move": "Encore",
+          "egg_move": true
+        },
+        {
+          "move": "Fake Tears",
+          "egg_move": true
+        },
+        {
+          "move": "Grass Whistle",
+          "egg_move": true
+        },
+        {
+          "move": "Memento",
+          "egg_move": true
+        },
+        {
+          "move": "Natural Gift",
+          "egg_move": true
+        },
+        {
+          "move": "Switcheroo",
+          "egg_move": true
+        },
+        {
+          "move": "Tickle",
+          "egg_move": true
+        },
+        {
+          "move": "Worry Seed",
+          "egg_move": true
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Dream Eater",
+          "tm": "TM85"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [{
+          "move": "Absorb",
+          "level": 1
+        },
+        {
+          "move": "Fairy Wind",
+          "level": 1
+        },
+        {
+          "move": "Growth",
+          "level": 4
+        },
+        {
+          "move": "Leech Seed",
+          "level": 8
+        },
+        {
+          "move": "Stun Spore",
+          "level": 10
+        },
+        {
+          "move": "Mega Drain",
+          "level": 13
+        },
+        {
+          "move": "Cotton Spore",
+          "level": 17
+        },
+        {
+          "move": "Razor Leaf",
+          "level": 19
+        },
+        {
+          "move": "Poison Powder",
+          "level": 22
+        },
+        {
+          "move": "Giga Drain",
+          "level": 26
+        },
+        {
+          "move": "Charm",
+          "level": 28
+        },
+        {
+          "move": "Helping Hand",
+          "level": 31
+        },
+        {
+          "move": "Energy Ball",
+          "level": 35
+        },
+        {
+          "move": "Cotton Guard",
+          "level": 37
+        },
+        {
+          "move": "Sunny Day",
+          "level": 40
+        },
+        {
+          "move": "Endeavor",
+          "level": 44
+        },
+        {
+          "move": "Solar Beam",
+          "level": 46
+        },
+        {
+          "move": "Beat Up",
+          "egg_move": true
+        },
+        {
+          "move": "Captivate",
+          "egg_move": true
+        },
+        {
+          "move": "Encore",
+          "egg_move": true
+        },
+        {
+          "move": "Fake Tears",
+          "egg_move": true
+        },
+        {
+          "move": "Grass Whistle",
+          "egg_move": true
+        },
+        {
+          "move": "Memento",
+          "egg_move": true
+        },
+        {
+          "move": "Misty Terrain",
+          "egg_move": true
+        },
+        {
+          "move": "Natural Gift",
+          "egg_move": true
+        },
+        {
+          "move": "Switcheroo",
+          "egg_move": true
+        },
+        {
+          "move": "Tickle",
+          "egg_move": true
+        },
+        {
+          "move": "Worry Seed",
+          "egg_move": true
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Dream Eater",
+          "tm": "TM85"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
+}

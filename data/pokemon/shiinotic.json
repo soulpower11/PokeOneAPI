@@ -1,0 +1,539 @@
+{
+  "name": "Shiinotic",
+  "national_id": 756,
+  "types": [
+    "Grass",
+    "Fairy"
+  ],
+  "abilities": [{
+      "name": "Illuminate"
+    },
+    {
+      "name": "Rain Dish",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50,
+    "female": 50
+  },
+  "egg_groups": [
+    "Grass"
+  ],
+  "height_us": "3'03\"",
+  "height_eu": "1.0 m",
+  "weight_us": "25.4 lbs.",
+  "weight_eu": "11.5 kg",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 2,
+    "speed": 0
+  },
+  "base_stats": {
+    "hp": 60,
+    "atk": 45,
+    "def": 80,
+    "sp_atk": 90,
+    "sp_def": 100,
+    "speed": 30
+  },
+  "evolution_from": "Morelull",
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sludge Bomb",
+          "tm": "TM36"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Dream Eater",
+          "tm": "TM85"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+    "regular_learnset": [{
+          "move": "Absorb",
+          "level": 1
+        },
+        {
+          "move": "Astonish",
+          "level": 1
+        },
+        {
+          "move": "Flash",
+          "level": 1
+        },
+        {
+          "move": "Ingrain",
+          "level": 1
+        },
+        {
+          "move": "Astonish",
+          "level": 4
+        },
+        {
+          "move": "Flash",
+          "level": 8
+        },
+        {
+          "move": "Moonlight",
+          "level": 11
+        },
+        {
+          "move": "Mega Drain",
+          "level": 15
+        },
+        {
+          "move": "Sleep Powder",
+          "level": 18
+        },
+        {
+          "move": "Ingrain",
+          "level": 22
+        },
+        {
+          "move": "Confuse Ray",
+          "level": 26
+        },
+        {
+          "move": "Giga Drain",
+          "level": 31
+        },
+        {
+          "move": "Strength Sap",
+          "level": 35
+        },
+        {
+          "move": "Spore",
+          "level": 40
+        },
+        {
+          "move": "Moonblast",
+          "level": 44
+        },
+        {
+          "move": "Dream Eater",
+          "level": 49
+        },
+        {
+          "move": "Spotlight",
+          "level": 53
+        },
+        {
+          "move": "Amnesia",
+          "egg_move": true
+        },
+        {
+          "move": "Growth",
+          "egg_move": true
+        },
+        {
+          "move": "Leech Seed",
+          "egg_move": true
+        },
+        {
+          "move": "Poison Powder",
+          "egg_move": true
+        },
+        {
+          "move": "Stun Spore",
+          "egg_move": true
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sludge Bomb",
+          "tm": "TM36"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Dream Eater",
+          "tm": "TM85"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [{
+          "move": "Absorb",
+          "level": 1
+        },
+        {
+          "move": "Astonish",
+          "level": 1
+        },
+        {
+          "move": "Flash",
+          "level": 1
+        },
+        {
+          "move": "Ingrain",
+          "level": 1
+        },
+        {
+          "move": "Astonish",
+          "level": 4
+        },
+        {
+          "move": "Flash",
+          "level": 8
+        },
+        {
+          "move": "Moonlight",
+          "level": 11
+        },
+        {
+          "move": "Mega Drain",
+          "level": 15
+        },
+        {
+          "move": "Sleep Powder",
+          "level": 18
+        },
+        {
+          "move": "Ingrain",
+          "level": 22
+        },
+        {
+          "move": "Confuse Ray",
+          "level": 26
+        },
+        {
+          "move": "Giga Drain",
+          "level": 31
+        },
+        {
+          "move": "Strength Sap",
+          "level": 35
+        },
+        {
+          "move": "Spore",
+          "level": 40
+        },
+        {
+          "move": "Moonblast",
+          "level": 44
+        },
+        {
+          "move": "Dream Eater",
+          "level": 49
+        },
+        {
+          "move": "Spotlight",
+          "level": 53
+        },
+        {
+          "move": "Amnesia",
+          "egg_move": true
+        },
+        {
+          "move": "Growth",
+          "egg_move": true
+        },
+        {
+          "move": "Leech Seed",
+          "egg_move": true
+        },
+        {
+          "move": "Poison Powder",
+          "egg_move": true
+        },
+        {
+          "move": "Stun Spore",
+          "egg_move": true
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sludge Bomb",
+          "tm": "TM36"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Dream Eater",
+          "tm": "TM85"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
+}

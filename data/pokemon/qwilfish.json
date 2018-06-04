@@ -1,0 +1,706 @@
+{
+  "name": "Qwilfish",
+  "national_id": 211,
+  "types": [
+    "Water",
+    "Poison"
+  ],
+  "abilities": [{
+      "name": "Poison Point"
+    },
+    {
+      "name": "Swift Swim"
+    },
+    {
+      "name": "Intimidate",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50,
+    "female": 50
+  },
+  "egg_groups": [
+    "Water 2"
+  ],
+  "height_us": "1'08\"",
+  "height_eu": "0.5 m",
+  "weight_us": "8.6 lbs.",
+  "weight_eu": "3.9 kg",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 1,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "base_stats": {
+    "hp": 65,
+    "atk": 95,
+    "def": 85,
+    "sp_atk": 55,
+    "sp_def": 55,
+    "speed": 85
+  },
+  "evolutions": null,
+  "evolution_from": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
+          "move": "Surf",
+          "tm": "HM03"
+        },
+        {
+          "move": "Waterfall",
+          "tm": "HM05"
+        },
+        {
+          "move": "Dive",
+          "tm": "HM07"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hail",
+          "tm": "TM07"
+        },
+        {
+          "move": "Venoshock",
+          "tm": "TM09"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sludge Wave",
+          "tm": "TM34"
+        },
+        {
+          "move": "Sludge Bomb",
+          "tm": "TM36"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Scald",
+          "tm": "TM55"
+        },
+        {
+          "move": "Explosion",
+          "tm": "TM64"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Poison Jab",
+          "tm": "TM84"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM94"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+    "regular_learnset": [{
+          "move": "Destiny Bond",
+          "level": 1
+        },
+        {
+          "move": "Fell Stinger",
+          "level": 1
+        },
+        {
+          "move": "Hydro Pump",
+          "level": 1
+        },
+        {
+          "move": "Poison Sting",
+          "level": 1
+        },
+        {
+          "move": "Spikes",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Water Gun",
+          "level": 1
+        },
+        {
+          "move": "Harden",
+          "level": 9
+        },
+        {
+          "move": "Minimize",
+          "level": 9
+        },
+        {
+          "move": "Bubble",
+          "level": 13
+        },
+        {
+          "move": "Rollout",
+          "level": 17
+        },
+        {
+          "move": "Toxic Spikes",
+          "level": 21
+        },
+        {
+          "move": "Spit Up",
+          "level": 25
+        },
+        {
+          "move": "Stockpile",
+          "level": 25
+        },
+        {
+          "move": "Revenge",
+          "level": 29
+        },
+        {
+          "move": "Brine",
+          "level": 33
+        },
+        {
+          "move": "Pin Missile",
+          "level": 37
+        },
+        {
+          "move": "Take Down",
+          "level": 41
+        },
+        {
+          "move": "Aqua Tail",
+          "level": 45
+        },
+        {
+          "move": "Poison Jab",
+          "level": 49
+        },
+        {
+          "move": "Destiny Bond",
+          "level": 53
+        },
+        {
+          "move": "Hydro Pump",
+          "level": 57
+        },
+        {
+          "move": "Fell Stinger",
+          "level": 60
+        },
+        {
+          "move": "Acid Spray",
+          "egg_move": true
+        },
+        {
+          "move": "Aqua Jet",
+          "egg_move": true
+        },
+        {
+          "move": "Astonish",
+          "egg_move": true
+        },
+        {
+          "move": "Brine",
+          "egg_move": true
+        },
+        {
+          "move": "Bubble Beam",
+          "egg_move": true
+        },
+        {
+          "move": "Flail",
+          "egg_move": true
+        },
+        {
+          "move": "Haze",
+          "egg_move": true
+        },
+        {
+          "move": "Signal Beam",
+          "egg_move": true
+        },
+        {
+          "move": "Supersonic",
+          "egg_move": true
+        },
+        {
+          "move": "Water Pulse",
+          "egg_move": true
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hail",
+          "tm": "TM07"
+        },
+        {
+          "move": "Venoshock",
+          "tm": "TM09"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sludge Wave",
+          "tm": "TM34"
+        },
+        {
+          "move": "Sludge Bomb",
+          "tm": "TM36"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Scald",
+          "tm": "TM55"
+        },
+        {
+          "move": "Explosion",
+          "tm": "TM64"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Poison Jab",
+          "tm": "TM84"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Surf",
+          "tm": "TM94"
+        },
+        {
+          "move": "Waterfall",
+          "tm": "TM98"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [{
+          "move": "Destiny Bond",
+          "level": 1
+        },
+        {
+          "move": "Fell Stinger",
+          "level": 1
+        },
+        {
+          "move": "Hydro Pump",
+          "level": 1
+        },
+        {
+          "move": "Poison Sting",
+          "level": 1
+        },
+        {
+          "move": "Spikes",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Water Gun",
+          "level": 1
+        },
+        {
+          "move": "Harden",
+          "level": 9
+        },
+        {
+          "move": "Minimize",
+          "level": 9
+        },
+        {
+          "move": "Bubble",
+          "level": 13
+        },
+        {
+          "move": "Rollout",
+          "level": 17
+        },
+        {
+          "move": "Toxic Spikes",
+          "level": 21
+        },
+        {
+          "move": "Spit Up",
+          "level": 25
+        },
+        {
+          "move": "Stockpile",
+          "level": 25
+        },
+        {
+          "move": "Revenge",
+          "level": 29
+        },
+        {
+          "move": "Brine",
+          "level": 33
+        },
+        {
+          "move": "Pin Missile",
+          "level": 37
+        },
+        {
+          "move": "Take Down",
+          "level": 41
+        },
+        {
+          "move": "Aqua Tail",
+          "level": 45
+        },
+        {
+          "move": "Poison Jab",
+          "level": 49
+        },
+        {
+          "move": "Destiny Bond",
+          "level": 53
+        },
+        {
+          "move": "Hydro Pump",
+          "level": 57
+        },
+        {
+          "move": "Fell Stinger",
+          "level": 60
+        },
+        {
+          "move": "Acid Spray",
+          "egg_move": true
+        },
+        {
+          "move": "Aqua Jet",
+          "egg_move": true
+        },
+        {
+          "move": "Astonish",
+          "egg_move": true
+        },
+        {
+          "move": "Brine",
+          "egg_move": true
+        },
+        {
+          "move": "Bubble Beam",
+          "egg_move": true
+        },
+        {
+          "move": "Flail",
+          "egg_move": true
+        },
+        {
+          "move": "Haze",
+          "egg_move": true
+        },
+        {
+          "move": "Signal Beam",
+          "egg_move": true
+        },
+        {
+          "move": "Supersonic",
+          "egg_move": true
+        },
+        {
+          "move": "Water Pulse",
+          "egg_move": true
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hail",
+          "tm": "TM07"
+        },
+        {
+          "move": "Venoshock",
+          "tm": "TM09"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sludge Wave",
+          "tm": "TM34"
+        },
+        {
+          "move": "Sludge Bomb",
+          "tm": "TM36"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Scald",
+          "tm": "TM55"
+        },
+        {
+          "move": "Explosion",
+          "tm": "TM64"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Poison Jab",
+          "tm": "TM84"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Surf",
+          "tm": "TM94"
+        },
+        {
+          "move": "Waterfall",
+          "tm": "TM98"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1175 @@
+{
+  "name": "Kyurem",
+  "national_id": 646,
+  "types": [
+    "Dragon",
+    "Ice"
+  ],
+  "abilities": [{
+    "name": "Pressure"
+  }],
+  "gender_ratios": null,
+  "egg_groups": [
+    "Undiscovered"
+  ],
+  "height_us": "9'10\"",
+  "height_eu": "3.0 m",
+  "weight_us": "716.5 lbs.",
+  "weight_eu": "325.0 kg",
+  "ev_yield": {
+    "hp": 1,
+    "atk": 1,
+    "def": 0,
+    "sp_atk": 1,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "base_stats": {
+    "hp": 125,
+    "atk": 130,
+    "def": 90,
+    "sp_atk": 130,
+    "sp_def": 90,
+    "speed": 95
+  },
+  "move_learnsets": [{
+      "tm_learnset": [{
+          "move": "Cut",
+          "tm": "HM01"
+        },
+        {
+          "move": "Fly",
+          "tm": "HM02"
+        },
+        {
+          "move": "Strength",
+          "tm": "HM04"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "HM06"
+        },
+        {
+          "move": "Hone Claws",
+          "tm": "TM01"
+        },
+        {
+          "move": "Dragon Claw",
+          "tm": "TM02"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hail",
+          "tm": "TM07"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Roost",
+          "tm": "TM19"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Steel Wing",
+          "tm": "TM51"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Shadow Claw",
+          "tm": "TM65"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Dragon Tail",
+          "tm": "TM82"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM94"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+    "regular_learnset": [{
+          "move": "Dragon Rage",
+          "level": 1,
+          "variations": [
+            "Kyurem"
+          ]
+        },
+        {
+          "move": "Icy Wind",
+          "level": 1,
+          "variations": [
+            "Kyurem"
+          ]
+        },
+        {
+          "move": "Imprison",
+          "level": 8,
+          "variations": [
+            "Kyurem"
+          ]
+        },
+        {
+          "move": "Ancient Power",
+          "level": 15,
+          "variations": [
+            "Kyurem"
+          ]
+        },
+        {
+          "move": "Ice Beam",
+          "level": 22,
+          "variations": [
+            "Kyurem"
+          ]
+        },
+        {
+          "move": "Dragon Breath",
+          "level": 29,
+          "variations": [
+            "Kyurem"
+          ]
+        },
+        {
+          "move": "Slash",
+          "level": 36,
+          "variations": [
+            "Kyurem"
+          ]
+        },
+        {
+          "move": "Scary Face",
+          "level": 43,
+          "variations": [
+            "Kyurem"
+          ]
+        },
+        {
+          "move": "Glaciate",
+          "level": 50,
+          "variations": [
+            "Kyurem"
+          ]
+        },
+        {
+          "move": "Dragon Pulse",
+          "level": 57,
+          "variations": [
+            "Kyurem"
+          ]
+        },
+        {
+          "move": "Imprison",
+          "level": 64,
+          "variations": [
+            "Kyurem"
+          ]
+        },
+        {
+          "move": "Endeavor",
+          "level": 71,
+          "variations": [
+            "Kyurem"
+          ]
+        },
+        {
+          "move": "Blizzard",
+          "level": 78,
+          "variations": [
+            "Kyurem"
+          ]
+        },
+        {
+          "move": "Outrage",
+          "level": 85,
+          "variations": [
+            "Kyurem"
+          ]
+        },
+        {
+          "move": "Hyper Voice",
+          "level": 92,
+          "variations": [
+            "Kyurem"
+          ]
+        },
+        {
+          "move": "Dragon Rage",
+          "level": 1,
+          "variations": [
+            "Black Kyurem"
+          ]
+        },
+        {
+          "move": "Icy Wind",
+          "level": 1,
+          "variations": [
+            "Black Kyurem"
+          ]
+        },
+        {
+          "move": "Imprison",
+          "level": 8,
+          "variations": [
+            "Black Kyurem"
+          ]
+        },
+        {
+          "move": "Ancient Power",
+          "level": 15,
+          "variations": [
+            "Black Kyurem"
+          ]
+        },
+        {
+          "move": "Ice Beam",
+          "level": 22,
+          "variations": [
+            "Black Kyurem"
+          ]
+        },
+        {
+          "move": "Dragon Breath",
+          "level": 29,
+          "variations": [
+            "Black Kyurem"
+          ]
+        },
+        {
+          "move": "Slash",
+          "level": 36,
+          "variations": [
+            "Black Kyurem"
+          ]
+        },
+        {
+          "move": "Fusion Bolt",
+          "level": 43,
+          "variations": [
+            "Black Kyurem"
+          ]
+        },
+        {
+          "move": "Freeze Shock",
+          "level": 50,
+          "variations": [
+            "Black Kyurem"
+          ]
+        },
+        {
+          "move": "Dragon Pulse",
+          "level": 57,
+          "variations": [
+            "Black Kyurem"
+          ]
+        },
+        {
+          "move": "Imprison",
+          "level": 64,
+          "variations": [
+            "Black Kyurem"
+          ]
+        },
+        {
+          "move": "Endeavor",
+          "level": 71,
+          "variations": [
+            "Black Kyurem"
+          ]
+        },
+        {
+          "move": "Blizzard",
+          "level": 78,
+          "variations": [
+            "Black Kyurem"
+          ]
+        },
+        {
+          "move": "Outrage",
+          "level": 85,
+          "variations": [
+            "Black Kyurem"
+          ]
+        },
+        {
+          "move": "Hyper Voice",
+          "level": 92,
+          "variations": [
+            "Black Kyurem"
+          ]
+        },
+        {
+          "move": "Dragon Rage",
+          "level": 1,
+          "variations": [
+            "White Kyurem"
+          ]
+        },
+        {
+          "move": "Icy Wind",
+          "level": 1,
+          "variations": [
+            "White Kyurem"
+          ]
+        },
+        {
+          "move": "Imprison",
+          "level": 8,
+          "variations": [
+            "White Kyurem"
+          ]
+        },
+        {
+          "move": "Ancient Power",
+          "level": 15,
+          "variations": [
+            "White Kyurem"
+          ]
+        },
+        {
+          "move": "Ice Beam",
+          "level": 22,
+          "variations": [
+            "White Kyurem"
+          ]
+        },
+        {
+          "move": "Dragon Breath",
+          "level": 29,
+          "variations": [
+            "White Kyurem"
+          ]
+        },
+        {
+          "move": "Slash",
+          "level": 36,
+          "variations": [
+            "White Kyurem"
+          ]
+        },
+        {
+          "move": "Fusion Flare",
+          "level": 43,
+          "variations": [
+            "White Kyurem"
+          ]
+        },
+        {
+          "move": "Ice Burn",
+          "level": 50,
+          "variations": [
+            "White Kyurem"
+          ]
+        },
+        {
+          "move": "Dragon Pulse",
+          "level": 57,
+          "variations": [
+            "White Kyurem"
+          ]
+        },
+        {
+          "move": "Imprison",
+          "level": 64,
+          "variations": [
+            "White Kyurem"
+          ]
+        },
+        {
+          "move": "Endeavor",
+          "level": 71,
+          "variations": [
+            "White Kyurem"
+          ]
+        },
+        {
+          "move": "Blizzard",
+          "level": 78,
+          "variations": [
+            "White Kyurem"
+          ]
+        },
+        {
+          "move": "Outrage",
+          "level": 85,
+          "variations": [
+            "White Kyurem"
+          ]
+        },
+        {
+          "move": "Hyper Voice",
+          "level": 92,
+          "variations": [
+            "White Kyurem"
+          ]
+        },
+        {
+          "move": "Dragon Claw",
+          "tm": "TM02"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hail",
+          "tm": "TM07"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Roost",
+          "tm": "TM19"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Steel Wing",
+          "tm": "TM51"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Brutal Swing",
+          "tm": "TM59"
+        },
+        {
+          "move": "Shadow Claw",
+          "tm": "TM65"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Fly",
+          "tm": "TM76"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Dragon Tail",
+          "tm": "TM82"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [{
+          "move": "Dragon Rage",
+          "level": 1,
+          "variations": [
+            "Kyurem"
+          ]
+        },
+        {
+          "move": "Icy Wind",
+          "level": 1,
+          "variations": [
+            "Kyurem"
+          ]
+        },
+        {
+          "move": "Imprison",
+          "level": 8,
+          "variations": [
+            "Kyurem"
+          ]
+        },
+        {
+          "move": "Ancient Power",
+          "level": 15,
+          "variations": [
+            "Kyurem"
+          ]
+        },
+        {
+          "move": "Ice Beam",
+          "level": 22,
+          "variations": [
+            "Kyurem"
+          ]
+        },
+        {
+          "move": "Dragon Breath",
+          "level": 29,
+          "variations": [
+            "Kyurem"
+          ]
+        },
+        {
+          "move": "Slash",
+          "level": 36,
+          "variations": [
+            "Kyurem"
+          ]
+        },
+        {
+          "move": "Scary Face",
+          "level": 43,
+          "variations": [
+            "Kyurem"
+          ]
+        },
+        {
+          "move": "Glaciate",
+          "level": 50,
+          "variations": [
+            "Kyurem"
+          ]
+        },
+        {
+          "move": "Dragon Pulse",
+          "level": 57,
+          "variations": [
+            "Kyurem"
+          ]
+        },
+        {
+          "move": "Noble Roar",
+          "level": 64,
+          "variations": [
+            "Kyurem"
+          ]
+        },
+        {
+          "move": "Endeavor",
+          "level": 71,
+          "variations": [
+            "Kyurem"
+          ]
+        },
+        {
+          "move": "Blizzard",
+          "level": 78,
+          "variations": [
+            "Kyurem"
+          ]
+        },
+        {
+          "move": "Outrage",
+          "level": 85,
+          "variations": [
+            "Kyurem"
+          ]
+        },
+        {
+          "move": "Hyper Voice",
+          "level": 92,
+          "variations": [
+            "Kyurem"
+          ]
+        },
+        {
+          "move": "Dragon Rage",
+          "level": 1,
+          "variations": [
+            "Black Kyurem"
+          ]
+        },
+        {
+          "move": "Icy Wind",
+          "level": 1,
+          "variations": [
+            "Black Kyurem"
+          ]
+        },
+        {
+          "move": "Imprison",
+          "level": 8,
+          "variations": [
+            "Black Kyurem"
+          ]
+        },
+        {
+          "move": "Ancient Power",
+          "level": 15,
+          "variations": [
+            "Black Kyurem"
+          ]
+        },
+        {
+          "move": "Ice Beam",
+          "level": 22,
+          "variations": [
+            "Black Kyurem"
+          ]
+        },
+        {
+          "move": "Dragon Breath",
+          "level": 29,
+          "variations": [
+            "Black Kyurem"
+          ]
+        },
+        {
+          "move": "Slash",
+          "level": 36,
+          "variations": [
+            "Black Kyurem"
+          ]
+        },
+        {
+          "move": "Fusion Bolt",
+          "level": 43,
+          "variations": [
+            "Black Kyurem"
+          ]
+        },
+        {
+          "move": "Freeze Shock",
+          "level": 50,
+          "variations": [
+            "Black Kyurem"
+          ]
+        },
+        {
+          "move": "Dragon Pulse",
+          "level": 57,
+          "variations": [
+            "Black Kyurem"
+          ]
+        },
+        {
+          "move": "Noble Roar",
+          "level": 64,
+          "variations": [
+            "Black Kyurem"
+          ]
+        },
+        {
+          "move": "Endeavor",
+          "level": 71,
+          "variations": [
+            "Black Kyurem"
+          ]
+        },
+        {
+          "move": "Blizzard",
+          "level": 78,
+          "variations": [
+            "Black Kyurem"
+          ]
+        },
+        {
+          "move": "Outrage",
+          "level": 85,
+          "variations": [
+            "Black Kyurem"
+          ]
+        },
+        {
+          "move": "Hyper Voice",
+          "level": 92,
+          "variations": [
+            "Black Kyurem"
+          ]
+        },
+        {
+          "move": "Dragon Rage",
+          "level": 1,
+          "variations": [
+            "White Kyurem"
+          ]
+        },
+        {
+          "move": "Icy Wind",
+          "level": 1,
+          "variations": [
+            "White Kyurem"
+          ]
+        },
+        {
+          "move": "Imprison",
+          "level": 8,
+          "variations": [
+            "White Kyurem"
+          ]
+        },
+        {
+          "move": "Ancient Power",
+          "level": 15,
+          "variations": [
+            "White Kyurem"
+          ]
+        },
+        {
+          "move": "Ice Beam",
+          "level": 22,
+          "variations": [
+            "White Kyurem"
+          ]
+        },
+        {
+          "move": "Dragon Breath",
+          "level": 29,
+          "variations": [
+            "White Kyurem"
+          ]
+        },
+        {
+          "move": "Slash",
+          "level": 36,
+          "variations": [
+            "White Kyurem"
+          ]
+        },
+        {
+          "move": "Fusion Flare",
+          "level": 43,
+          "variations": [
+            "White Kyurem"
+          ]
+        },
+        {
+          "move": "Ice Burn",
+          "level": 50,
+          "variations": [
+            "White Kyurem"
+          ]
+        },
+        {
+          "move": "Dragon Pulse",
+          "level": 57,
+          "variations": [
+            "White Kyurem"
+          ]
+        },
+        {
+          "move": "Noble Roar",
+          "level": 64,
+          "variations": [
+            "White Kyurem"
+          ]
+        },
+        {
+          "move": "Endeavor",
+          "level": 71,
+          "variations": [
+            "White Kyurem"
+          ]
+        },
+        {
+          "move": "Blizzard",
+          "level": 78,
+          "variations": [
+            "White Kyurem"
+          ]
+        },
+        {
+          "move": "Outrage",
+          "level": 85,
+          "variations": [
+            "White Kyurem"
+          ]
+        },
+        {
+          "move": "Hyper Voice",
+          "level": 92,
+          "variations": [
+            "White Kyurem"
+          ]
+        },
+        {
+          "move": "Dragon Claw",
+          "tm": "TM02"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hail",
+          "tm": "TM07"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Roost",
+          "tm": "TM19"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Steel Wing",
+          "tm": "TM51"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Brutal Swing",
+          "tm": "TM59"
+        },
+        {
+          "move": "Shadow Claw",
+          "tm": "TM65"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Fly",
+          "tm": "TM76"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Dragon Tail",
+          "tm": "TM82"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
+}

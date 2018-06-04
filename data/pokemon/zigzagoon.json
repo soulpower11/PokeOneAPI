@@ -1,0 +1,636 @@
+{
+  "name": "Zigzagoon",
+  "national_id": 263,
+  "types": [
+    "Normal"
+  ],
+  "abilities": [{
+      "name": "Pickup"
+    },
+    {
+      "name": "Gluttony"
+    },
+    {
+      "name": "Quick Feet",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50,
+    "female": 50
+  },
+  "egg_groups": [
+    "Field"
+  ],
+  "height_us": "1'04\"",
+  "height_eu": "0.4 m",
+  "weight_us": "38.6 lbs.",
+  "weight_eu": "17.5 kg",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 1
+  },
+  "base_stats": {
+    "hp": 38,
+    "atk": 30,
+    "def": 41,
+    "sp_atk": 30,
+    "sp_def": 41,
+    "speed": 60
+  },
+  "evolutions": [{
+    "to": "Linoone",
+    "level": 20
+  }],
+  "evolution_from": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
+          "move": "Cut",
+          "tm": "HM01"
+        },
+        {
+          "move": "Surf",
+          "tm": "HM03"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "HM06"
+        },
+        {
+          "move": "Hone Claws",
+          "tm": "TM01"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Dig",
+          "tm": "TM28"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Retaliate",
+          "tm": "TM67"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM94"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+    "regular_learnset": [{
+          "move": "Growl",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Tail Whip",
+          "level": 5
+        },
+        {
+          "move": "Sand Attack",
+          "level": 7
+        },
+        {
+          "move": "Headbutt",
+          "level": 11
+        },
+        {
+          "move": "Baby-Doll Eyes",
+          "level": 12
+        },
+        {
+          "move": "Odor Sleuth",
+          "level": 13
+        },
+        {
+          "move": "Mud Sport",
+          "level": 17
+        },
+        {
+          "move": "Pin Missile",
+          "level": 19
+        },
+        {
+          "move": "Covet",
+          "level": 23
+        },
+        {
+          "move": "Bestow",
+          "level": 25
+        },
+        {
+          "move": "Flail",
+          "level": 29
+        },
+        {
+          "move": "Take Down",
+          "level": 31
+        },
+        {
+          "move": "Rest",
+          "level": 35
+        },
+        {
+          "move": "Belly Drum",
+          "level": 37
+        },
+        {
+          "move": "Fling",
+          "level": 41
+        },
+        {
+          "move": "Charm",
+          "egg_move": true
+        },
+        {
+          "move": "Helping Hand",
+          "egg_move": true
+        },
+        {
+          "move": "Mud-Slap",
+          "egg_move": true
+        },
+        {
+          "move": "Pursuit",
+          "egg_move": true
+        },
+        {
+          "move": "Rock Climb",
+          "egg_move": true
+        },
+        {
+          "move": "Simple Beam",
+          "egg_move": true
+        },
+        {
+          "move": "Sleep Talk",
+          "egg_move": true
+        },
+        {
+          "move": "Tickle",
+          "egg_move": true
+        },
+        {
+          "move": "Trick",
+          "egg_move": true
+        },
+        {
+          "move": "Work Up",
+          "tm": "TM01"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Surf",
+          "tm": "TM94"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [{
+          "move": "Growl",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Tail Whip",
+          "level": 5
+        },
+        {
+          "move": "Sand Attack",
+          "level": 7
+        },
+        {
+          "move": "Headbutt",
+          "level": 11
+        },
+        {
+          "move": "Baby-Doll Eyes",
+          "level": 12
+        },
+        {
+          "move": "Odor Sleuth",
+          "level": 13
+        },
+        {
+          "move": "Mud Sport",
+          "level": 17
+        },
+        {
+          "move": "Pin Missile",
+          "level": 19
+        },
+        {
+          "move": "Covet",
+          "level": 23
+        },
+        {
+          "move": "Bestow",
+          "level": 25
+        },
+        {
+          "move": "Flail",
+          "level": 29
+        },
+        {
+          "move": "Take Down",
+          "level": 31
+        },
+        {
+          "move": "Rest",
+          "level": 35
+        },
+        {
+          "move": "Belly Drum",
+          "level": 37
+        },
+        {
+          "move": "Fling",
+          "level": 41
+        },
+        {
+          "move": "Charm",
+          "egg_move": true
+        },
+        {
+          "move": "Extreme Speed",
+          "egg_move": true
+        },
+        {
+          "move": "Helping Hand",
+          "egg_move": true
+        },
+        {
+          "move": "Mud-Slap",
+          "egg_move": true
+        },
+        {
+          "move": "Pursuit",
+          "egg_move": true
+        },
+        {
+          "move": "Rock Climb",
+          "egg_move": true
+        },
+        {
+          "move": "Simple Beam",
+          "egg_move": true
+        },
+        {
+          "move": "Sleep Talk",
+          "egg_move": true
+        },
+        {
+          "move": "Tickle",
+          "egg_move": true
+        },
+        {
+          "move": "Trick",
+          "egg_move": true
+        },
+        {
+          "move": "Work Up",
+          "tm": "TM01"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Surf",
+          "tm": "TM94"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
+}

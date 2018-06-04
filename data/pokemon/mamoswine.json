@@ -1,0 +1,698 @@
+{
+  "name": "Mamoswine",
+  "national_id": 473,
+  "types": [
+    "Ice",
+    "Ground"
+  ],
+  "abilities": [{
+      "name": "Oblivious"
+    },
+    {
+      "name": "Snow Cloak"
+    },
+    {
+      "name": "Thick Fat",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50,
+    "female": 50
+  },
+  "egg_groups": [
+    "Field"
+  ],
+  "height_us": "8'02\"",
+  "height_eu": "2.5 m",
+  "weight_us": "641.5 lbs.",
+  "weight_eu": "291.0 kg",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 3,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "base_stats": {
+    "hp": 110,
+    "atk": 130,
+    "def": 80,
+    "sp_atk": 70,
+    "sp_def": 60,
+    "speed": 80
+  },
+  "evolution_from": "Piloswine",
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
+          "move": "Strength",
+          "tm": "HM04"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "HM06"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM05"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hail",
+          "tm": "TM07"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Dig",
+          "tm": "TM28"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Sandstorm",
+          "tm": "TM37"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM94"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+    "regular_learnset": [{
+          "move": "Ancient Power",
+          "level": 1
+        },
+        {
+          "move": "Fury Attack",
+          "level": 1
+        },
+        {
+          "move": "Mud Sport",
+          "level": 1
+        },
+        {
+          "move": "Odor Sleuth",
+          "level": 1
+        },
+        {
+          "move": "Peck",
+          "level": 1
+        },
+        {
+          "move": "Powder Snow",
+          "level": 1
+        },
+        {
+          "move": "Scary Face",
+          "level": 1
+        },
+        {
+          "move": "Mud Sport",
+          "level": 5
+        },
+        {
+          "move": "Powder Snow",
+          "level": 8
+        },
+        {
+          "move": "Mud-Slap",
+          "level": 11
+        },
+        {
+          "move": "Endure",
+          "level": 14
+        },
+        {
+          "move": "Mud Bomb",
+          "level": 18
+        },
+        {
+          "move": "Hail",
+          "level": 21
+        },
+        {
+          "move": "Ice Fang",
+          "level": 24
+        },
+        {
+          "move": "Take Down",
+          "level": 28
+        },
+        {
+          "move": "Double Hit",
+          "level": 33
+        },
+        {
+          "move": "Mist",
+          "level": 37
+        },
+        {
+          "move": "Thrash",
+          "level": 41
+        },
+        {
+          "move": "Earthquake",
+          "level": 46
+        },
+        {
+          "move": "Blizzard",
+          "level": 52
+        },
+        {
+          "move": "Scary Face",
+          "level": 58
+        },
+        {
+          "move": "Ancient Power",
+          "egg_move": true
+        },
+        {
+          "move": "Avalanche",
+          "egg_move": true
+        },
+        {
+          "move": "Bite",
+          "egg_move": true
+        },
+        {
+          "move": "Body Slam",
+          "egg_move": true
+        },
+        {
+          "move": "Curse",
+          "egg_move": true
+        },
+        {
+          "move": "Double-Edge",
+          "egg_move": true
+        },
+        {
+          "move": "Fissure",
+          "egg_move": true
+        },
+        {
+          "move": "Freeze-Dry",
+          "egg_move": true
+        },
+        {
+          "move": "Icicle Crash",
+          "egg_move": true
+        },
+        {
+          "move": "Icicle Spear",
+          "egg_move": true
+        },
+        {
+          "move": "Mud Shot",
+          "egg_move": true
+        },
+        {
+          "move": "Stealth Rock",
+          "egg_move": true
+        },
+        {
+          "move": "Take Down",
+          "egg_move": true
+        },
+        {
+          "move": "Roar",
+          "tm": "TM05"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hail",
+          "tm": "TM07"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Sandstorm",
+          "tm": "TM37"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [{
+          "move": "Ancient Power",
+          "level": 1
+        },
+        {
+          "move": "Fury Attack",
+          "level": 1
+        },
+        {
+          "move": "Mud Sport",
+          "level": 1
+        },
+        {
+          "move": "Odor Sleuth",
+          "level": 1
+        },
+        {
+          "move": "Peck",
+          "level": 1
+        },
+        {
+          "move": "Powder Snow",
+          "level": 1
+        },
+        {
+          "move": "Scary Face",
+          "level": 1
+        },
+        {
+          "move": "Mud Sport",
+          "level": 5
+        },
+        {
+          "move": "Powder Snow",
+          "level": 8
+        },
+        {
+          "move": "Mud-Slap",
+          "level": 11
+        },
+        {
+          "move": "Endure",
+          "level": 14
+        },
+        {
+          "move": "Mud Bomb",
+          "level": 18
+        },
+        {
+          "move": "Hail",
+          "level": 21
+        },
+        {
+          "move": "Ice Fang",
+          "level": 24
+        },
+        {
+          "move": "Take Down",
+          "level": 28
+        },
+        {
+          "move": "Double Hit",
+          "level": 33
+        },
+        {
+          "move": "Mist",
+          "level": 37
+        },
+        {
+          "move": "Thrash",
+          "level": 41
+        },
+        {
+          "move": "Earthquake",
+          "level": 46
+        },
+        {
+          "move": "Blizzard",
+          "level": 52
+        },
+        {
+          "move": "Scary Face",
+          "level": 58
+        },
+        {
+          "move": "Ancient Power",
+          "egg_move": true
+        },
+        {
+          "move": "Avalanche",
+          "egg_move": true
+        },
+        {
+          "move": "Bite",
+          "egg_move": true
+        },
+        {
+          "move": "Body Slam",
+          "egg_move": true
+        },
+        {
+          "move": "Curse",
+          "egg_move": true
+        },
+        {
+          "move": "Double-Edge",
+          "egg_move": true
+        },
+        {
+          "move": "Fissure",
+          "egg_move": true
+        },
+        {
+          "move": "Freeze-Dry",
+          "egg_move": true
+        },
+        {
+          "move": "Icicle Crash",
+          "egg_move": true
+        },
+        {
+          "move": "Icicle Spear",
+          "egg_move": true
+        },
+        {
+          "move": "Mud Shot",
+          "egg_move": true
+        },
+        {
+          "move": "Stealth Rock",
+          "egg_move": true
+        },
+        {
+          "move": "Take Down",
+          "egg_move": true
+        },
+        {
+          "move": "Roar",
+          "tm": "TM05"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hail",
+          "tm": "TM07"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Sandstorm",
+          "tm": "TM37"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
+}

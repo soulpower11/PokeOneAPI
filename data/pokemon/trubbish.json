@@ -1,0 +1,557 @@
+{
+  "name": "Trubbish",
+  "national_id": 568,
+  "types": [
+    "Poison"
+  ],
+  "abilities": [{
+      "name": "Stench"
+    },
+    {
+      "name": "Aftermath",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50,
+    "female": 50
+  },
+  "egg_groups": [
+    "Mineral"
+  ],
+  "height_us": "2'00\"",
+  "height_eu": "0.6 m",
+  "weight_us": "68.3 lbs.",
+  "weight_eu": "31.0 kg",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 1
+  },
+  "base_stats": {
+    "hp": 50,
+    "atk": 50,
+    "def": 62,
+    "sp_atk": 40,
+    "sp_def": 62,
+    "speed": 65
+  },
+  "evolutions": [{
+    "to": "Garbodor",
+    "level": 36
+  }],
+  "evolution_from": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Venoshock",
+          "tm": "TM09"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sludge Wave",
+          "tm": "TM34"
+        },
+        {
+          "move": "Sludge Bomb",
+          "tm": "TM36"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Explosion",
+          "tm": "TM64"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Infestation",
+          "tm": "TM83"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM94"
+        },
+        {
+          "move": "Dark Pulse",
+          "tm": "TM97"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+    "regular_learnset": [{
+          "move": "Poison Gas",
+          "level": 1
+        },
+        {
+          "move": "Pound",
+          "level": 1
+        },
+        {
+          "move": "Recycle",
+          "level": 3
+        },
+        {
+          "move": "Toxic Spikes",
+          "level": 7
+        },
+        {
+          "move": "Acid Spray",
+          "level": 12
+        },
+        {
+          "move": "Double Slap",
+          "level": 14
+        },
+        {
+          "move": "Sludge",
+          "level": 18
+        },
+        {
+          "move": "Stockpile",
+          "level": 23
+        },
+        {
+          "move": "Swallow",
+          "level": 23
+        },
+        {
+          "move": "Take Down",
+          "level": 25
+        },
+        {
+          "move": "Sludge Bomb",
+          "level": 29
+        },
+        {
+          "move": "Clear Smog",
+          "level": 34
+        },
+        {
+          "move": "Toxic",
+          "level": 36
+        },
+        {
+          "move": "Amnesia",
+          "level": 40
+        },
+        {
+          "move": "Belch",
+          "level": 42
+        },
+        {
+          "move": "Gunk Shot",
+          "level": 45
+        },
+        {
+          "move": "Explosion",
+          "level": 47
+        },
+        {
+          "move": "Curse",
+          "egg_move": true
+        },
+        {
+          "move": "Haze",
+          "egg_move": true
+        },
+        {
+          "move": "Mud Sport",
+          "egg_move": true
+        },
+        {
+          "move": "Rock Blast",
+          "egg_move": true
+        },
+        {
+          "move": "Rollout",
+          "egg_move": true
+        },
+        {
+          "move": "Sand Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Self-Destruct",
+          "egg_move": true
+        },
+        {
+          "move": "Spikes",
+          "egg_move": true
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Venoshock",
+          "tm": "TM09"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sludge Wave",
+          "tm": "TM34"
+        },
+        {
+          "move": "Sludge Bomb",
+          "tm": "TM36"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Explosion",
+          "tm": "TM64"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Infestation",
+          "tm": "TM83"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Dark Pulse",
+          "tm": "TM97"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [{
+          "move": "Poison Gas",
+          "level": 1
+        },
+        {
+          "move": "Pound",
+          "level": 1
+        },
+        {
+          "move": "Recycle",
+          "level": 3
+        },
+        {
+          "move": "Toxic Spikes",
+          "level": 7
+        },
+        {
+          "move": "Acid Spray",
+          "level": 12
+        },
+        {
+          "move": "Double Slap",
+          "level": 14
+        },
+        {
+          "move": "Sludge",
+          "level": 18
+        },
+        {
+          "move": "Stockpile",
+          "level": 23
+        },
+        {
+          "move": "Swallow",
+          "level": 23
+        },
+        {
+          "move": "Take Down",
+          "level": 25
+        },
+        {
+          "move": "Sludge Bomb",
+          "level": 29
+        },
+        {
+          "move": "Clear Smog",
+          "level": 34
+        },
+        {
+          "move": "Toxic",
+          "level": 36
+        },
+        {
+          "move": "Amnesia",
+          "level": 40
+        },
+        {
+          "move": "Belch",
+          "level": 42
+        },
+        {
+          "move": "Gunk Shot",
+          "level": 45
+        },
+        {
+          "move": "Explosion",
+          "level": 47
+        },
+        {
+          "move": "Autotomize",
+          "egg_move": true
+        },
+        {
+          "move": "Curse",
+          "egg_move": true
+        },
+        {
+          "move": "Haze",
+          "egg_move": true
+        },
+        {
+          "move": "Mud Sport",
+          "egg_move": true
+        },
+        {
+          "move": "Rock Blast",
+          "egg_move": true
+        },
+        {
+          "move": "Rollout",
+          "egg_move": true
+        },
+        {
+          "move": "Sand Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Self-Destruct",
+          "egg_move": true
+        },
+        {
+          "move": "Spikes",
+          "egg_move": true
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Venoshock",
+          "tm": "TM09"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sludge Wave",
+          "tm": "TM34"
+        },
+        {
+          "move": "Sludge Bomb",
+          "tm": "TM36"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Explosion",
+          "tm": "TM64"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Infestation",
+          "tm": "TM83"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Dark Pulse",
+          "tm": "TM97"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
+}

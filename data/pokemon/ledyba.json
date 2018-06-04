@@ -1,0 +1,637 @@
+{
+  "name": "Ledyba",
+  "national_id": 165,
+  "types": [
+    "Bug",
+    "Flying"
+  ],
+  "abilities": [{
+      "name": "Swarm"
+    },
+    {
+      "name": "Early Bird"
+    },
+    {
+      "name": "Rattled",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50,
+    "female": 50
+  },
+  "egg_groups": [
+    "Bug"
+  ],
+  "height_us": "3'03\"",
+  "height_eu": "1.0 m",
+  "weight_us": "23.8 lbs.",
+  "weight_eu": "10.8 kg",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 1,
+    "speed": 0
+  },
+  "base_stats": {
+    "hp": 40,
+    "atk": 20,
+    "def": 30,
+    "sp_atk": 40,
+    "sp_def": 80,
+    "speed": 55
+  },
+  "evolutions": [{
+    "to": "Ledian",
+    "level": 18
+  }],
+  "evolution_from": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Roost",
+          "tm": "TM19"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Dig",
+          "tm": "TM28"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Acrobatics",
+          "tm": "TM62"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Struggle Bug",
+          "tm": "TM76"
+        },
+        {
+          "move": "Infestation",
+          "tm": "TM83"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM94"
+        },
+        {
+          "move": "Power-Up Punch",
+          "tm": "TM98"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+    "regular_learnset": [{
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Supersonic",
+          "level": 5
+        },
+        {
+          "move": "Swift",
+          "level": 8
+        },
+        {
+          "move": "Light Screen",
+          "level": 12
+        },
+        {
+          "move": "Reflect",
+          "level": 12
+        },
+        {
+          "move": "Safeguard",
+          "level": 12
+        },
+        {
+          "move": "Mach Punch",
+          "level": 15
+        },
+        {
+          "move": "Silver Wind",
+          "level": 19
+        },
+        {
+          "move": "Comet Punch",
+          "level": 22
+        },
+        {
+          "move": "Baton Pass",
+          "level": 26
+        },
+        {
+          "move": "Agility",
+          "level": 29
+        },
+        {
+          "move": "Bug Buzz",
+          "level": 33
+        },
+        {
+          "move": "Air Slash",
+          "level": 36
+        },
+        {
+          "move": "Double-Edge",
+          "level": 40
+        },
+        {
+          "move": "Bide",
+          "egg_move": true
+        },
+        {
+          "move": "Bug Bite",
+          "egg_move": true
+        },
+        {
+          "move": "Bug Buzz",
+          "egg_move": true
+        },
+        {
+          "move": "Dizzy Punch",
+          "egg_move": true
+        },
+        {
+          "move": "Drain Punch",
+          "egg_move": true
+        },
+        {
+          "move": "Encore",
+          "egg_move": true
+        },
+        {
+          "move": "Focus Punch",
+          "egg_move": true
+        },
+        {
+          "move": "Knock Off",
+          "egg_move": true
+        },
+        {
+          "move": "Psybeam",
+          "egg_move": true
+        },
+        {
+          "move": "Screech",
+          "egg_move": true
+        },
+        {
+          "move": "Silver Wind",
+          "egg_move": true
+        },
+        {
+          "move": "Tailwind",
+          "egg_move": true
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Roost",
+          "tm": "TM19"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Acrobatics",
+          "tm": "TM62"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Infestation",
+          "tm": "TM83"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [{
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Supersonic",
+          "level": 5
+        },
+        {
+          "move": "Swift",
+          "level": 8
+        },
+        {
+          "move": "Light Screen",
+          "level": 12
+        },
+        {
+          "move": "Reflect",
+          "level": 12
+        },
+        {
+          "move": "Safeguard",
+          "level": 12
+        },
+        {
+          "move": "Mach Punch",
+          "level": 15
+        },
+        {
+          "move": "Silver Wind",
+          "level": 19
+        },
+        {
+          "move": "Comet Punch",
+          "level": 22
+        },
+        {
+          "move": "Baton Pass",
+          "level": 26
+        },
+        {
+          "move": "Agility",
+          "level": 29
+        },
+        {
+          "move": "Bug Buzz",
+          "level": 33
+        },
+        {
+          "move": "Air Slash",
+          "level": 36
+        },
+        {
+          "move": "Double-Edge",
+          "level": 40
+        },
+        {
+          "move": "Bide",
+          "egg_move": true
+        },
+        {
+          "move": "Bug Bite",
+          "egg_move": true
+        },
+        {
+          "move": "Bug Buzz",
+          "egg_move": true
+        },
+        {
+          "move": "Counter",
+          "egg_move": true
+        },
+        {
+          "move": "Dizzy Punch",
+          "egg_move": true
+        },
+        {
+          "move": "Drain Punch",
+          "egg_move": true
+        },
+        {
+          "move": "Encore",
+          "egg_move": true
+        },
+        {
+          "move": "Endure",
+          "egg_move": true
+        },
+        {
+          "move": "Focus Punch",
+          "egg_move": true
+        },
+        {
+          "move": "Knock Off",
+          "egg_move": true
+        },
+        {
+          "move": "Psybeam",
+          "egg_move": true
+        },
+        {
+          "move": "Screech",
+          "egg_move": true
+        },
+        {
+          "move": "Silver Wind",
+          "egg_move": true
+        },
+        {
+          "move": "Tailwind",
+          "egg_move": true
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Roost",
+          "tm": "TM19"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Acrobatics",
+          "tm": "TM62"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Infestation",
+          "tm": "TM83"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
+}

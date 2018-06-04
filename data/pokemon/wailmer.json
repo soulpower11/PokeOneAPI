@@ -1,0 +1,625 @@
+{
+  "name": "Wailmer",
+  "national_id": 320,
+  "types": [
+    "Water"
+  ],
+  "abilities": [{
+      "name": "Water Veil"
+    },
+    {
+      "name": "Oblivious"
+    },
+    {
+      "name": "Pressure",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50,
+    "female": 50
+  },
+  "egg_groups": [
+    "Field",
+    "Water 2"
+  ],
+  "height_us": "6'07\"",
+  "height_eu": "2.0 m",
+  "weight_us": "286.6 lbs.",
+  "weight_eu": "130.0 kg",
+  "ev_yield": {
+    "hp": 1,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "base_stats": {
+    "hp": 130,
+    "atk": 70,
+    "def": 35,
+    "sp_atk": 70,
+    "sp_def": 35,
+    "speed": 60
+  },
+  "evolutions": [{
+    "to": "Wailord",
+    "level": 40
+  }],
+  "evolution_from": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
+          "move": "Surf",
+          "tm": "HM03"
+        },
+        {
+          "move": "Strength",
+          "tm": "HM04"
+        },
+        {
+          "move": "Waterfall",
+          "tm": "HM05"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "HM06"
+        },
+        {
+          "move": "Dive",
+          "tm": "HM07"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM05"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hail",
+          "tm": "TM07"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Scald",
+          "tm": "TM55"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM94"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+    "regular_learnset": [{
+          "move": "Splash",
+          "level": 1
+        },
+        {
+          "move": "Growl",
+          "level": 4
+        },
+        {
+          "move": "Water Gun",
+          "level": 7
+        },
+        {
+          "move": "Rollout",
+          "level": 10
+        },
+        {
+          "move": "Whirlpool",
+          "level": 13
+        },
+        {
+          "move": "Astonish",
+          "level": 16
+        },
+        {
+          "move": "Water Pulse",
+          "level": 19
+        },
+        {
+          "move": "Mist",
+          "level": 22
+        },
+        {
+          "move": "Brine",
+          "level": 25
+        },
+        {
+          "move": "Rest",
+          "level": 29
+        },
+        {
+          "move": "Water Spout",
+          "level": 33
+        },
+        {
+          "move": "Amnesia",
+          "level": 37
+        },
+        {
+          "move": "Dive",
+          "level": 41
+        },
+        {
+          "move": "Bounce",
+          "level": 45
+        },
+        {
+          "move": "Hydro Pump",
+          "level": 49
+        },
+        {
+          "move": "Heavy Slam",
+          "level": 53
+        },
+        {
+          "move": "Aqua Ring",
+          "egg_move": true
+        },
+        {
+          "move": "Body Slam",
+          "egg_move": true
+        },
+        {
+          "move": "Clear Smog",
+          "egg_move": true
+        },
+        {
+          "move": "Curse",
+          "egg_move": true
+        },
+        {
+          "move": "Defense Curl",
+          "egg_move": true
+        },
+        {
+          "move": "Double-Edge",
+          "egg_move": true
+        },
+        {
+          "move": "Fissure",
+          "egg_move": true
+        },
+        {
+          "move": "Sleep Talk",
+          "egg_move": true
+        },
+        {
+          "move": "Snore",
+          "egg_move": true
+        },
+        {
+          "move": "Soak",
+          "egg_move": true
+        },
+        {
+          "move": "Thrash",
+          "egg_move": true
+        },
+        {
+          "move": "Tickle",
+          "egg_move": true
+        },
+        {
+          "move": "Zen Headbutt",
+          "egg_move": true
+        },
+        {
+          "move": "Roar",
+          "tm": "TM05"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hail",
+          "tm": "TM07"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Scald",
+          "tm": "TM55"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Surf",
+          "tm": "TM94"
+        },
+        {
+          "move": "Waterfall",
+          "tm": "TM98"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [{
+          "move": "Splash",
+          "level": 1
+        },
+        {
+          "move": "Growl",
+          "level": 4
+        },
+        {
+          "move": "Water Gun",
+          "level": 7
+        },
+        {
+          "move": "Rollout",
+          "level": 10
+        },
+        {
+          "move": "Whirlpool",
+          "level": 13
+        },
+        {
+          "move": "Astonish",
+          "level": 16
+        },
+        {
+          "move": "Water Pulse",
+          "level": 19
+        },
+        {
+          "move": "Mist",
+          "level": 22
+        },
+        {
+          "move": "Brine",
+          "level": 25
+        },
+        {
+          "move": "Rest",
+          "level": 29
+        },
+        {
+          "move": "Water Spout",
+          "level": 33
+        },
+        {
+          "move": "Amnesia",
+          "level": 37
+        },
+        {
+          "move": "Dive",
+          "level": 41
+        },
+        {
+          "move": "Bounce",
+          "level": 45
+        },
+        {
+          "move": "Hydro Pump",
+          "level": 49
+        },
+        {
+          "move": "Heavy Slam",
+          "level": 53
+        },
+        {
+          "move": "Aqua Ring",
+          "egg_move": true
+        },
+        {
+          "move": "Body Slam",
+          "egg_move": true
+        },
+        {
+          "move": "Clear Smog",
+          "egg_move": true
+        },
+        {
+          "move": "Curse",
+          "egg_move": true
+        },
+        {
+          "move": "Defense Curl",
+          "egg_move": true
+        },
+        {
+          "move": "Double-Edge",
+          "egg_move": true
+        },
+        {
+          "move": "Fissure",
+          "egg_move": true
+        },
+        {
+          "move": "Sleep Talk",
+          "egg_move": true
+        },
+        {
+          "move": "Snore",
+          "egg_move": true
+        },
+        {
+          "move": "Soak",
+          "egg_move": true
+        },
+        {
+          "move": "Thrash",
+          "egg_move": true
+        },
+        {
+          "move": "Tickle",
+          "egg_move": true
+        },
+        {
+          "move": "Zen Headbutt",
+          "egg_move": true
+        },
+        {
+          "move": "Roar",
+          "tm": "TM05"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hail",
+          "tm": "TM07"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Scald",
+          "tm": "TM55"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Surf",
+          "tm": "TM94"
+        },
+        {
+          "move": "Waterfall",
+          "tm": "TM98"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
+}

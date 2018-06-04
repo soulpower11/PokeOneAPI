@@ -1,0 +1,606 @@
+{
+  "name": "Tsareena",
+  "national_id": 763,
+  "types": [
+    "Grass"
+  ],
+  "abilities": [{
+      "name": "Leaf Guard"
+    },
+    {
+      "name": "Sweet Veil",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "female": 100.0,
+    "male": 0.0
+  },
+  "egg_groups": [
+    "Grass"
+  ],
+  "height_us": "3'11\"",
+  "height_eu": "1.2 m",
+  "weight_us": "47.2 lbs.",
+  "weight_eu": "21.4 kg",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 3,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "base_stats": {
+    "hp": 72,
+    "atk": 120,
+    "def": 98,
+    "sp_atk": 50,
+    "sp_def": 98,
+    "speed": 72
+  },
+  "evolution_from": "Steenee",
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Low Sweep",
+          "tm": "TM47"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Acrobatics",
+          "tm": "TM62"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+    "regular_learnset": [{
+          "move": "Double Slap",
+          "level": 1
+        },
+        {
+          "move": "Rapid Spin",
+          "level": 1
+        },
+        {
+          "move": "Razor Leaf",
+          "level": 1
+        },
+        {
+          "move": "Splash",
+          "level": 1
+        },
+        {
+          "move": "Swagger",
+          "level": 1
+        },
+        {
+          "move": "Trop Kick",
+          "level": 1
+        },
+        {
+          "move": "Swagger",
+          "level": 5
+        },
+        {
+          "move": "Rapid Spin",
+          "level": 9
+        },
+        {
+          "move": "Razor Leaf",
+          "level": 13
+        },
+        {
+          "move": "Sweet Scent",
+          "level": 17
+        },
+        {
+          "move": "Magical Leaf",
+          "level": 21
+        },
+        {
+          "move": "Teeter Dance",
+          "level": 25
+        },
+        {
+          "move": "Stomp",
+          "level": 29
+        },
+        {
+          "move": "Aromatic Mist",
+          "level": 33
+        },
+        {
+          "move": "Captivate",
+          "level": 37
+        },
+        {
+          "move": "Aromatherapy",
+          "level": 41
+        },
+        {
+          "move": "Leaf Storm",
+          "level": 45
+        },
+        {
+          "move": "High Jump Kick",
+          "level": 49
+        },
+        {
+          "move": "Acupressure",
+          "egg_move": true
+        },
+        {
+          "move": "Charm",
+          "egg_move": true
+        },
+        {
+          "move": "Feint",
+          "egg_move": true
+        },
+        {
+          "move": "Grass Whistle",
+          "egg_move": true
+        },
+        {
+          "move": "Play Rough",
+          "egg_move": true
+        },
+        {
+          "move": "Synthesis",
+          "egg_move": true
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Low Sweep",
+          "tm": "TM47"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Acrobatics",
+          "tm": "TM62"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [{
+          "move": "Double Slap",
+          "level": 1
+        },
+        {
+          "move": "Punishment",
+          "level": 1
+        },
+        {
+          "move": "Rapid Spin",
+          "level": 1
+        },
+        {
+          "move": "Razor Leaf",
+          "level": 1
+        },
+        {
+          "move": "Splash",
+          "level": 1
+        },
+        {
+          "move": "Swagger",
+          "level": 1
+        },
+        {
+          "move": "Trop Kick",
+          "level": 1
+        },
+        {
+          "move": "Swagger",
+          "level": 5
+        },
+        {
+          "move": "Rapid Spin",
+          "level": 9
+        },
+        {
+          "move": "Razor Leaf",
+          "level": 13
+        },
+        {
+          "move": "Sweet Scent",
+          "level": 17
+        },
+        {
+          "move": "Magical Leaf",
+          "level": 21
+        },
+        {
+          "move": "Teeter Dance",
+          "level": 25
+        },
+        {
+          "move": "Stomp",
+          "level": 29
+        },
+        {
+          "move": "Aromatic Mist",
+          "level": 33
+        },
+        {
+          "move": "Captivate",
+          "level": 37
+        },
+        {
+          "move": "Aromatherapy",
+          "level": 41
+        },
+        {
+          "move": "Leaf Storm",
+          "level": 45
+        },
+        {
+          "move": "High Jump Kick",
+          "level": 49
+        },
+        {
+          "move": "Power Whip",
+          "level": 53
+        },
+        {
+          "move": "Acupressure",
+          "egg_move": true
+        },
+        {
+          "move": "Charm",
+          "egg_move": true
+        },
+        {
+          "move": "Feint",
+          "egg_move": true
+        },
+        {
+          "move": "Grass Whistle",
+          "egg_move": true
+        },
+        {
+          "move": "Play Rough",
+          "egg_move": true
+        },
+        {
+          "move": "Synthesis",
+          "egg_move": true
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Low Sweep",
+          "tm": "TM47"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Acrobatics",
+          "tm": "TM62"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
+}

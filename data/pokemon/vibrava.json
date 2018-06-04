@@ -1,0 +1,613 @@
+{
+  "name": "Vibrava",
+  "national_id": 329,
+  "types": [
+    "Ground",
+    "Dragon"
+  ],
+  "abilities": [{
+    "name": "Levitate"
+  }],
+  "gender_ratios": {
+    "male": 50,
+    "female": 50
+  },
+  "egg_groups": [
+    "Bug"
+  ],
+  "height_us": "3'07\"",
+  "height_eu": "1.1 m",
+  "weight_us": "33.7 lbs.",
+  "weight_eu": "15.3 kg",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 1,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 1
+  },
+  "base_stats": {
+    "hp": 50,
+    "atk": 70,
+    "def": 50,
+    "sp_atk": 50,
+    "sp_def": 50,
+    "speed": 70
+  },
+  "evolution_from": "Trapinch",
+  "evolutions": [{
+    "to": "Flygon",
+    "level": 45
+  }],
+  "move_learnsets": [{
+      "tm_learnset": [{
+          "move": "Fly",
+          "tm": "HM02"
+        },
+        {
+          "move": "Strength",
+          "tm": "HM04"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "HM06"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Roost",
+          "tm": "TM19"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Dig",
+          "tm": "TM28"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sandstorm",
+          "tm": "TM37"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Steel Wing",
+          "tm": "TM51"
+        },
+        {
+          "move": "Struggle Bug",
+          "tm": "TM76"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM94"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+    "regular_learnset": [{
+          "move": "Bide",
+          "level": 1
+        },
+        {
+          "move": "Dragon Breath",
+          "level": 1
+        },
+        {
+          "move": "Feint Attack",
+          "level": 1
+        },
+        {
+          "move": "Sand Attack",
+          "level": 1
+        },
+        {
+          "move": "Sonic Boom",
+          "level": 1
+        },
+        {
+          "move": "Mud-Slap",
+          "level": 5
+        },
+        {
+          "move": "Bulldoze",
+          "level": 8
+        },
+        {
+          "move": "Sand Tomb",
+          "level": 12
+        },
+        {
+          "move": "Rock Slide",
+          "level": 15
+        },
+        {
+          "move": "Supersonic",
+          "level": 19
+        },
+        {
+          "move": "Screech",
+          "level": 22
+        },
+        {
+          "move": "Earth Power",
+          "level": 26
+        },
+        {
+          "move": "Bug Buzz",
+          "level": 29
+        },
+        {
+          "move": "Earthquake",
+          "level": 33
+        },
+        {
+          "move": "Sandstorm",
+          "level": 36
+        },
+        {
+          "move": "Uproar",
+          "level": 40
+        },
+        {
+          "move": "Hyper Beam",
+          "level": 43
+        },
+        {
+          "move": "Boomburst",
+          "level": 47
+        },
+        {
+          "move": "Bug Bite",
+          "egg_move": true
+        },
+        {
+          "move": "Earth Power",
+          "egg_move": true
+        },
+        {
+          "move": "Endure",
+          "egg_move": true
+        },
+        {
+          "move": "Flail",
+          "egg_move": true
+        },
+        {
+          "move": "Focus Energy",
+          "egg_move": true
+        },
+        {
+          "move": "Fury Cutter",
+          "egg_move": true
+        },
+        {
+          "move": "Gust",
+          "egg_move": true
+        },
+        {
+          "move": "Mud Shot",
+          "egg_move": true
+        },
+        {
+          "move": "Quick Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Signal Beam",
+          "egg_move": true
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Roost",
+          "tm": "TM19"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sandstorm",
+          "tm": "TM37"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Steel Wing",
+          "tm": "TM51"
+        },
+        {
+          "move": "Fly",
+          "tm": "TM76"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [{
+          "move": "Bide",
+          "level": 1
+        },
+        {
+          "move": "Dragon Breath",
+          "level": 1
+        },
+        {
+          "move": "Feint Attack",
+          "level": 1
+        },
+        {
+          "move": "Sand Attack",
+          "level": 1
+        },
+        {
+          "move": "Sonic Boom",
+          "level": 1
+        },
+        {
+          "move": "Mud-Slap",
+          "level": 5
+        },
+        {
+          "move": "Bulldoze",
+          "level": 8
+        },
+        {
+          "move": "Sand Tomb",
+          "level": 12
+        },
+        {
+          "move": "Rock Slide",
+          "level": 15
+        },
+        {
+          "move": "Supersonic",
+          "level": 19
+        },
+        {
+          "move": "Screech",
+          "level": 22
+        },
+        {
+          "move": "Earth Power",
+          "level": 26
+        },
+        {
+          "move": "Bug Buzz",
+          "level": 29
+        },
+        {
+          "move": "Earthquake",
+          "level": 33
+        },
+        {
+          "move": "Sandstorm",
+          "level": 36
+        },
+        {
+          "move": "Uproar",
+          "level": 40
+        },
+        {
+          "move": "Hyper Beam",
+          "level": 43
+        },
+        {
+          "move": "Boomburst",
+          "level": 47
+        },
+        {
+          "move": "Bug Bite",
+          "egg_move": true
+        },
+        {
+          "move": "Earth Power",
+          "egg_move": true
+        },
+        {
+          "move": "Endure",
+          "egg_move": true
+        },
+        {
+          "move": "Flail",
+          "egg_move": true
+        },
+        {
+          "move": "Focus Energy",
+          "egg_move": true
+        },
+        {
+          "move": "Fury Cutter",
+          "egg_move": true
+        },
+        {
+          "move": "Gust",
+          "egg_move": true
+        },
+        {
+          "move": "Mud Shot",
+          "egg_move": true
+        },
+        {
+          "move": "Quick Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Signal Beam",
+          "egg_move": true
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Roost",
+          "tm": "TM19"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sandstorm",
+          "tm": "TM37"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Steel Wing",
+          "tm": "TM51"
+        },
+        {
+          "move": "Fly",
+          "tm": "TM76"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
+}

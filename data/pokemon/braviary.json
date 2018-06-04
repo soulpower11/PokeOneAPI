@@ -1,0 +1,603 @@
+{
+  "name": "Braviary",
+  "national_id": 628,
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "abilities": [{
+      "name": "Keen Eye"
+    },
+    {
+      "name": "Defiant",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 100.0,
+    "female": 0.0
+  },
+  "egg_groups": [
+    "Flying"
+  ],
+  "height_us": "4'11\"",
+  "height_eu": "1.5 m",
+  "weight_us": "90.4 lbs.",
+  "weight_eu": "41.0 kg",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 2,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "base_stats": {
+    "hp": 100,
+    "atk": 123,
+    "def": 75,
+    "sp_atk": 57,
+    "sp_def": 75,
+    "speed": 80
+  },
+  "evolution_from": "Rufflet",
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
+          "move": "Cut",
+          "tm": "HM01"
+        },
+        {
+          "move": "Fly",
+          "tm": "HM02"
+        },
+        {
+          "move": "Strength",
+          "tm": "HM04"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "HM06"
+        },
+        {
+          "move": "Hone Claws",
+          "tm": "TM01"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Bulk Up",
+          "tm": "TM08"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Roost",
+          "tm": "TM19"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Steel Wing",
+          "tm": "TM51"
+        },
+        {
+          "move": "Sky Drop",
+          "tm": "TM58"
+        },
+        {
+          "move": "Shadow Claw",
+          "tm": "TM65"
+        },
+        {
+          "move": "Retaliate",
+          "tm": "TM67"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM94"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+    "regular_learnset": [{
+          "move": "Brave Bird",
+          "level": 1
+        },
+        {
+          "move": "Fury Attack",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 1
+        },
+        {
+          "move": "Peck",
+          "level": 1
+        },
+        {
+          "move": "Superpower",
+          "level": 1
+        },
+        {
+          "move": "Thrash",
+          "level": 1
+        },
+        {
+          "move": "Whirlwind",
+          "level": 1
+        },
+        {
+          "move": "Wing Attack",
+          "level": 1
+        },
+        {
+          "move": "Fury Attack",
+          "level": 5
+        },
+        {
+          "move": "Wing Attack",
+          "level": 10
+        },
+        {
+          "move": "Hone Claws",
+          "level": 14
+        },
+        {
+          "move": "Scary Face",
+          "level": 19
+        },
+        {
+          "move": "Aerial Ace",
+          "level": 23
+        },
+        {
+          "move": "Slash",
+          "level": 28
+        },
+        {
+          "move": "Defog",
+          "level": 32
+        },
+        {
+          "move": "Tailwind",
+          "level": 37
+        },
+        {
+          "move": "Air Slash",
+          "level": 41
+        },
+        {
+          "move": "Crush Claw",
+          "level": 46
+        },
+        {
+          "move": "Sky Drop",
+          "level": 50
+        },
+        {
+          "move": "Whirlwind",
+          "level": 57
+        },
+        {
+          "move": "Brave Bird",
+          "level": 63
+        },
+        {
+          "move": "Thrash",
+          "level": 70
+        },
+        {
+          "move": "Work Up",
+          "tm": "TM01"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Bulk Up",
+          "tm": "TM08"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Roost",
+          "tm": "TM19"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Steel Wing",
+          "tm": "TM51"
+        },
+        {
+          "move": "Sky Drop",
+          "tm": "TM58"
+        },
+        {
+          "move": "Shadow Claw",
+          "tm": "TM65"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Fly",
+          "tm": "TM76"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [{
+          "move": "Brave Bird",
+          "level": 1
+        },
+        {
+          "move": "Fury Attack",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 1
+        },
+        {
+          "move": "Peck",
+          "level": 1
+        },
+        {
+          "move": "Superpower",
+          "level": 1
+        },
+        {
+          "move": "Thrash",
+          "level": 1
+        },
+        {
+          "move": "Whirlwind",
+          "level": 1
+        },
+        {
+          "move": "Wing Attack",
+          "level": 1
+        },
+        {
+          "move": "Fury Attack",
+          "level": 5
+        },
+        {
+          "move": "Wing Attack",
+          "level": 10
+        },
+        {
+          "move": "Hone Claws",
+          "level": 14
+        },
+        {
+          "move": "Scary Face",
+          "level": 19
+        },
+        {
+          "move": "Aerial Ace",
+          "level": 23
+        },
+        {
+          "move": "Slash",
+          "level": 28
+        },
+        {
+          "move": "Defog",
+          "level": 32
+        },
+        {
+          "move": "Tailwind",
+          "level": 37
+        },
+        {
+          "move": "Air Slash",
+          "level": 41
+        },
+        {
+          "move": "Crush Claw",
+          "level": 46
+        },
+        {
+          "move": "Sky Drop",
+          "level": 50
+        },
+        {
+          "move": "Whirlwind",
+          "level": 57
+        },
+        {
+          "move": "Brave Bird",
+          "level": 63
+        },
+        {
+          "move": "Thrash",
+          "level": 70
+        },
+        {
+          "move": "Work Up",
+          "tm": "TM01"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Bulk Up",
+          "tm": "TM08"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Roost",
+          "tm": "TM19"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Steel Wing",
+          "tm": "TM51"
+        },
+        {
+          "move": "Sky Drop",
+          "tm": "TM58"
+        },
+        {
+          "move": "Shadow Claw",
+          "tm": "TM65"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Fly",
+          "tm": "TM76"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
+}

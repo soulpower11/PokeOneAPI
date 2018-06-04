@@ -1,0 +1,1637 @@
+{
+  "name": "Raticate",
+  "national_id": 20,
+  "types": [
+    "Normal"
+  ],
+  "abilities": [{
+      "name": "Run Away"
+    },
+    {
+      "name": "Guts"
+    },
+    {
+      "name": "Hustle",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50,
+    "female": 50
+  },
+  "egg_groups": [
+    "Field"
+  ],
+  "height_us": "2'04\"",
+  "height_eu": "0.7 m",
+  "weight_us": "40.8 lbs.",
+  "weight_eu": "18.5 kg",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 2
+  },
+  "base_stats": {
+    "hp": 55,
+    "atk": 81,
+    "def": 60,
+    "sp_atk": 50,
+    "sp_def": 70,
+    "speed": 97
+  },
+  "evolution_from": "Rattata",
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
+          "move": "Cut",
+          "tm": "HM01"
+        },
+        {
+          "move": "Strength",
+          "tm": "HM04"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "HM06"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM05"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Dig",
+          "tm": "TM28"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Retaliate",
+          "tm": "TM67"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Wild Charge",
+          "tm": "TM93"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM94"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+    "regular_learnset": [{
+          "move": "Focus Energy",
+          "level": 1
+        },
+        {
+          "move": "Quick Attack",
+          "level": 1
+        },
+        {
+          "move": "Scary Face",
+          "level": 1
+        },
+        {
+          "move": "Swords Dance",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Tail Whip",
+          "level": 1
+        },
+        {
+          "move": "Quick Attack",
+          "level": 4
+        },
+        {
+          "move": "Focus Energy",
+          "level": 7
+        },
+        {
+          "move": "Bite",
+          "level": 10
+        },
+        {
+          "move": "Pursuit",
+          "level": 13
+        },
+        {
+          "move": "Hyper Fang",
+          "level": 16
+        },
+        {
+          "move": "Assurance",
+          "level": 19
+        },
+        {
+          "move": "Crunch",
+          "level": 24
+        },
+        {
+          "move": "Sucker Punch",
+          "level": 29
+        },
+        {
+          "move": "Super Fang",
+          "level": 34
+        },
+        {
+          "move": "Double-Edge",
+          "level": 39
+        },
+        {
+          "move": "Endeavor",
+          "level": 44
+        },
+        {
+          "move": "Bite",
+          "egg_move": true,
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Counter",
+          "egg_move": true,
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Final Gambit",
+          "egg_move": true,
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Flame Wheel",
+          "egg_move": true,
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Fury Swipes",
+          "egg_move": true,
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Last Resort",
+          "egg_move": true,
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Me First",
+          "egg_move": true,
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Revenge",
+          "egg_move": true,
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Reversal",
+          "egg_move": true,
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Screech",
+          "egg_move": true,
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Uproar",
+          "egg_move": true,
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Counter",
+          "egg_move": true,
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Final Gambit",
+          "egg_move": true,
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Fury Swipes",
+          "egg_move": true,
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Me First",
+          "egg_move": true,
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Revenge",
+          "egg_move": true,
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Reversal",
+          "egg_move": true,
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Snatch",
+          "egg_move": true,
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Stockpile",
+          "egg_move": true,
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Swallow",
+          "egg_move": true,
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Switcheroo",
+          "egg_move": true,
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Uproar",
+          "egg_move": true,
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Work Up",
+          "tm": "TM01",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Roar",
+          "tm": "TM05",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Return",
+          "tm": "TM27",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Round",
+          "tm": "TM48",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Wild Charge",
+          "tm": "TM93",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Roar",
+          "tm": "TM05",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Bulk Up",
+          "tm": "TM08",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Venoshock",
+          "tm": "TM09",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Return",
+          "tm": "TM27",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Sludge Wave",
+          "tm": "TM34",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Sludge Bomb",
+          "tm": "TM36",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Torment",
+          "tm": "TM41",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Round",
+          "tm": "TM48",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Quash",
+          "tm": "TM60",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Embargo",
+          "tm": "TM63",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Shadow Claw",
+          "tm": "TM65",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Snarl",
+          "tm": "TM95",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Dark Pulse",
+          "tm": "TM97",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [{
+          "move": "Focus Energy",
+          "level": 1
+        },
+        {
+          "move": "Quick Attack",
+          "level": 1
+        },
+        {
+          "move": "Scary Face",
+          "level": 1
+        },
+        {
+          "move": "Swords Dance",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Tail Whip",
+          "level": 1
+        },
+        {
+          "move": "Quick Attack",
+          "level": 4
+        },
+        {
+          "move": "Focus Energy",
+          "level": 7
+        },
+        {
+          "move": "Bite",
+          "level": 10
+        },
+        {
+          "move": "Pursuit",
+          "level": 13
+        },
+        {
+          "move": "Hyper Fang",
+          "level": 16
+        },
+        {
+          "move": "Assurance",
+          "level": 19
+        },
+        {
+          "move": "Crunch",
+          "level": 24
+        },
+        {
+          "move": "Sucker Punch",
+          "level": 29
+        },
+        {
+          "move": "Super Fang",
+          "level": 34
+        },
+        {
+          "move": "Double-Edge",
+          "level": 39
+        },
+        {
+          "move": "Endeavor",
+          "level": 44
+        },
+        {
+          "move": "Bite",
+          "egg_move": true,
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Counter",
+          "egg_move": true,
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Final Gambit",
+          "egg_move": true,
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Flame Wheel",
+          "egg_move": true,
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Fury Swipes",
+          "egg_move": true,
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Last Resort",
+          "egg_move": true,
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Me First",
+          "egg_move": true,
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Revenge",
+          "egg_move": true,
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Reversal",
+          "egg_move": true,
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Screech",
+          "egg_move": true,
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Uproar",
+          "egg_move": true,
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Counter",
+          "egg_move": true,
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Final Gambit",
+          "egg_move": true,
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Fury Swipes",
+          "egg_move": true,
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Me First",
+          "egg_move": true,
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Revenge",
+          "egg_move": true,
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Reversal",
+          "egg_move": true,
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Snatch",
+          "egg_move": true,
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Stockpile",
+          "egg_move": true,
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Swallow",
+          "egg_move": true,
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Switcheroo",
+          "egg_move": true,
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Uproar",
+          "egg_move": true,
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Work Up",
+          "tm": "TM01",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Roar",
+          "tm": "TM05",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Return",
+          "tm": "TM27",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Round",
+          "tm": "TM48",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Wild Charge",
+          "tm": "TM93",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100",
+          "variations": [
+            "Raticate"
+          ]
+        },
+        {
+          "move": "Roar",
+          "tm": "TM05",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Bulk Up",
+          "tm": "TM08",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Venoshock",
+          "tm": "TM09",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Return",
+          "tm": "TM27",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Sludge Wave",
+          "tm": "TM34",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Sludge Bomb",
+          "tm": "TM36",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Torment",
+          "tm": "TM41",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Round",
+          "tm": "TM48",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Quash",
+          "tm": "TM60",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Embargo",
+          "tm": "TM63",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Shadow Claw",
+          "tm": "TM65",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Snarl",
+          "tm": "TM95",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Dark Pulse",
+          "tm": "TM97",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100",
+          "variations": [
+            "Alolan Raticate"
+          ]
+        }
+      ]
+    }
+  ]
+}

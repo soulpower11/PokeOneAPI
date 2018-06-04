@@ -1,0 +1,749 @@
+{
+  "name": "Ralts",
+  "national_id": 280,
+  "types": [
+    "Psychic",
+    "Fairy"
+  ],
+  "abilities": [{
+      "name": "Synchronize"
+    },
+    {
+      "name": "Trace"
+    },
+    {
+      "name": "Telepathy",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50,
+    "female": 50
+  },
+  "egg_groups": [
+    "Amorphous"
+  ],
+  "height_us": "1'04\"",
+  "height_eu": "0.4 m",
+  "weight_us": "14.6 lbs.",
+  "weight_eu": "6.6 kg",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 1,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "base_stats": {
+    "hp": 28,
+    "atk": 25,
+    "def": 25,
+    "sp_atk": 45,
+    "sp_def": 35,
+    "speed": 40
+  },
+  "evolutions": [{
+    "to": "Kirlia",
+    "level": 20
+  }],
+  "evolution_from": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
+          "move": "Psyshock",
+          "tm": "TM03"
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM04"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Torment",
+          "tm": "TM41"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Will-O-Wisp",
+          "tm": "TM61"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Dream Eater",
+          "tm": "TM85"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Trick Room",
+          "tm": "TM92"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM94"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+    "regular_learnset": [{
+          "move": "Growl",
+          "level": 1
+        },
+        {
+          "move": "Confusion",
+          "level": 4
+        },
+        {
+          "move": "Double Team",
+          "level": 6
+        },
+        {
+          "move": "Teleport",
+          "level": 9
+        },
+        {
+          "move": "Disarming Voice",
+          "level": 11
+        },
+        {
+          "move": "Lucky Chant",
+          "level": 14
+        },
+        {
+          "move": "Magical Leaf",
+          "level": 17
+        },
+        {
+          "move": "Heal Pulse",
+          "level": 19
+        },
+        {
+          "move": "Draining Kiss",
+          "level": 22
+        },
+        {
+          "move": "Calm Mind",
+          "level": 24
+        },
+        {
+          "move": "Psychic",
+          "level": 27
+        },
+        {
+          "move": "Imprison",
+          "level": 29
+        },
+        {
+          "move": "Future Sight",
+          "level": 32
+        },
+        {
+          "move": "Charm",
+          "level": 34
+        },
+        {
+          "move": "Hypnosis",
+          "level": 37
+        },
+        {
+          "move": "Dream Eater",
+          "level": 39
+        },
+        {
+          "move": "Stored Power",
+          "level": 42
+        },
+        {
+          "move": "Ally Switch",
+          "egg_move": true
+        },
+        {
+          "move": "Confuse Ray",
+          "egg_move": true
+        },
+        {
+          "move": "Destiny Bond",
+          "egg_move": true
+        },
+        {
+          "move": "Disable",
+          "egg_move": true
+        },
+        {
+          "move": "Encore",
+          "egg_move": true
+        },
+        {
+          "move": "Grudge",
+          "egg_move": true
+        },
+        {
+          "move": "Mean Look",
+          "egg_move": true
+        },
+        {
+          "move": "Memento",
+          "egg_move": true
+        },
+        {
+          "move": "Misty Terrain",
+          "egg_move": true
+        },
+        {
+          "move": "Shadow Sneak",
+          "egg_move": true
+        },
+        {
+          "move": "Skill Swap",
+          "egg_move": true
+        },
+        {
+          "move": "Synchronoise",
+          "egg_move": true
+        },
+        {
+          "move": "Psyshock",
+          "tm": "TM03"
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM04"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Torment",
+          "tm": "TM41"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Will-O-Wisp",
+          "tm": "TM61"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Dream Eater",
+          "tm": "TM85"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Trick Room",
+          "tm": "TM92"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [{
+          "move": "Growl",
+          "level": 1
+        },
+        {
+          "move": "Confusion",
+          "level": 4
+        },
+        {
+          "move": "Double Team",
+          "level": 6
+        },
+        {
+          "move": "Teleport",
+          "level": 9
+        },
+        {
+          "move": "Disarming Voice",
+          "level": 11
+        },
+        {
+          "move": "Lucky Chant",
+          "level": 14
+        },
+        {
+          "move": "Magical Leaf",
+          "level": 17
+        },
+        {
+          "move": "Heal Pulse",
+          "level": 19
+        },
+        {
+          "move": "Draining Kiss",
+          "level": 22
+        },
+        {
+          "move": "Calm Mind",
+          "level": 24
+        },
+        {
+          "move": "Psychic",
+          "level": 27
+        },
+        {
+          "move": "Imprison",
+          "level": 29
+        },
+        {
+          "move": "Future Sight",
+          "level": 32
+        },
+        {
+          "move": "Charm",
+          "level": 34
+        },
+        {
+          "move": "Hypnosis",
+          "level": 37
+        },
+        {
+          "move": "Dream Eater",
+          "level": 39
+        },
+        {
+          "move": "Stored Power",
+          "level": 42
+        },
+        {
+          "move": "Ally Switch",
+          "egg_move": true
+        },
+        {
+          "move": "Confuse Ray",
+          "egg_move": true
+        },
+        {
+          "move": "Destiny Bond",
+          "egg_move": true
+        },
+        {
+          "move": "Disable",
+          "egg_move": true
+        },
+        {
+          "move": "Encore",
+          "egg_move": true
+        },
+        {
+          "move": "Grudge",
+          "egg_move": true
+        },
+        {
+          "move": "Mean Look",
+          "egg_move": true
+        },
+        {
+          "move": "Memento",
+          "egg_move": true
+        },
+        {
+          "move": "Misty Terrain",
+          "egg_move": true
+        },
+        {
+          "move": "Shadow Sneak",
+          "egg_move": true
+        },
+        {
+          "move": "Skill Swap",
+          "egg_move": true
+        },
+        {
+          "move": "Synchronoise",
+          "egg_move": true
+        },
+        {
+          "move": "Psyshock",
+          "tm": "TM03"
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM04"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Torment",
+          "tm": "TM41"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Will-O-Wisp",
+          "tm": "TM61"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Dream Eater",
+          "tm": "TM85"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Trick Room",
+          "tm": "TM92"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
+}

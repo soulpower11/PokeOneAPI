@@ -1,0 +1,70 @@
+{
+  "name": "Metapod",
+  "national_id": 11,
+  "types": [
+    "Bug"
+  ],
+  "abilities": [{
+    "name": "Shed Skin"
+  }],
+  "gender_ratios": {
+    "male": 50,
+    "female": 50
+  },
+  "egg_groups": [
+    "Bug"
+  ],
+  "height_us": "2'04\"",
+  "height_eu": "0.7 m",
+  "weight_us": "21.8 lbs.",
+  "weight_eu": "9.9 kg",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 2,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "base_stats": {
+    "hp": 50,
+    "atk": 20,
+    "def": 55,
+    "sp_atk": 25,
+    "sp_def": 25,
+    "speed": 30
+  },
+  "evolution_from": "Caterpie",
+  "evolutions": [{
+    "to": "Butterfree",
+    "level": 10
+  }],
+  "move_learnsets": [{
+      "tm_learnset": [{
+          "move": "Harden",
+          "level": 1
+        },
+        {
+          "move": "Harden",
+          "level": 7
+        }
+      ]
+    },
+    {
+    "regular_learnset": [{
+        "move": "Harden",
+        "level": 1
+      }]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [{
+        "move": "Harden",
+        "level": 1
+      }]
+    }
+  ]
+}

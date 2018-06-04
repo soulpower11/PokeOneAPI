@@ -1,0 +1,181 @@
+{
+  "name": "Smeargle",
+  "national_id": 235,
+  "types": [
+    "Normal"
+  ],
+  "abilities": [{
+      "name": "Own Tempo"
+    },
+    {
+      "name": "Technician"
+    },
+    {
+      "name": "Moody",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50,
+    "female": 50
+  },
+  "egg_groups": [
+    "Field"
+  ],
+  "height_us": "3'11\"",
+  "height_eu": "1.2 m",
+  "weight_us": "127.9 lbs.",
+  "weight_eu": "58.0 kg",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 1
+  },
+  "base_stats": {
+    "hp": 55,
+    "atk": 20,
+    "def": 35,
+    "sp_atk": 20,
+    "sp_def": 45,
+    "speed": 75
+  },
+  "evolutions": null,
+  "evolution_from": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
+          "move": "Sketch",
+          "level": 1
+        },
+        {
+          "move": "Sketch",
+          "level": 11
+        },
+        {
+          "move": "Sketch",
+          "level": 21
+        },
+        {
+          "move": "Sketch",
+          "level": 31
+        },
+        {
+          "move": "Sketch",
+          "level": 41
+        },
+        {
+          "move": "Sketch",
+          "level": 51
+        },
+        {
+          "move": "Sketch",
+          "level": 61
+        },
+        {
+          "move": "Sketch",
+          "level": 71
+        },
+        {
+          "move": "Sketch",
+          "level": 81
+        },
+        {
+          "move": "Sketch",
+          "level": 91
+        }
+      ]
+    },
+    {
+    "regular_learnset": [{
+          "move": "Sketch",
+          "level": 1
+        },
+        {
+          "move": "Sketch",
+          "level": 11
+        },
+        {
+          "move": "Sketch",
+          "level": 21
+        },
+        {
+          "move": "Sketch",
+          "level": 31
+        },
+        {
+          "move": "Sketch",
+          "level": 41
+        },
+        {
+          "move": "Sketch",
+          "level": 51
+        },
+        {
+          "move": "Sketch",
+          "level": 61
+        },
+        {
+          "move": "Sketch",
+          "level": 71
+        },
+        {
+          "move": "Sketch",
+          "level": 81
+        },
+        {
+          "move": "Sketch",
+          "level": 91
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [{
+          "move": "Sketch",
+          "level": 1
+        },
+        {
+          "move": "Sketch",
+          "level": 11
+        },
+        {
+          "move": "Sketch",
+          "level": 21
+        },
+        {
+          "move": "Sketch",
+          "level": 31
+        },
+        {
+          "move": "Sketch",
+          "level": 41
+        },
+        {
+          "move": "Sketch",
+          "level": 51
+        },
+        {
+          "move": "Sketch",
+          "level": 61
+        },
+        {
+          "move": "Sketch",
+          "level": 71
+        },
+        {
+          "move": "Sketch",
+          "level": 81
+        },
+        {
+          "move": "Sketch",
+          "level": 91
+        }
+      ]
+    }
+  ]
+}

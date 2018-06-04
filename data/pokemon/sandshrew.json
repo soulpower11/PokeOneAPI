@@ -1,0 +1,1899 @@
+{
+  "name": "Sandshrew",
+  "national_id": 27,
+  "types": [
+    "Ground"
+  ],
+  "abilities": [{
+      "name": "Sand Veil"
+    },
+    {
+      "name": "Sand Rush",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50,
+    "female": 50
+  },
+  "egg_groups": [
+    "Field"
+  ],
+  "height_us": "2'00\"",
+  "height_eu": "0.6 m",
+  "weight_us": "26.5 lbs.",
+  "weight_eu": "12.0 kg",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 1,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "base_stats": {
+    "hp": 50,
+    "atk": 75,
+    "def": 85,
+    "sp_atk": 20,
+    "sp_def": 30,
+    "speed": 40
+  },
+  "evolutions": [{
+    "to": "Sandslash",
+    "level": 22
+  }],
+  "evolution_from": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
+          "move": "Cut",
+          "tm": "HM01"
+        },
+        {
+          "move": "Strength",
+          "tm": "HM04"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "HM06"
+        },
+        {
+          "move": "Hone Claws",
+          "tm": "TM01"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Dig",
+          "tm": "TM28"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sandstorm",
+          "tm": "TM37"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Shadow Claw",
+          "tm": "TM65"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "X-Scissor",
+          "tm": "TM81"
+        },
+        {
+          "move": "Poison Jab",
+          "tm": "TM84"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM94"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+    "regular_learnset": [{
+          "move": "Defense Curl",
+          "level": 1,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Scratch",
+          "level": 1,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Sand Attack",
+          "level": 3,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Poison Sting",
+          "level": 5,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Rollout",
+          "level": 7,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Rapid Spin",
+          "level": 9,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Fury Cutter",
+          "level": 11,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Magnitude",
+          "level": 14,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Swift",
+          "level": 17,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Fury Swipes",
+          "level": 20,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Sand Tomb",
+          "level": 23,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Slash",
+          "level": 26,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Dig",
+          "level": 30,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Gyro Ball",
+          "level": 34,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Swords Dance",
+          "level": 38,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Sandstorm",
+          "level": 42,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Earthquake",
+          "level": 46,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Defense Curl",
+          "level": 1,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Scratch",
+          "level": 1,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Bide",
+          "level": 3,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Powder Snow",
+          "level": 5,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Ice Ball",
+          "level": 7,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Rapid Spin",
+          "level": 9,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Fury Cutter",
+          "level": 11,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Metal Claw",
+          "level": 14,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Swift",
+          "level": 17,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Fury Swipes",
+          "level": 20,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Iron Defense",
+          "level": 23,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Slash",
+          "level": 26,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Iron Head",
+          "level": 30,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Gyro Ball",
+          "level": 34,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Swords Dance",
+          "level": 38,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Hail",
+          "level": 42,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Blizzard",
+          "level": 46,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Chip Away",
+          "egg_move": true,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Counter",
+          "egg_move": true,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Crush Claw",
+          "egg_move": true,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Endure",
+          "egg_move": true,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Flail",
+          "egg_move": true,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Metal Claw",
+          "egg_move": true,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Mud Shot",
+          "egg_move": true,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Night Slash",
+          "egg_move": true,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Rapid Spin",
+          "egg_move": true,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Rock Climb",
+          "egg_move": true,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Rototiller",
+          "egg_move": true,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Amnesia",
+          "egg_move": true,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Chip Away",
+          "egg_move": true,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Counter",
+          "egg_move": true,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Crush Claw",
+          "egg_move": true,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Curse",
+          "egg_move": true,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Endure",
+          "egg_move": true,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Flail",
+          "egg_move": true,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Icicle Crash",
+          "egg_move": true,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Icicle Spear",
+          "egg_move": true,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Metal Claw",
+          "egg_move": true,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Night Slash",
+          "egg_move": true,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Return",
+          "tm": "TM27",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Sandstorm",
+          "tm": "TM37",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Round",
+          "tm": "TM48",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Shadow Claw",
+          "tm": "TM65",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "X-Scissor",
+          "tm": "TM81",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Poison Jab",
+          "tm": "TM84",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Work Up",
+          "tm": "TM01",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Hail",
+          "tm": "TM07",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Return",
+          "tm": "TM27",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Leech Life",
+          "tm": "TM28",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Round",
+          "tm": "TM48",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Shadow Claw",
+          "tm": "TM65",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Aurora Veil",
+          "tm": "TM70",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Frost Breath",
+          "tm": "TM79",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "X-Scissor",
+          "tm": "TM81",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Poison Jab",
+          "tm": "TM84",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [{
+          "move": "Defense Curl",
+          "level": 1,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Scratch",
+          "level": 1,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Sand Attack",
+          "level": 3,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Poison Sting",
+          "level": 5,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Rollout",
+          "level": 7,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Rapid Spin",
+          "level": 9,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Fury Cutter",
+          "level": 11,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Magnitude",
+          "level": 14,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Swift",
+          "level": 17,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Fury Swipes",
+          "level": 20,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Sand Tomb",
+          "level": 23,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Slash",
+          "level": 26,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Dig",
+          "level": 30,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Gyro Ball",
+          "level": 34,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Swords Dance",
+          "level": 38,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Sandstorm",
+          "level": 42,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Earthquake",
+          "level": 46,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Defense Curl",
+          "level": 1,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Scratch",
+          "level": 1,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Bide",
+          "level": 3,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Powder Snow",
+          "level": 5,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Ice Ball",
+          "level": 7,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Rapid Spin",
+          "level": 9,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Fury Cutter",
+          "level": 11,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Metal Claw",
+          "level": 14,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Swift",
+          "level": 17,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Fury Swipes",
+          "level": 20,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Iron Defense",
+          "level": 23,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Slash",
+          "level": 26,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Iron Head",
+          "level": 30,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Gyro Ball",
+          "level": 34,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Swords Dance",
+          "level": 38,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Hail",
+          "level": 42,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Blizzard",
+          "level": 46,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Chip Away",
+          "egg_move": true,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Counter",
+          "egg_move": true,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Crush Claw",
+          "egg_move": true,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Endure",
+          "egg_move": true,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Flail",
+          "egg_move": true,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Hone Claws",
+          "egg_move": true,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Metal Claw",
+          "egg_move": true,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Mud Shot",
+          "egg_move": true,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Night Slash",
+          "egg_move": true,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Rapid Spin",
+          "egg_move": true,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Rock Climb",
+          "egg_move": true,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Rototiller",
+          "egg_move": true,
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Amnesia",
+          "egg_move": true,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Chip Away",
+          "egg_move": true,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Counter",
+          "egg_move": true,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Crush Claw",
+          "egg_move": true,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Curse",
+          "egg_move": true,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Endure",
+          "egg_move": true,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Flail",
+          "egg_move": true,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Hone Claws",
+          "egg_move": true,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Icicle Crash",
+          "egg_move": true,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Icicle Spear",
+          "egg_move": true,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Metal Claw",
+          "egg_move": true,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Night Slash",
+          "egg_move": true,
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Return",
+          "tm": "TM27",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Sandstorm",
+          "tm": "TM37",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Round",
+          "tm": "TM48",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Shadow Claw",
+          "tm": "TM65",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "X-Scissor",
+          "tm": "TM81",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Poison Jab",
+          "tm": "TM84",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100",
+          "variations": [
+            "Sandshrew"
+          ]
+        },
+        {
+          "move": "Work Up",
+          "tm": "TM01",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM06",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Hail",
+          "tm": "TM07",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Return",
+          "tm": "TM27",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Leech Life",
+          "tm": "TM28",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Round",
+          "tm": "TM48",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Shadow Claw",
+          "tm": "TM65",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Aurora Veil",
+          "tm": "TM70",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Frost Breath",
+          "tm": "TM79",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "X-Scissor",
+          "tm": "TM81",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Poison Jab",
+          "tm": "TM84",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100",
+          "variations": [
+            "Alolan Sandshrew"
+          ]
+        }
+      ]
+    }
+  ]
+}
