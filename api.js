@@ -3,12 +3,15 @@ console.log("API Loading...")
 // End Loading
 
 //Packages && Main Const/Vars
+
+var port = process.env.PORT || 80;
+
 const moment = require('moment')
 var express = require('express');
 var app = express();
 var fs = require('fs');
 const sf = require('snekfetch');
-var server = app.listen(80, listening);
+var server = app.listen(port, listening);
 var RateLimit = require('express-rate-limit');
 const userfunc = require("./util/userfunc.js")
 const logger = require("./util/logger.js")
