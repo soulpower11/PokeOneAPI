@@ -14,8 +14,6 @@ const sf = require('snekfetch');
 var server = app.listen(port, listening);
 console.log("Running on port: " + port);
 var RateLimit = require('express-rate-limit');
-const userfunc = require("./util/userfunc.js")
-const logger = require("./util/logger.js")
 const dsearch = require("./util/datasearch.js")
 
 
@@ -44,16 +42,6 @@ app.use('/public/', limiter);
 
 //app.use('/', userfunc.banned);
 
-
-//Token Checker
-app.use('/private/', userfunc.tokenCheck);
-
-//Logger
-app.use('/private/', logger.privateLogger);
-app.use('/public/', logger.publicLogger);
-
-//Account Data
-app.get("/account/token", userfunc.userToken);
 
 //Searches {Public}
 app.get("/public/pokemon/:search?", dsearch.pokemon);
