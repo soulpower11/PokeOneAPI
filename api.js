@@ -4,7 +4,7 @@ console.log("API Loading...")
 
 //Packages && Main Const/Vars
 
-var port = process.env.PORT || 80;
+var port = process.env.PORT || 8080;
 
 const moment = require('moment')
 var express = require('express');
