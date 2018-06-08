@@ -11,12 +11,13 @@
     "moment": "^2.22.1",
     "oakdex-pokedex": "^0.1.2",
     "snekfetch": "^3.6.4",
-    "sqlite": "^2.9.1",
+    "sqlite": "^2.9.2",
     "sqlite3": "^4.0.0"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node api.js"
   },
   "author": "",
   "license": "ISC",
