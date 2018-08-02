@@ -97,202 +97,202 @@
     "bulletproof": {
         "name": "Bulletproof",
         "description": "Protects the Pokémon from some ball and bomb moves.",
-        "effect": "In battle\r\nPokémon with Bulletproof are not affected by ball and bomb moves, as well as some cannon-based and blast-based attacks.\r\n\r\nBall and bomb moves\r\nThe Ability affects the following moves:\r\n\r\nMove\tType\tCat.\tGen.\r\nAcid Spray*\t Poison \tSpecial\tVI+\r\nAura Sphere*\t Fighting \tSpecial\tVI+\r\nBarrage*\t Normal \tPhysical\tVI+\r\nBeak Blast*\t Flying \tPhysical\tVII\r\nBullet Seed\t Grass \tPhysical\tVI+\r\nEgg Bomb\t Normal \tPhysical\tVI+\r\nElectro Ball\t Electric \tSpecial\tVI+\r\nEnergy Ball\t Grass \tSpecial\tVI+\r\nFocus Blast*\t Fighting \tSpecial\tVI+\r\nGyro Ball\t Steel \tPhysical\tVI+\r\nIce Ball\t Ice \tPhysical\tVI+\r\nMagnet Bomb\t Steel \tPhysical\tVI+\r\nMist Ball\t Psychic \tSpecial\tVI+\r\nMud Bomb\t Ground \tSpecial\tVI+\r\nOctazooka*\t Water \tSpecial\tVI+\r\nPollen Puff*\t Bug \tSpecial\tVII\r\nRock Blast\t Rock \tPhysical\tVII\r\nRock Wrecker*\t Rock \tPhysical\tVI+\r\nSearing Shot*\t Fire \tSpecial\tVI+\r\nSeed Bomb\t Grass \tPhysical\tVI+\r\nShadow Ball\t Ghost \tSpecial\tVI+\r\nSludge Bomb\t Poison \tSpecial\tVI+\r\nWeather Ball\t Normal \tSpecial\tVI+\r\nZap Cannon\t Electric \tSpecial\tVI+\r\n\r\nOutside of battle\r\nBulletproof has no effect outside of battle."
+        "effect": "In battle\r\nPokémon with Bulletproof are not affected by ball and bomb moves, as well as some cannon-based and blast-based attacks.\r\n\r\nOutside of battle\r\nBulletproof has no effect outside of battle."
     },
     "cheek pouch": {
         "name": "Cheek Pouch",
         "description": "Restores HP as well when the Pokémon eats a Berry.",
-        "effect": ""
+        "effect": "In battle\r\nCheek Pouch restores 33% of the Pokémon's maximum HP when it consumes a Berry, after the effect of the Berry is applied.\r\n\r\nCheek Pouch activates even if the Pokémon eats another Pokémon's held Berry via Bug Bite, Pluck or Fling, but only if the Berry is actually eaten for an effect (i.e. the Berry consumption animation plays). Consuming a Berry through other means (such as Natural Gift, using Fling, or its Trainer giving it a Berry from the Bag) will not trigger Cheek Pouch.\r\n\r\nCheek Pouch will not activate if the Pokémon is under the effect of Heal Block.\r\n\r\nOutside of battle\r\nIt is unknown if Cheek Pouch has an effect outside of battle."
     },
     "chlorophyll": {
         "name": "Chlorophyll",
-        "description": "Boosts the Pokémon’s Speed in sunshine.",
-        "effect": ""
+        "description": "Boosts the Pokémon's Speed stat in harsh sunlight.",
+        "effect": "In battle\r\nDuring harsh sunlight, the Speed stat of Pokémon with this Ability is doubled.\r\n\r\nOutside of battle\r\nChlorophyll has no effect outside of battle."
     },
     "clear body": {
         "name": "Clear Body",
-        "description": "Prevents the Pokémon’s stats from being lowered.",
-        "effect": ""
+        "description": "Prevents other Pokémon's moves or Abilities from lowering the Pokémon's stats.",
+        "effect": "In battle\r\nClear Body prevents stat reduction caused by other Pokémon's moves and Abilities (such as Scary Face and Intimidate), including Sticky Web. Clear Body does not prevent self-inflicted stat reductions such as from moves like Superpower or Hammer Arm.\r\n\r\nClear Body only protects from effects that lower stat stages, so it does not prevent stat reduction from items like the Iron Ball, the status conditions paralysis or burn, or the moves Guard Split or Power Split. Clear Body does not prevent stat stages being directly modified by Heart Swap, Guard Swap, Power Swap, Baton Pass, or Topsy-Turvy.\r\n\r\nThis Ability is ignored by Pokémon with Mold Breaker, Teravolt, and Turboblaze.\r\n\r\nOutside of battle\r\nClear Body has no effect outside of battle."
     },
     "cloud nine": {
         "name": "Cloud Nine",
-        "description": "Eliminates the effects of weather.",
-        "effect": ""
+        "description": "Eliminates the effects of weather.\r\n",
+        "effect": "In battle\r\nWhen a Pokémon with Cloud Nine is in battle, all effects of weather are negated (though the weather itself does not disappear).\r\n\r\nGeneration V\r\nWhen a Pokémon with Cloud Nine is brought out, the message \"The effects of weather disappeared.\" will be displayed.\r\n\r\nGeneration VI\r\nDuring extremely harsh sunlight, heavy rain, and a mysterious air current, even if a Pokémon is negating the effects of weather with Cloud Nine, the moves Sunny Day, Rain Dance, Sandstorm, and Hail will still fail if used, and the Abilities Drought, Drizzle, Sand Stream, and Snow Warning will still fail to activate. However, all other effects of these weather conditions are negated by Cloud Nine.\r\n\r\nOutside of battle\r\nCloud Nine has no effect outside of battle."
     },
     "color change": {
         "name": "Color Change",
-        "description": "Changes the Pokémon’s type to the foe’s move.",
-        "effect": ""
+        "description": "The Pokémon's type becomes the type of the move used on it.",
+        "effect": "In battle\r\nGenerations III and IV\r\nWhen a Pokémon with this Ability is hit by a damage-dealing move (except Struggle and Shadow moves), Color Change will change the Pokémon's own type to the type of the move that it was hit by. Color Change does not activate if the Pokémon's substitute is hit.\r\n\r\nEven if the Pokémon with Color Change has two types, it will only have a single type after the effect is applied. If a Pokémon with this Ability is hit by Weather Ball during shadowy aura, it will become Normal-type.\r\n\r\nColor Change will activate after the first hit of a multi-strike move. Future Sight and Doom Desire do not activate Color Change.\r\n\r\nStatus conditions are inflicted before Color Change activates. As a result, even if Color Change would make the Pokémon become a type that is immune to the status condition, the Pokémon can still be afflicted with the status condition; for example, a Pokémon with Color Change that is hit by Poison Sting has a chance to be poisoned before it becomes Poison-type.\r\n\r\nGeneration V onward\r\nColor Change now activates after the last hit of a multi-strike move.\r\n\r\nFuture Sight and Doom Desire now activate Color Change when they hit (they do not activate Color Change when used).\r\n\r\nColor Change will not activate when the Pokémon is hit by a typeless Revelation Dance.\r\n\r\nOutside of battle\r\nColor Change has no effect outside of battle."
     },
     "comatose": {
         "name": "Comatose",
         "description": "It's always drowsing and will never wake up. It can attack without waking up.",
-        "effect": ""
+        "effect": "In battle\r\nComatose makes the user act as if it were asleep, without inflicting the status; the Pokémon with this Ability can still use moves (including successfully using Sleep Talk and Snore). It cannot be afflicted with non-volatile status conditions or become drowsy due to Yawn. The Pokémon with this Ability takes double damage from Hex and Wake-Up Slap; can be affected by Dream Eater, Nightmare, and Bad Dreams; and cannot successfully use Rest.\r\n\r\nComatose is unaffected by effects that prevent sleep (such as Uproar, Electric Terrain and Sweet Veil). Comatose is unaffected by Mold Breaker, Turboblaze and Teravolt. A Pokémon with Poison Touch using Sunsteel Strike cannot poison a target that has Comatose.\r\n\r\nRole Play, Gastro Acid, Worry Seed, Simple Beam, and Entrainment fail if the target has the Ability Comatose. Skill Swap fails if either Pokémon has Comatose. Comatose cannot be copied by Trace, Power of Alchemy, or Receiver. Comatose cannot be replaced by Mummy or suppressed by Core Enforcer. If a Pokémon that has its Ability suppressed passes that effect to a Pokémon with Comatose via Baton Pass, that effect fades. If a Pokémon that already has its Ability suppressed obtains Comatose with Transform, Comatose's effects are suppressed (i.e. the Pokémon will not be protected from status conditions, is not treated as asleep for effects such as Sleep Talk, etc.).\r\n\r\nIf a Pokémon that already has a status condition gains Comatose (i.e. due to Transform or Imposter), it will not be cured of its status condition. If the Pokémon was asleep, the status has its normal effect, unaffected by Comatose.\r\n\r\nOutside of battle\r\nComatose has no effect outside of battle."
     },
     "competitive": {
         "name": "Competitive",
-        "description": "Boosts the Sp.Atk stat when a stat is lowered.",
-        "effect": ""
+        "description": "Boosts the Sp. Atk stat sharply when a stat is lowered.",
+        "effect": "In battle\r\nWhen a stat of a Pokémon with this Ability is lowered by an opponent, its Special Attack is increased by two stages. Competitive will not activate if the Pokémon with this Ability lowers its own stats (such as with Close Combat) or if its stats are lowered by an ally.\r\n\r\nIf multiple stats are lowered (such as by Memento or Venom Drench) Competitive activates for each stat lowered.\r\n\r\nIf the Pokémon with this Ability is holding a White Herb, if a stat other than Special Attack is lowered, Competitive will trigger before the White Herb, so the user will receive the Special Attack boost and then the lowered stat will be restored. If its Special Attack is lowered, Competitive will activate first, increasing its Special Attack so that the White Herb cannot activate.\r\n\r\nOutside of battle\r\nCompetitive has no effect outside of battle."
     },
     "compound eyes": {
         "name": "Compound Eyes",
-        "description": "The Pokémon’s accuracy is boosted.",
-        "effect": ""
+        "description": "The Pokémon's compound eyes boost its accuracy.",
+        "effect": "In battle\r\nCompound Eyes raises accuracy by 30% of a move's original accuracy in battles. This means that Thunder, for example, has 91% accuracy as opposed to the usual 70% (70 x 1.3 = 91%). A move with a theoretical accuracy of 77% or higher will have its accuracy set to 100% (77% x 1.3 = 100.1%).\r\n\r\nOutside of battle\r\nIn Pokémon Emerald and all games since Generation IV, if a Pokémon with this Ability leads the party (even if fainted), the chances of finding a wild Pokémon holding an item increase from 50%/5% to 60%/20%. In dark grass in Generation V, the chances increase from 50%/5%/1% to 60%/20%/5%."
     },
     "contrary": {
         "name": "Contrary",
-        "description": "Inverts stat modifiers.",
-        "effect": ""
+        "description": "Makes stat changes have an opposite effect.",
+        "effect": "In battle\r\nThis Ability inverts all changes to the stat stages of a Pokémon with this Ability; if an effect would lower a stat, it is increased instead, and if an effect would increase a stat, it is decreased instead. Effects that change a Pokémon's stats without affecting stat stages, such as burn and paralysis, are not affected by Contrary.\r\n\r\nThis also applies to self-inflicted changes, such as Curse and Leaf Storm. This Ability only inverts the changes when they are applied; it does not passively cause all existing changes to reverse; therefore, if the Ability Contrary is no longer in effect or the stats are passed by Baton Pass, all existing stat stage changes remain the same. Stats passed by Baton Pass onto a Pokémon with Contrary are not reversed.\r\n\r\nStat stage increases caused by the Z-Power effects of status Z-Moves are not inverted by Contrary. However, the stat stage increases as a result of Extreme Evoboost are inverted.\r\n\r\nMist (including from Guard Spec.) and Flower Veil take into account Contrary's inversion before determining whether to block the stat change. For example, if a Pokémon with Contrary is targeted by String Shot while protected by Mist, it will gain Speed; if a Pokémon with Contrary is targeted by Swagger while protected by Mist, its Attack will not be changed.\r\n\r\nIf a Pokémon with Contrary uses Belly Drum, its Attack will be lowered to -6 stages (although the message will still say that the user maximized its Attack); if the user's Attack is already at -6 stages, Belly Drum will still deduct HP. Even if the user has Contrary, Belly Drum fails if the user's Attack is already at +6.\r\n\r\nIf a move used by a Pokémon with Mold Breaker, Teravolt, or Turboblaze would change a stat stage of a Pokémon with Contrary, the change will not be inverted.\r\n\r\nOutside of battle\r\nContrary has no effect outside of battle."
     },
     "corrosion": {
         "name": "Corrosion",
         "description": "The Pokémon can poison the target even if it's a Steel or Poison type.",
-        "effect": ""
+        "effect": "In battle\r\nCorrosion allows the user to inflict poison on any Pokémon regardless of type, allowing them to poison Poison and Steel-type Pokémon.\r\n\r\nIf a Poison- or Steel-type Pokémon with Corrosion holds a Toxic Orb, it will badly poison itself. A Pokémon with Corrosion can poison Poison- and Steel-type Pokémon if it uses Fling while holding a Toxic Orb or a Poison Barb.\r\n\r\nThis Ability has no effect on Toxic Spikes. It does not allow the Pokémon with this Ability to poison a Pokémon with Immunity. Corrosion does not allow the Pokémon with this Ability to damage Steel-type Pokémon with Poison-type moves.\r\n\r\nIf the Pokémon with this Ability uses a move, and that move gets reflected by the target due to Magic Coat or Magic Bounce, the reflected move will not be able to poison Steel- or Poison-type Pokémon. If a Poison- or Steel-type Pokémon with this Ability poisons a target with Synchronize, Synchronize will not be able to affect the Pokémon with this Ability.\r\n\r\nOutside of battle\r\nCorrosion has no effect outside of battle."
     },
     "cursed body": {
         "name": "Cursed Body",
-        "description": "Has a 30% chance of Disabling any move that hits the Pokémon.",
-        "effect": ""
+        "description": "May disable a move used on the Pokémon.",
+        "effect": "In battle\r\nWhen a Pokémon with this Ability is hit by a damaging move, there is a 30% chance that the Cursed Body will disable that move of the attacking Pokémon for 4 turns (including the turn Cursed Body activates). Cursed Body can activate even if the attacker is behind a substitute or if the Pokémon with Cursed Body is knocked out, but will not activate if the attack hits the substitute of the Pokémon with Cursed Body.\r\n\r\nIf Cursed Body disables a multi-strike move before it has finished all of its hits, it will not prevent the other hits from being executed. Cursed Body can disable a move that calls another move if the called move dealt damage.\r\n\r\nIf a Pokémon uses a damaging Z-Move on a Pokémon with Cursed Body, that damaging Z-Move can be disabled (with no effect on the base move), despite Z-Moves only being able to be used once per battle. However, if Cursed Body would disable a status Z-Move (such as Z-Nature Power), the base status move will be disabled.\r\n\r\nOutside of battle\r\nCursed Body has no effect outside of battle."
     },
     "cute charm": {
         "name": "Cute Charm",
         "description": "Contact with the Pokémon may cause infatuation.",
-        "effect": ""
+        "effect": "In battle\r\nWhen a Pokémon with this Ability is hit by a move that makes contact, there is a 30% chance that the attacking Pokémon will become infatuated if it is of the opposite gender to the Pokémon with this Ability. This Ability will not activate if the Pokémon with this Ability is genderless.\r\n\r\nIf a Pokémon with this Ability is hit by a multi-strike move that makes contact (such as Fury Swipes), each hit has an independent chance to activate this Ability.\r\n\r\nOutside of battle\r\nFrom Pokémon Emerald onwards, if a Pokémon with Cute Charm is in the first place in the party (even if fainted), there is a 66.7% chance that the game will force an encountered Pokémon to be the opposite gender from the Pokémon with Cute Charm if it can be that gender. This does not affect a swarming Pokémon species or Pokémon found in Hidden Grottos.\r\n\r\nEffects on personality value\r\nIn Generation IV only, when Cute Charm forces a Pokémon to be a specific gender, it does so by setting its personality value to one out of 25 possible values that correspond to the forced gender (one value per nature). The set of possible values depends on the gender of the Pokémon with Cute Charm, and, if the Pokémon with Cute Charm is female, the wild Pokémon's gender ratio. This has significant consequences for properties determined by personality value.\r\n\r\nAs a result, when the encountered species can be affected by Cute Charm (i.e., when it is not a male-only, female-only, or genderless species), the chances of encountering a Shiny Pokémon differ from the usual 1/8192, depending on how many of the 25 possible values forced by Cute Charm result in a Shiny Pokémon (in conjunction with the Trainer ID number and Secret ID): they may be as low as 1/24546 (if none of the 25 values forced by Cute Charm result in Shiny Pokémon, so the Pokémon can only be Shiny if Cute Charm fails), or as high as 21.34% (if 8 out of the 25 values forced by Cute Charm result in Shiny Pokémon).\r\n\r\nAdditionally, Spinda whose gender has been forced by Cute Charm in Generation IV only have one of 50 patterns (25 for male, 25 for female)."
     },
     "damp": {
         "name": "Damp",
-        "description": "Prevents combatants from self destructing.",
-        "effect": ""
+        "description": "Prevents the use of explosive moves such as Self-Destruct by dampening its surroundings.",
+        "effect": "In battle\r\nDamp prevents all Pokémon from using Self-Destruct, Explosion, and Mind Blown; if a Pokémon attempts to use one of these moves, it will fail and the user will not faint or take damage. Additionally, Damp prevents the Ability Aftermath from doing damage when the Pokémon with Aftermath faints.\r\n\r\nDamp affects non-adjacent Pokémon in Triple Battles.\r\n\r\nOutside of battle\r\nDamp has no effect outside of battle.\r\n\r\nPokémon Mystery Dungeon\r\nBlast Seed becomes ineffective in the presence of a Pokémon with Damp."
     },
     "dancer": {
         "name": "Dancer",
         "description": "When another Pokémon uses a dance move, it can use a dance move following it regardless of its Speed.",
-        "effect": ""
+        "effect": "In battle\r\nWhenever another Pokémon uses a dance move, a Pokémon with the Ability Dancer will immediately use that move as well. Using a move through Dancer is a separate action to using the move originally selected. Dancer will not activate for a move copied by another Pokémon with Dancer, but it will activate on an instructed dance move.\r\n\r\nDancer is able to copy a status dance move that has been powered up into its corresponding Z-Move (e.g. Z-Feather Dance), but the Pokémon with Dancer copies the regular version of the move and does not gain the additional Z-Power effect.\r\n\r\nDancer will not activate if the move's animation does not play (assuming battle animations are on): if all of the move's targets are protected from it, the move fails to affect any Pokémon (e.g. Teeter Dance if all of the targets are already confused or have Own Tempo), or all targets are immune (e.g. Electric-type Revelation Dance if the target is Ground-type). Dancer will not activate if the move is stolen by Snatch.\r\n\r\nIf multiple Pokémon have Dancer when a dance move is used, the slowest Pokémon will move first (Lagging Tail and Full Incense are ignored), even during Trick Room.\r\n\r\nIf the Pokémon with Dancer is confused, it may hurt itself instead of copying the move, even if it is protected by a move like Protect or Mat Block. If a Pokémon has flinched, this also applies to moves it subsequently tries to copy with Dancer. A Pokémon with Dancer that is locked into a consecutively executed move (such as Petal Dance) or any move by Encore or a held Choice item will still try to copy the move, but will fail unless it is locked into that same dance move; if a Pokémon uses Petal Dance via Dancer while locked into Petal Dance, this usage does not count towards the 2-3 turn duration. If a Pokémon with Dancer is holding an Assault Vest, it can still successfully copy status dance moves.\r\n\r\nLunar Dance is copied after the original user faints. If a Pokémon copies Petal Dance via Dancer, it will not be locked into the move. If Feather Dance is reflected by Magic Bounce or Magic Coat, Dancer will not activate for either the initial usage of the move or its reflected use. If the Pokémon with Dancer is under the effect of Taunt, it will still try to copy a status dance move, but will fail.\r\n\r\nMoves used via Dancer can be stolen by Snatch and reflected by Magic Bounce and Magic Coat. Moves used via Dancer are not considered the move used most recently (such as for the purpose of Instruct, Mimic or Mirror Move), but damage dealt by them is considered for the purpose of Mirror Coat and Metal Burst.\r\n\r\nOutside of battle\r\nDancer has no effect outside of battle."
     },
     "dark aura": {
         "name": "Dark Aura",
         "description": "Powers up each Pokémon's Dark-type moves.",
-        "effect": ""
+        "effect": "In battle\r\nDark Aura increases the damage dealt by Dark-type attacks by 33% for all Pokémon on the field. This effect is inverted by Aura Break, instead dividing the power of Dark-type attacks by 1.33, resulting in approximately a 25% reduction in damage.\r\n\r\nThe effects will not stack multiple times if more than one Pokémon has this Ability.\r\n\r\nOutside of battle\r\nDark Aura has no effect outside of battle."
     },
     "dazzling": {
         "name": "Dazzling",
         "description": "Surprises the opposing Pokémon, making it unable to attack using priority moves.",
-        "effect": ""
+        "effect": "In battle\r\nIf an opponent uses a priority move (including moves boosted by Prankster, Gale Wings or Triage) that targets the Pokémon with Dazzling or its allies, Dazzling prevents the Pokémon from executing that move (PP is still consumed). When this occurs, the text \"[Pokémon] cannot use [Move]!\" is displayed.\r\n\r\nMoves that target all Pokémon (except Perish Song, Flower Shield, and Rototiller) and moves that target all foes cannot be blocked by Dazzling even if they become priority moves. Dazzling has no effect on allies' priority moves.\r\n\r\nPriority status Z-Moves will have their Z-Power effect activate. For example, if a Pokémon with Prankster uses Z-Will-O-Wisp, it will get the Attack boost, but will not burn the target.\r\n\r\nMold Breaker will ignore this Ability.\r\n\r\nOutside of battle\r\nDazzling has no effect outside of battle."
     },
     "defeatist": {
         "name": "Defeatist",
-        "description": "Halves Attack and Special Attack below 50% HP.",
-        "effect": ""
+        "description": "Halves the Pokémon's Attack and Sp. Atk stats when its HP becomes half or less.",
+        "effect": "In battle\r\nDefeatist halves the user's Attack and Special Attack stats when its HP is equal to or less than half of its maximum.\r\n\r\nOutside of battle\r\nDefeatist has no effect outside of battle."
     },
     "defiant": {
         "name": "Defiant",
-        "description": "Raises Attack two stages upon having any stat lowered.",
-        "effect": ""
+        "description": "Boosts the Pokémon's Attack stat sharply when its stats are lowered.",
+        "effect": "In battle\r\nWhen a stat of a Pokémon with this Ability is lowered by an opponent, its Attack is increased by two stages. Defiant will not activate if the Pokémon with this Ability lowers its own stats (such as with Close Combat) or if its stats are lowered by an ally.\r\n\r\nIf multiple stats are lowered (such as by Memento or Venom Drench), Defiant activates for each stat lowered.\r\n\r\nIf the Pokémon with this Ability is holding a White Herb, if a stat other than Attack is lowered, Defiant will trigger before the White Herb, so the user will receive the Attack boost and then the lowered stat will be restored. If its Attack is lowered, Defiant will activate first, increasing its Attack so that the White Herb cannot activate.\r\n\r\nOutside of battle\r\nDefiant has no effect outside of battle."
     },
     "delta stream": {
         "name": "Delta Stream",
-        "description": "Eliminates weather effects and eliminates weaknesses of Flying-type Pokémon.",
-        "effect": ""
+        "description": "The Pokémon changes the weather to eliminate all of the Flying type's weaknesses.",
+        "effect": "In battle\r\nWhen a Pokémon with Delta Stream enters the battle or a Pokémon gains the Ability, a unique weather condition called mysterious air current is created. In a Rotation Battle, Delta Stream will not activate if the Pokémon is sent out in a rotated-out position, nor will it activate if the Pokémon is rotated in. In addition, Delta Stream will not activate if a mysterious air current is already present on the battlefield or if the Pokémon's Ability is suppressed prior to it gaining Delta Stream.\r\n\r\nA mysterious air current causes moves that would be super effective against pure Flying-type Pokémon to instead deal neutral damage to all Flying-type Pokémon (unless a Pokémon on the field has the Air Lock or Cloud Nine Ability). Outside of Inverse Battles, this causes Electric-, Ice-, and Rock-type moves to deal neutral damage to Flying-type Pokémon; during Inverse Battles, this causes Bug-, Fighting-, Grass-, and Ground-type moves to deal neutral damage to Flying-type Pokémon. If a move is not super effective against the Pokémon's other type (for dual-typed Pokémon), this no longer counts as a super-effective hit (for the purposes of damage-reducing Berries, etc.). A mysterious air current has no effect on Stealth Rock or Anticipation.\r\n\r\nAdditionally, a mysterious air current causes the weather-modifying moves Sunny Day, Rain Dance, Sandstorm, and Hail to fail if used; and causes the Abilities Drought, Drizzle, Sand Stream, and Snow Warning to fail to activate.\r\n\r\nThe mysterious air current will dissipate if the Pokémon is removed from the field (and no other Pokémon with Delta Stream remain on the field), if the Pokémon is rotated out in a Rotation Battle, if the Pokémon has its Ability suppressed or replaced, or if the Desolate Land or Primordial Sea Ability activates.\r\n\r\nOutside of battle\r\nDelta Stream has no effect outside of battle."
     },
     "desolate land": {
         "name": "Desolate Land",
-        "description": "Creates harsh sunlight.",
-        "effect": ""
+        "description": "The Pokémon changes the weather to nullify Water-type attacks.",
+        "effect": "In battle\r\nWhen a Pokémon with Desolate Land enters the battle or a Pokémon gains the Ability Desolate Land, the Ability creates extremely harsh sunlight, a unique variation of harsh sunlight. In a Rotation Battle, Desolate Land will not activate if the Pokémon is sent out in a rotated-out position, nor will it activate if the Pokémon is rotated in. In addition, Desolate Land will not activate if extremely harsh sunlight is already present on the battlefield.\r\n\r\nAlong with the usual effects of harsh sunlight, extremely harsh sunlight causes damage-dealing Water-type moves to fail (unless a Pokémon on the field has the Air Lock or Cloud Nine Ability). Additionally, extremely harsh sunlight causes the weather-modifying moves Sunny Day, Rain Dance, Sandstorm, and Hail to fail if used; and causes the Abilities Drought, Drizzle, Sand Stream, and Snow Warning to fail to activate.\r\n\r\nThe extremely harsh sunlight will fade if the Pokémon is removed from the field (and no other Pokémon with Desolate Land remain on the field), if the Pokémon is rotated out in a Rotation Battle, if the Pokémon has its Ability suppressed or replaced, or if the Primordial Sea or Delta Stream Ability activates.\r\n\r\nOutside of battle\r\nDesolate Land has no effect outside of battle."
     },
     "disguise": {
         "name": "Disguise",
         "description": "Once per battle, the shroud that covers the Pokémon can protect it from an attack.",
-        "effect": ""
+        "effect": "In battle\r\nIf a Mimikyu in its Disguised Form is hit by a damaging attack or hits itself in confusion, Disguise causes it to take no damage. When this effect activates, the message, \"Its disguise served it as a decoy!\" is displayed, Mimikyu changes to its Busted Form, and finally the message, \"<Name>'s disguise was busted!\" is displayed. If Mimikyu's type was changed, it is restored to Ghost/Fairy when it changes to its Busted Form.\r\n\r\nMimikyu remains in Busted Form if it is switched out, but reverts to Disguised Form outside of battle. If a Mimikyu faints and is revived, it will be revived in its Disguised Form and Disguise will be able to activate again.\r\n\r\nDisguise will not protect against entry hazards or weather damage. Disguise activates at the first strike of a multi-strike move such as Water Shuriken and will not block damage from remaining strikes. Disguise only blocks the damage from moves; additional effects of damaging moves like paralysis from Nuzzle are not prevented. If Mimikyu has a substitute, the substitute will take damage before Disguise.\r\n\r\nWeakness Policy will not activate if Disguise negates the damage, because it is treated as a neutral hit. A held Air Balloon will be popped even if the Disguise negates the damage.\r\n\r\nGastro Acid, Worry Seed, and Simple Beam fail if the target has the Ability Disguise. Role Play, Skill Swap, and Entrainment fail if either Pokémon has Disguise. Disguise cannot be copied by Trace, Power of Alchemy, or Receiver. Disguise cannot be replaced by Mummy or suppressed by Core Enforcer; if a Pokémon that has its Ability suppressed passes that effect to a Pokémon with this Ability via Baton Pass, that effect fades. If a Pokémon other than Mimikyu obtains Disguise with Imposter or Transform, the Ability will never activate.\r\n\r\nPokémon with Mold Breaker, Teravolt or Turboblaze will ignore Disguise, hitting through the disguise without busting it. The same is true for the moves Moongeist Beam, Sunsteel Strike, and Photon Geyser as well as the Z-Moves Searing Sunraze Smash, Menacing Moonraze Maelstrom and Light That Burns the Sky.\r\n\r\nOutside of battle\r\nDisguise has no effect outside of battle."
     },
     "download": {
         "name": "Download",
-        "description": "Adjusts power according to the foe’s lowest defensive stat.",
-        "effect": ""
+        "description": "Compares an opposing Pokémon's Defense and Sp. Def stats before raising its own Attack or Sp. Atk stat—whichever will be more effective.",
+        "effect": "In battle\r\nDownload raises either the Attack stat or Special Attack stat by one stage depending on the foe's lowest current defensive stat: it will raise Attack if the foe's current Defense is lower than its current Special Defense stat, and Special Attack otherwise.\r\n\r\nFor determining which of the foe's defensive stat is lower, Download takes into account stat stages and the effect of Power Trick; however, it does not consider the effects of held items, Abilities such as Marvel Scale, or Wonder Room. In case of a tie between the foe's Defense and Special Defense, Download increases Special Attack.\r\n\r\nDuring a Double Battle, Download will add the two opposing Pokémon's stats and calculate the lower stat between both.\r\n\r\nOutside of battle\r\nDownload has no effect outside of battle."
     },
     "drizzle": {
         "name": "Drizzle",
-        "description": "The Pokémon makes it rain if it appears in battle.",
-        "effect": ""
+        "description": "The Pokémon makes it rain when it enters a battle.",
+        "effect": "In battle\r\nGenerations III to V\r\nDrizzle summons rain in battle as soon as a Pokémon with Drizzle enters the battle. Its effects are the same as the move Rain Dance, but instead of lasting for a limited amount of turns, it lasts for the whole battle (unless it is replaced by another type of weather). If a Pokémon with Drizzle is sent out in the same turn as another Pokémon whose Ability affects the weather, the slower Pokémon's Ability will override the faster Pokémon's Ability.\r\n\r\nGeneration VI\r\nThe rain now lasts only for five turns. This can be extended to eight turns if the Pokémon is holding a Damp Rock.\r\n\r\nIf heavy rain, extremely harsh sunlight, or a mysterious air current is present, Drizzle will fail to activate.\r\n\r\nOutside of battle\r\nDrizzle has no effect outside of battle."
     },
     "drought": {
         "name": "Drought",
-        "description": "The Pokémon makes it sunny if it is in battle.",
-        "effect": ""
+        "description": "Turns the sunlight harsh when the Pokémon enters a battle.",
+        "effect": "In battle\r\nGenerations III to V\r\nDrought summons harsh sunlight in battle as soon as a Pokémon with Drought enters the battle. Its effects are the same as the move Sunny Day, but instead of lasting for a limited amount of turns, it lasts for the whole battle (unless it is replaced by another weather condition). If a Pokémon with Drought is sent out in the same turn as another Pokémon whose Ability affects the weather, the slower Pokémon's Ability will override the faster Pokémon's Ability.\r\n\r\nGeneration VI\r\nThe sunlight now lasts only for five turns. This can be extended to eight turns if the Pokémon is holding a Heat Rock.\r\n\r\nIf heavy rain, extremely harsh sunlight, or a mysterious air current is present, Drought will fail to activate.\r\n\r\nOutside of battle\r\nDrought has no effect outside of battle."
     },
     "dry skin": {
         "name": "Dry Skin",
-        "description": "Reduces HP if it is hot. Water restores HP.",
-        "effect": ""
+        "description": "Restores HP in rain or when hit by Water-type moves. Reduces HP in harsh sunlight, and increases the damage received from Fire-type moves.",
+        "effect": "In battle\r\nDuring harsh sunlight, a Pokémon with Dry Skin will lose ⅛ of its maximum HP at the end of each turn. During rain, a Pokémon with Dry Skin will regain ⅛ of its maximum HP at the end of each turn.\r\n\r\nFire-type attacks do 25% more damage to a Pokémon with Dry Skin.\r\n\r\nWhen a Pokémon with Dry Skin is hit by a Water-type move, its HP is restored by one quarter of its maximum HP, and the move will have no effect on that Pokémon (if a Pokémon with this Ability already has full HP, the Water-type move will do nothing). This effect will not activate if the Pokémon is protected from the Water-type move.\r\n\r\nIf a Pokémon with Dry Skin is holding an Absorb Bulb or Luminous Moss, Dry Skin absorbs the Water-type move so the item's effect is not triggered.\r\n\r\nOutside of battle\r\nDry Skin has no effect outside of battle."
     },
     "early bird": {
         "name": "Early Bird",
-        "description": "The Pokémon awakens quickly from sleep.",
-        "effect": ""
+        "description": "The Pokémon awakens twice as fast as other Pokémon from sleep.",
+        "effect": "In battle\r\nEarly Bird causes quick awakening from sleep. In the turn the Pokémon is put to sleep, the number of turns it will remain asleep is preset. If it is 6 turns, it will be halved to 3. If 3, it will be rounded to 1. If only 1 turn is preset, it is rounded to 0, causing the Pokémon to instantly wake up at the end of the same turn. This also applies to the self-induced sleep from Rest, reducing its length from 3 to 1 turn.\r\n\r\nOutside of battle\r\nEarly Bird has no effect outside of battle."
     },
     "effect spore": {
         "name": "Effect Spore",
-        "description": "Contact may paralyze, poison, or cause sleep.",
-        "effect": ""
+        "description": "Contact with the Pokémon may inflict poison, sleep, or paralysis on its attacker.",
+        "effect": "In battle\r\nGenerations III to V\r\nWhen a Pokémon with this Ability is hit by a move that makes contact, there is a 30% chance that the attacking Pokémon will become poisoned, paralyzed or asleep: there is a 9% chance of poison, 10% chance of paralysis, and 11% chance of sleep.[1]\r\n\r\nIf a Pokémon with this Ability is hit by a multi-strike move that makes contact (such as Fury Swipes), each hit has an independent chance to activate this Ability.\r\n\r\nGeneration VI onward\r\nGrass-type Pokémon, Pokémon with Overcoat, and Pokémon holding Safety Goggles are now immune to Effect Spore.\r\n\r\nOutside of battle\r\nEffect Spore has no effect outside of battle."
     },
     "electric surge": {
         "name": "Electric Surge",
         "description": "Turns the ground into Electric Terrain when the Pokémon enters a battle.",
-        "effect": ""
+        "effect": "In battle\r\nWhen a Pokémon with Electric Surge enters the battle, it creates the effect of the move Electric Terrain on the battlefield.\r\n\r\nOutside of battle\r\nElectric Surge has no effect outside of battle."
     },
     "emergency exit": {
         "name": "Emergency Exit",
         "description": "The Pokémon, sensing danger, switches out when its HP becomes half or less.",
-        "effect": ""
+        "effect": "In battle\r\nWhen a Pokémon with Emergency Exit drops below half of its full HP in battle, it will flee in wild battles, or switch out in Trainer battles. It can only activate when a Pokémon's HP falls from above half to below half; if it does not activate at that time, it will not activate at all (unless the Pokémon with this Ability restores HP).\r\n\r\nEmergency Exit will not activate if the Pokémon's HP falls below half due to hurting itself in confusion, hail, sandstorm or using Substitute. This Ability will not activate if the HP of the Pokémon with this Ability is restored to above half immediately after it drops below half (such as due to a held Sitrus Berry).\r\n\r\nEmergency Exit will not activate if the Pokémon's HP falls below half by a move affected by Sheer Force.\r\n\r\nIt will activate only after the last hit of multi-strike moves, even if the HP of the Pokémon with this Ability drops below half before the last hit. If this Ability activates due to being hit by U-turn or Volt Switch, the user of that move will not be switched out. This Ability will not activate if the Pokémon's HP falls below half while it is in the air during the semi-invulnerable turn of Sky Drop.\r\n\r\nTrapping moves do not prevent Emergency Exit from activating.\r\n\r\nIf the Pokémon with Emergency Exit holds a Red Card or Eject Button, the item activates first. Dragon Tail and Circle Throw switch out Pokémon before the Ability activates.\r\n\r\nEmergency Exit will not activate on the player's Pokémon in wild battles during trials.\r\n\r\nOutside of battle\r\nEmergency Exit has no effect outside of battle."
     },
     "fairy aura": {
         "name": "Fairy Aura",
         "description": "Powers up each Pokémon's Fairy-type moves.",
-        "effect": ""
+        "effect": "In battle\r\nFairy Aura increases the damage dealt by Fairy-type attacks by 33% for all Pokémon on the field. This effect is inverted by Aura Break, instead dividing the power of Fairy-type attacks by 1.33, resulting in approximately a 25% reduction in damage.\r\n\r\nThe effects will not stack multiple times if more than one Pokémon has this Ability.\r\n\r\nOutside of battle\r\nFairy Aura has no effect outside of battle."
     },
     "filter": {
         "name": "Filter",
-        "description": "Powers down supereffective moves.",
-        "effect": ""
+        "description": "Reduces the power of supereffective attacks taken.",
+        "effect": "In battle\r\nFilter reduces damage from supereffective moves by ¼ (regardless of the effectiveness multiplier).\r\n\r\nOutside of battle\r\nFilter has no effect outside of battle."
     },
     "flame body": {
         "name": "Flame Body",
-        "description": "Contact with the Pokémon may burn the foe.",
-        "effect": ""
+        "description": "Contact with the Pokémon may burn the attacker.",
+        "effect": "In battle\r\nWhen a Pokémon with this Ability is hit by a move that makes contact, there is a 30% chance that the attacking Pokémon will become burned.\r\n\r\nIf a Pokémon with this Ability is hit by a multi-strike move that makes contact (such as Fury Swipes), each hit has an independent chance to activate this Ability.\r\n\r\nOutside of battle\r\nFrom Pokémon Emerald onward, if a Pokémon with Flame Body is in the party (even if fainted), the number of cycles it takes for all Pokémon Eggs in the party to hatch are halved. This effect does not stack with itself or Magma Armor; however, it can be stacked with Hatching Power Pass Power, O-Power, or Roto Hatch."
     },
     "flare boost": {
         "name": "Flare Boost",
-        "description": "Increases Special Attack to 1.5× when burned.",
-        "effect": ""
+        "description": "Powers up special attacks when the Pokémon is burned.",
+        "effect": "In battle\r\nWhile the Pokémon with this Ability is burned, the power of its special moves is increased by 50%.\r\n\r\nOutside of battle\r\nFlare Boost has no effect outside of battle."
     },
     "flash fire": {
         "name": "Flash Fire",
-        "description": "Powers up Fire-type moves if hit by a fire move.",
-        "effect": ""
+        "description": "Powers up the Pokémon's Fire-type moves if it's hit by one.",
+        "effect": "In battle\r\nGeneration III\r\nFlash Fire makes the Pokémon immune to Fire-type moves and will activate when hit by one. When activated, the power of the Pokémon's Fire-type moves is increased by 50%. While subsequent hits by Fire-type moves will not provide further increases in power, the Pokémon remains immune to the moves.\r\n\r\nFlash Fire will not activate if the Pokémon is protected from the Fire-type move.\r\n\r\nFlash Fire will not work while the user is frozen.\r\n\r\nGeneration IV\r\nInstead of boosting Fire-type moves' power, Flash Fire now technically boosts the Pokémon's Attack or Special Attack by 50% during damage calculation if a Fire-type move is being used, resulting in effectively the same effect.\r\n\r\nGeneration V onwards\r\nFlash Fire is now functional even if the user is frozen.\r\n\r\nOutside of battle\r\nFlash Fire has no effect outside of battle."
     },
     "flower gift": {
         "name": "Flower Gift",
-        "description": "Powers up party Pokémon when it is sunny.",
-        "effect": ""
+        "description": "Boosts the Attack and Sp. Def stats of itself and allies in harsh sunlight.",
+        "effect": "In battle\r\nGeneration IV\r\nDuring harsh sunlight, Flower Gift increases the Attack and Special Defense stats of the Pokémon with this Ability and its allies by 1.5×.\r\n\r\nFlower Gift is not responsible for changing Cherrim from Overcast Form into Sunshine Form.\r\n\r\nFlower Gift can be copied by Trace or Role Play.\r\n\r\nGeneration V onward\r\nAlong with its previous effect, Flower Gift now changes Cherrim from Overcast Form to Sunshine Form during harsh sunlight. If Cherrim loses Flower Gift or Flower Gift is suppressed (such as by Gastro Acid), it will revert to its Overcast Form.\r\n\r\nRole Play fails if the target has the Ability Flower Gift. Entrainment fails if the user has the Ability Flower Gift. Flower Gift cannot be copied by Trace, Power of Alchemy, or Receiver.\r\n\r\nOutside of battle\r\nFlower Gift has no effect outside of battle."
     },
     "flower veil": {
         "name": "Flower Veil",
-        "description": "Prevents lowering of ally Grass-type Pokémon's stats.",
-        "effect": ""
+        "description": "Ally Grass-type Pokémon are protected from status conditions and the lowering of their stats.",
+        "effect": "In battle\r\nFlower Veil prevents the Pokémon with this Ability (if it is Grass-type) and its Grass-type allies (including non-adjacent allies) from having their stats lowered. Self-inflicted stat reductions, such as from Leaf Storm or Weak Armor, are not prevented. If a Grass-type Pokémon has Contrary, Flower Veil prevents the Pokémon's stats from being lowered after accounting for Contrary.\r\n\r\nFlower Veil also prevents the Pokémon with this Ability (if it is Grass-type) and its Grass-type allies (including non-adjacent allies) from being afflicted by non-volatile status conditions or Yawn. However, it will not prevent a Pokémon from falling asleep if it is already drowsy from Yawn. This Ability has no effect on Rest, the Flame Orb, and the Toxic Orb.\r\n\r\nWhen a Pokémon with Mold Breaker, Turboblaze or Teravolt uses a move, the effects of Flower Veil (including allies') are ignored for the duration of that move. As such, if the move of a Grass-type Pokémon with one of these Abilities triggers Flame Body, Poison Point, Static, Synchronize, Gooey, or Tangling Hair, it will not be protected by Flower Veil.\r\n\r\nOutside of battle\r\nIt is unknown if Flower Veil has an effect outside of battle."
     },
     "fluffy": {
         "name": "Fluffy",
         "description": "Halves the damage taken from moves that make direct contact, but doubles that of Fire-type moves.",
-        "effect": ""
+        "effect": "In battle\r\nA Pokémon with Fluffy takes half damage from moves that make contact. It also takes double damage from Fire-type moves. Fire-type moves that make contact will deal regular damage. Moves affected by Long Reach or the Protective Pads that make contact will deal regular damage.\r\n\r\nOutside of battle\r\nFluffy has no effect outside of battle."
     },
     "forecast": {
         "name": "Forecast",
-        "description": "Transforms with the weather.",
-        "effect": ""
+        "description": "The Pokémon transforms with the weather to change its type to Water, Fire, or Ice.",
+        "effect": "In battle\r\nDepending on the weather, Forecast will change Castform's form, which also changes its type. Castform changes as follows:\r\n\r\n- During harsh sunlight or extremely harsh sunlight, it will become Sunny Form, which is Fire-type.\r\n- During hail, it will become Snowy Form, which is Ice-type.\r\n- During rain or heavy rain, it will become Rainy Form, which is Water-type.\r\n- During a sandstorm, fog, a mysterious air current, a shadowy aura, or clear weather it will revert to its normal form, which is Normal-type.\r\n  -It will also revert to its normal form if a Pokémon on the field has Cloud Nine or Air Lock.\r\nThis Ability has no effect on Pokémon other than Castform.\r\n\r\nForecast does not change Castform's form until after Stealth Rock deals damage.\r\n\r\nGeneration III\r\nIf a Pokémon transforms into Castform with Forecast, it will change forms with the weather just like Castform.\r\n\r\nIf Castform or a Pokémon transformed into Castform loses Forecast, it will be stuck in its current form. When it regains Forecast, it will change to the form matching the current weather, even if it is already in the correct form (which resets its type if it had changed due to an effect like Color Change).\r\n\r\nForecast can be copied by Role Play and Trace.\r\n\r\nGeneration IV\r\nIf Forecast is suppressed with Gastro Acid, it will be stuck in its current form.\r\n\r\nForecast cannot be copied by Trace.\r\n\r\nGeneration V onward\r\nIf a Pokémon transforms into Castform, the Pokémon will remain in the same form as the target Castform, regardless of the weather.\r\n\r\nIf Castform loses Forecast or Forecast is suppressed with Gastro Acid, it will revert to its normal form and not be able to change form. If Castform regains Forecast, it will change form to match the current weather, unless it would be in its normal form in the current weather.\r\n\r\nRole Play fails if the target has the Ability Forecast. Entrainment fails if the user has the Ability Forecast. Forecast cannot be copied by Power of Alchemy or Receiver.\r\n\r\nOutside of battle\r\nForecast has no effect outside of battle."
     },
     "forewarn": {
         "name": "Forewarn",
-        "description": "Determines what moves the foe has.",
-        "effect": ""
+        "description": "When it enters a battle, the Pokémon can tell one of the moves an opposing Pokémon has.",
+        "effect": "In battle\r\nForewarn shows the opponent's move with the highest power. If two or more moves are of the same power, one will be chosen at random.\r\n\r\nIn a Double Battle, Forewarn will only show the highest power move out of all the moves known by both opponents. If both opponents have a move with the same power, one will be chosen at random.\r\n\r\nDamaging moves without a power (i.e. moves that deal direct damage and moves that have variable power) are assigned one.\r\n\r\nOutside of battle\r\nForewarn has no effect outside of battle."
     },
     "friend guard": {
         "name": "Friend Guard",
