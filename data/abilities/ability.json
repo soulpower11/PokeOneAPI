@@ -5,1163 +5,1163 @@
         "effect": "bulbapedia's insight on the actual effect - you'll need to do this manually i guess - also caps and full stop please"
     },
     "adaptability": {
-        "name": "Adaptability",
-        "description": "Powers up moves of the same type as the Pokémon.",
-        "effect": "Increases STAB from 1.5× to 2×."
-    },
-    "aerilate": {
-        "name": "Aerilate",
-        "description": "Turns Normal-type moves into Flying-type moves.",
-        "effect": "Affected moves also receive a 20% power boost."
-    },
-    "aftermath": {
-        "name": "Aftermath",
-        "description": "Damages the attacker if it contacts the Pokémon with a finishing hit.",
-        "effect": "When fainting due to damage from a contacting move, the attacking Pokémon loses ¼ of its own maximum HP. Will not activate if a Pokémon with Damp is on the field."
-    },
-    "air lock": {
-        "name": "Air Lock",
-        "description": "All effects of weather are negated.",
-        "effect": "The weather will remain but will not have any effect."
-    },
-    "analytic": {
-        "name": "Analytic",
-        "description": "Boosts move power by 30% when the Pokémon moves last.",
-        "effect": "If the opponent's Pokémon moves first, the following move used by your Pokémon will have its power boosted by 30%"
-    },
-    "anger point": {
-        "name": "Anger Point",
-        "description": "Maxes Attack stat after taking a critical hit.",
-        "effect": "When a Pokemon takes a critical hit, its Attack Stat raises to 6 stages. Does not activate if a substitute is hit in the user's place."
-    },
-    "anticipation": {
-        "name": "Anticipation",
-        "description": "Senses the opposing Pokémon's dangerous moves.",
-        "effect": "Displays a message if the opponent's Pokémon has a super-effective move or has a One-Hit-Knock-Out move. Does not include Explosion or Self-Destruct."
-    },
-    "arena trap": {
-        "name": "Arena Trap",
-        "description": "Prevents the foe from fleeing.",
-        "effect": "Prevents all grounded Pokémon from fleeing (including Teleport) or switching out. Ghost-type Pokémon are immune to this ability. Pokémon with Arena Trap in the first slot of the party increases the wild encounter rate by 100%"
-    },
-    "aroma veil": {
-        "name": "Aroma Veil",
-        "description": "Protects allies from attacks that limit their move choices.",
-        "effect": "Prevents the Pokémon with this Ability and its allies from being afflicted by Taunt, Torment, Encore, Disable, Cursed Body, Heal Block, and infatuation."
-    },
-    "aura break": {
-        "name": "Aura Break",
-        "description": "The effects of Aura Abilities are reversed to lower the power of affected moves.",
-        "effect": "Reverses the effects of Fairy Aura and Dark Aura. Divides power of moves of those types by 25%."
-    },
-    "bad dreams": {
-        "name": "Bad Dreams",
-        "description": "Reduces the HP of sleeping opposing Pokémon.",
-        "effect": "Inflicts damage to adjacent sleeping Pokemon equal to 1/8 of its maximum HP."
-    },
-    "battery": {
-        "name": "Battery",
-        "description": "Powers up ally Pokemon's special moves.",
-        "effect": "This Ability raises the power of allies' special moves by 30%."
-    },
-    "battle armor": {
-        "name": "Battle Armor",
-        "description": "Hard armor protects the Pokemon from critical hits.",
-        "effect": "Prevents the opponent from landing a critical hit."
-    },
-    "battle bond": {
-        "name": "Battle Bond",
-        "description": "When Greninja causes a Pokemon (including allies) to faint, it will change into Ash-Greninja.",
-        "effect": "Ash-Greninja has higher base stats. Also, if using Water Shuriken, the move's power becomes 20 (from 15) and will always hit 3 times."
-    },
-    "beast boost": {
-        "name": "Beast Boost",
-        "description": "The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.",
-        "effect": "When a Pokemon causes another Pokemon (including allies) to faint, its highest stat (other than HP) will increase by one stage, if not already at +6 stages."
-    },
-    "berserk": {
-        "name": "Berserk",
-        "description": "Boosts the Pokemon's Sp. Atk when it takes a hit that causes its HP to become half or less.",
-        "effect": "Everytime the Pokemon's HP drops below half, its Sp. Atk is raised by one stage, if not already at +6 stages."
-    },
-    "big pecks": {
-        "name": "Big Pecks",
-        "description": "Protects the Pokémon from Defense-lowering attacks.",
-        "effect": "Prevents other Pokemon from lowering the Pokemon's Defense stat, but does not prevent moves where the user drops its own Defense stat."
-    },
-    "blaze": {
-        "name": "Blaze",
-        "description": "Powers up Fire-type moves when the Pokemon's HP is low.",
-        "effect": "Fire-type moves' power will increase by 50% if the user has less than 1/3 of its maximum HP remaining."
-    },
-    "bulletproof": {
-        "name": "Bulletproof",
-        "description": "Protects the Pokémon from ball and bomb moves.",
-        "effect": "Protects the Pokemon from these moves: Acid Spray, Aura Sphere, Barrage, Beak Blast, Bullet Seed, Egg Bomb, Electro Ball, Energy Ball, Focus Blast, Gyro Ball, Ice Ball, Magnet Bomb, Mist Ball, Mud Bomb, Octazooka, Pollen Puff, Rock Blast, Rock Wrecker, Searing Shot, Seed Bomb, Shadow Ball, Sludge Bomb, Weather Ball, and Zap Cannon"
-    },
-    "cheek pouch": {
-        "name": "Cheek Pouch",
-        "description": "Restores HP as well when the Pokemon eats a berry.",
-        "effect": "Restores 33% of the Pokemon's maximum HP when it consumes a berry, even when eating another Pokemon's berry for effect during battle via Bug Bite, Pluck or Fling. Does not activate under the effect of Heal Block."
-    },
-    "chlorophyll": {
-        "name": "Chlorophyll",
-        "description": "Boosts the Pokémon's Speed in sunshine and in harsh sunlight.",
-        "effect": "During harsh sunlight, from Drought, Desolate Land or Sunny Day, the Pokemon's speed stat will double."
-    },
-    "clear body": {
-        "name": "Clear Body",
-        "description": "Prevents other Pokémon from lowering its stats.",
-        "effect": ""
-    },
-    "cloud nine": {
-        "name": "Cloud Nine",
-        "description": "Eliminates the effects of weather.",
-        "effect": ""
-    },
-    "color change": {
-        "name": "Color Change",
-        "description": "Changes the Pokémon's type to the foe's move.",
-        "effect": ""
-    },
-    "comatose": {
-        "name": "Comatose",
-        "description": "Prevents all status conditions except Sleep.",
-        "effect": ""
-    },
-    "competitive": {
-        "name": "Competitive",
-        "description": "Raises Special Attack when the Pokémon's stats are lowered.",
-        "effect": ""
-    },
-    "compound eyes": {
-        "name": "Compound Eyes",
-        "description": "The Pokémon's accuracy is boosted.",
-        "effect": ""
-    },
-    "contrary": {
-        "name": "Contrary",
-        "description": "Makes stat changes have an opposite effect.",
-        "effect": ""
-    },
-    "corrosion": {
-        "name": "Corrosion",
-        "description": "The Pokémon can poison Steel and Poison types.",
-        "effect": ""
-    },
-    "cursed body": {
-        "name": "Cursed Body",
-        "description": "May disable a move used on the Pokémon.",
-        "effect": ""
-    },
-    "cute charm": {
-        "name": "Cute Charm",
-        "description": "Contact with the Pokémon may cause infatuation.",
-        "effect": ""
-    },
-    "damp": {
-        "name": "Damp",
-        "description": "Prevents the use of self-destructing moves.",
-        "effect": ""
-    },
-    "dancer": {
-        "name": "Dancer",
-        "description": "Copies the foe's Dance moves.",
-        "effect": ""
-    },
-    "dark aura": {
-        "name": "Dark Aura",
-        "description": "Raises power of Dark type moves for all Pokémon in battle.",
-        "effect": ""
-    },
-    "dazzling": {
-        "name": "Dazzling",
-        "description": "Protects the Pokémon from high-priority moves.",
-        "effect": ""
-    },
-    "defeatist": {
-        "name": "Defeatist",
-        "description": "Lowers stats when HP drops below half.",
-        "effect": ""
-    },
-    "defiant": {
-        "name": "Defiant",
-        "description": "When its stats are lowered its Attack increases.",
-        "effect": ""
-    },
-    "delta stream": {
-        "name": "Delta Stream",
-        "description": "Creates strong winds when the ability activates.",
-        "effect": ""
-    },
-    "desolate land": {
-        "name": "Desolate Land",
-        "description": "Turns the sunlight extremely harsh when the ability activates.",
-        "effect": ""
-    },
-    "disguise": {
-        "name": "Disguise",
-        "description": "Avoids damage for one turn.",
-        "effect": ""
-    },
-    "download": {
-        "name": "Download",
-        "description": "Adjusts power according to a foe's defenses.",
-        "effect": ""
-    },
-    "drizzle": {
-        "name": "Drizzle",
-        "description": "The Pokémon makes it rain when it enters a battle.",
-        "effect": ""
-    },
-    "drought": {
-        "name": "Drought",
-        "description": "Turns the sunlight harsh when the Pokémon enters a battle.",
-        "effect": ""
-    },
-    "dry skin": {
-        "name": "Dry Skin",
-        "description": "Reduces HP if it is hot. Water restores HP.",
-        "effect": ""
-    },
-    "early bird": {
-        "name": "Early Bird",
-        "description": "The Pokémon awakens quickly from sleep.",
-        "effect": ""
-    },
-    "effect spore": {
-        "name": "Effect Spore",
-        "description": "Contact may poison or cause paralysis or sleep.",
-        "effect": ""
-    },
-    "electric surge": {
-        "name": "Electric Surge",
-        "description": "The Pokémon creates an Electric Terrain when it enters a battle.",
-        "effect": ""
-    },
-    "emergency exit": {
-        "name": "Emergency Exit",
-        "description": "The Pokémon, sensing danger, switches out when its HP becomes half or less.",
-        "effect": ""
-    },
-    "fairy aura": {
-        "name": "Fairy Aura",
-        "description": "Raises power of Fairy type moves for all Pokémon in battle.",
-        "effect": ""
-    },
-    "filter": {
-        "name": "Filter",
-        "description": "Reduces damage from supereffective attacks.",
-        "effect": ""
-    },
-    "flame body": {
-        "name": "Flame Body",
-        "description": "Contact with the Pokémon may burn the attacker.",
-        "effect": ""
-    },
-    "flare boost": {
-        "name": "Flare Boost",
-        "description": "Powers up special attacks when burned.",
-        "effect": ""
-    },
-    "flash fire": {
-        "name": "Flash Fire",
-        "description": "It powers up Fire-type moves if it's hit by one.",
-        "effect": ""
-    },
-    "flower gift": {
-        "name": "Flower Gift",
-        "description": "Powers up party Pokémon when it is sunny.",
-        "effect": ""
-    },
-    "flower veil": {
-        "name": "Flower Veil",
-        "description": "Prevents lowering of ally Grass-type Pokémon's stats.",
-        "effect": ""
-    },
-    "fluffy": {
-        "name": "Fluffy",
-        "description": "Reduces damage from contact moves, but doubles damage from Fire-type moves.",
-        "effect": ""
-    },
-    "forecast": {
-        "name": "Forecast",
-        "description": "Castform transforms with the weather.",
-        "effect": ""
-    },
-    "forewarn": {
-        "name": "Forewarn",
-        "description": "Determines what moves a foe has.",
-        "effect": ""
-    },
-    "friend guard": {
-        "name": "Friend Guard",
-        "description": "Reduces damage done to allies.",
-        "effect": ""
-    },
-    "frisk": {
-        "name": "Frisk",
-        "description": "The Pokémon can check a foe's held item.",
-        "effect": ""
-    },
-    "full metal body": {
-        "name": "Full Metal Body",
-        "description": "Prevents other Pokémon from lowering its stats.",
-        "effect": ""
-    },
-    "fur coat": {
-        "name": "Fur Coat",
-        "description": "Reduces damage from physical moves.",
-        "effect": ""
-    },
-    "gale wings": {
-        "name": "Gale Wings",
-        "description": "Gives priority to Flying-type moves.",
-        "effect": ""
-    },
-    "galvanize": {
-        "name": "Galvanize",
-        "description": "Normal-type moves become Electric-type moves and their power boosted.",
-        "effect": ""
-    },
-    "gluttony": {
-        "name": "Gluttony",
-        "description": "Encourages the early use of a held Berry.",
-        "effect": ""
-    },
-    "gooey": {
-        "name": "Gooey",
-        "description": "Contact with the Pokémon lowers the attacker's Speed stat.",
-        "effect": ""
-    },
-    "grass pelt": {
-        "name": "Grass Pelt",
-        "description": "Boosts the Defense stat in Grassy Terrain.",
-        "effect": ""
-    },
-    "grassy surge": {
-        "name": "Grassy Surge",
-        "description": "The Pokémon creates a Grassy Terrain when it enters a battle.",
-        "effect": ""
-    },
-    "guts": {
-        "name": "Guts",
-        "description": "Boosts Attack if there is a status problem.",
-        "effect": ""
-    },
-    "harvest": {
-        "name": "Harvest",
-        "description": "May create another Berry after one is used.",
-        "effect": ""
-    },
-    "healer": {
-        "name": "Healer",
-        "description": "May heal an ally's status conditions.",
-        "effect": ""
-    },
-    "heatproof": {
-        "name": "Heatproof",
-        "description": "Weakens the power of Fire-type moves.",
-        "effect": ""
-    },
-    "heavy metal": {
-        "name": "Heavy Metal",
-        "description": "Doubles the Pokémon's weight.",
-        "effect": ""
-    },
-    "honey gather": {
-        "name": "Honey Gather",
-        "description": "The Pokémon may gather Honey from somewhere.",
-        "effect": ""
-    },
-    "huge power": {
-        "name": "Huge Power",
-        "description": "Raises the Pokémon's Attack stat.",
-        "effect": ""
-    },
-    "hustle": {
-        "name": "Hustle",
-        "description": "Boosts the Attack stat, but lowers accuracy.",
-        "effect": ""
-    },
-    "hydration": {
-        "name": "Hydration",
-        "description": "Heals status problems if it is raining.",
-        "effect": ""
-    },
-    "hyper cutter": {
-        "name": "Hyper Cutter",
-        "description": "Prevents other Pokémon from lowering Attack stat.",
-        "effect": ""
-    },
-    "ice body": {
-        "name": "Icy Body",
-        "description": "The Pokémon gradually regains HP in a hailstorm.",
-        "effect": ""
-    },
-    "illuminate": {
-        "name": "Illuminate",
-        "description": "Raises the likelihood of meeting wild Pokémon.",
-        "effect": ""
-    },
-    "illusion": {
-        "name": "Illusion",
-        "description": "Comes out disguised as the Pokémon in back.",
-        "effect": ""
-    },
-    "immunity": {
-        "name": "Immunity",
-        "description": "Prevents the Pokémon from getting poisoned.",
-        "effect": ""
-    },
-    "imposter": {
-        "name": "Imposter",
-        "description": "It transforms itself into the Pokémon it is facing.",
-        "effect": ""
-    },
-    "infiltrator": {
-        "name": "Infiltrator",
-        "description": "Passes through the foe's barrier and strikes.",
-        "effect": ""
-    },
-    "innards out": {
-        "name": "Innards Out",
-        "description": "Deals damage upon fainting.",
-        "effect": ""
-    },
-    "inner focus": {
-        "name": "Inner Focus",
-        "description": "The Pokémon is protected from flinching.",
-        "effect": ""
-    },
-    "insomnia": {
-        "name": "Insomnia",
-        "description": "Prevents the Pokémon from falling asleep.",
-        "effect": ""
-    },
-    "intimidate": {
-        "name": "Intimidate",
-        "description": "Lowers the foe's Attack stat.",
-        "effect": ""
-    },
-    "iron barbs": {
-        "name": "Iron Barbs",
-        "description": "Inflicts damage to the Pokémon on contact.",
-        "effect": ""
-    },
-    "iron fist": {
-        "name": "Iron Fist",
-        "description": "Boosts the power of punching moves.",
-        "effect": ""
-    },
-    "justified": {
-        "name": "Justified",
-        "description": "Raises Attack when hit by a Dark-type move.",
-        "effect": ""
-    },
-    "keen eye": {
-        "name": "Keen Eye",
-        "description": "Prevents other Pokémon from lowering accuracy.",
-        "effect": ""
-    },
-    "klutz": {
-        "name": "Klutz",
-        "description": "The Pokémon can't use any held items.",
-        "effect": ""
-    },
-    "leaf guard": {
-        "name": "Leaf Guard",
-        "description": "Prevents problems with status in sunny weather.",
-        "effect": ""
-    },
-    "levitate": {
-        "name": "Levitate",
-        "description": "Gives immunity to Ground type moves.",
-        "effect": ""
-    },
-    "light metal": {
-        "name": "Light Metal",
-        "description": "Halves the Pokémon's weight.",
-        "effect": ""
-    },
-    "lightning rod": {
-        "name": "Lighting Rod",
-        "description": "Draws in all Electric-type moves to up Sp. Attack.",
-        "effect": ""
-    },
-    "limber": {
-        "name": "Limber",
-        "description": "The Pokémon is protected from paralysis.",
-        "effect": ""
-    },
-    "liquid ooze": {
-        "name": "Liquid Ooze",
-        "description": "Damages attackers using any draining move.",
-        "effect": ""
-    },
-    "liquid voice": {
-        "name": "Liquid Voice",
-        "description": "All sound-based moves become Water-type moves.",
-        "effect": ""
-    },
-    "long reach": {
-        "name": "Long Reach",
-        "description": "The Pokémon uses its moves without making contact with the target.",
-        "effect": ""
-    },
-    "magic bounce": {
-        "name": "Magic Bounce",
-        "description": "Reflects status- changing moves.",
-        "effect": ""
-    },
-    "magic guard": {
-        "name": "Magic Guard",
-        "description": "The Pokémon only takes damage from attacks.",
-        "effect": ""
-    },
-    "magician": {
-        "name": "Magician",
-        "description": "The Pokémon steals the held item of a Pokémon it hits with a move.",
-        "effect": ""
-    },
-    "magma armor": {
-        "name": "Magma Armor",
-        "description": "Prevents the Pokémon from becoming frozen.",
-        "effect": ""
-    },
-    "magnet pull": {
-        "name": "Magnet Pull",
-        "description": "Prevents Steel-type Pokémon from escaping.",
-        "effect": ""
-    },
-    "marvel scale": {
-        "name": "Marvel Scale",
-        "description": "Ups Defense if there is a status problem.",
-        "effect": ""
-    },
-    "mega launcher": {
-        "name": "Mega Launcher",
-        "description": "Boosts the power of aura and pulse moves.",
-        "effect": ""
-    },
-    "merciless": {
-        "name": "Merciless",
-        "description": "The Pokémon’s attacks become critical hits if the target is poisoned.",
-        "effect": ""
-    },
-    "minus": {
-        "name": "Minus",
-        "description": "Ups Sp. Atk if another Pokémon has Plus or Minus.",
-        "effect": ""
-    },
-    "misty surge": {
-        "name": "Misty Surge",
-        "description": "The Pokémon creates a Misty Terrain when it enters a battle.",
-        "effect": ""
-    },
-    "mold breaker": {
-        "name": "Mold Breaker",
-        "description": "Moves can be used regardless of Abilities.",
-        "effect": ""
-    },
-    "moody": {
-        "name": "Moody",
-        "description": "Raises one stat and lowers another.",
-        "effect": ""
-    },
-    "motor drive": {
-        "name": "Motor Drive",
-        "description": "Raises Speed if hit by an Electric-type move.",
-        "effect": ""
-    },
-    "moxie": {
-        "name": "Moxie",
-        "description": "Boosts Attack after knocking out any Pokémon.",
-        "effect": ""
-    },
-    "multiscale": {
-        "name": "Multiscale",
-        "description": "Reduces damage when HP is full.",
-        "effect": ""
-    },
-    "multitype": {
-        "name": "Multitype",
-        "description": "Changes type to match the held Plate.",
-        "effect": ""
-    },
-    "mummy": {
-        "name": "Mummy",
-        "description": "Contact with this Pokémon spreads this Ability.",
-        "effect": ""
-    },
-    "natural cure": {
-        "name": "Natural Cure",
-        "description": "All status problems heal when it switches out.",
-        "effect": ""
-    },
-    "no guard": {
-        "name": "No Guard",
-        "description": "Ensures attacks by or against the Pokémon land.",
-        "effect": ""
-    },
-    "normalize": {
-        "name": "Normalize",
-        "description": "All the Pokémon's moves become the Normal type.",
-        "effect": ""
-    },
-    "oblivious": {
-        "name": "Oblivious",
-        "description": "Prevents it from becoming infatuated.",
-        "effect": ""
-    },
-    "overcoat": {
-        "name": "Overcoat",
-        "description": "Protects the Pokémon from damage from weather.",
-        "effect": ""
-    },
-    "overgrow": {
-        "name": "Overgrow",
-        "description": "Powers up Grass-type moves in a pinch.",
-        "effect": ""
-    },
-    "own tempo": {
-        "name": "Own Tempo",
-        "description": "Prevents the Pokémon from becoming confused.",
-        "effect": ""
-    },
-    "parental bond": {
-        "name": "Parental Bond",
-        "description": "Allows the Pokémon to attack twice.",
-        "effect": ""
-    },
-    "pickpocket": {
-        "name": "Pickpocket",
-        "description": "Steals an item when hit by another Pokémon.",
-        "effect": ""
-    },
-    "pickup": {
-        "name": "Pickup",
-        "description": "The Pokémon may pick up items.",
-        "effect": ""
-    },
-    "pixilate": {
-        "name": "Pixilate",
-        "description": "Turns Normal-type moves into Fairy-type moves.",
-        "effect": ""
-    },
-    "plus": {
-        "name": "Plus",
-        "description": "Ups Sp. Atk if another Pokémon has Plus or Minus.",
-        "effect": ""
-    },
-    "poison heal": {
-        "name": "Poison Heal",
-        "description": "Restores HP if the Pokémon is poisoned.",
-        "effect": ""
-    },
-    "poison point": {
-        "name": "Poison Point",
-        "description": "Contact with the Pokémon may poison the attacker.",
-        "effect": ""
-    },
-    "poison touch": {
-        "name": "Poison Touch",
-        "description": "May poison targets when a Pokémon makes contact.",
-        "effect": ""
-    },
-    "power constuct": {
-        "name": "Power Contruct",
-        "description": "Changes form when HP drops below half.",
-        "effect": ""
-    },
-    "power of alchemy": {
-        "name": "Power of Alchemy",
-        "description": "The Pokémon copies the Ability of a defeated ally.",
-        "effect": ""
-    },
-    "prankster": {
-        "name": "Prankster",
-        "description": "Gives priority to a status move.",
-        "effect": ""
-    },
-    "pressure": {
-        "name": "Pressure",
-        "description": "The Pokémon raises the foe's PP usage.",
-        "effect": ""
-    },
-    "primordial sea": {
-        "name": "Primordial Sea",
-        "description": "Makes it rain heavily when the ability activates.",
-        "effect": ""
-    },
-    "prism armor": {
-        "name": "Prism Armor",
-        "description": "Reduces the power of supereffective attacks taken.",
-        "effect": ""
-    },
-    "protean": {
-        "name": "Protean",
-        "description": "Changes the Pokémon's type to its last used move.",
-        "effect": ""
-    },
-    "psychic surge": {
-        "name": "Psychic Surge",
-        "description": "The Pokémon creates a Psychic Terrain when it enters a battle.",
-        "effect": ""
-    },
-    "pure power": {
-        "name": "Pure Power",
-        "description": "Raises the Pokémon's Attack stat.",
-        "effect": ""
-    },
-    "queenly majesty": {
-        "name": "Queenly Majesty",
-        "description": "Prevents use of priority moves.",
-        "effect": ""
-    },
-    "quick feet": {
-        "name": "Quick Feet",
-        "description": "Boosts Speed if there is a status problem.",
-        "effect": ""
-    },
-    "rain dish": {
-        "name": "Rain Dish",
-        "description": "The Pokémon gradually regains HP in rain.",
-        "effect": ""
-    },
-    "rattled": {
-        "name": "Rattled",
-        "description": "Bug, Ghost or Dark type moves scare it and boost its Speed.",
-        "effect": ""
-    },
-    "receiver": {
-        "name": "Receiver",
-        "description": "Inherits an ally's ability when it faints.",
-        "effect": ""
-    },
-    "reckless": {
-        "name": "Reckless",
-        "description": "Powers up moves that have recoil damage.",
-        "effect": ""
-    },
-    "refrigerate": {
-        "name": "Refrigerate",
-        "description": "Turns Normal-type moves into Ice-type moves.",
-        "effect": ""
-    },
-    "regenerator": {
-        "name": "Regenerator",
-        "description": "Restores a little HP when withdrawn from battle.",
-        "effect": ""
-    },
-    "rivalry": {
-        "name": "Rivalry",
-        "description": "Deals more damage to a Pokémon of same gender.",
-        "effect": ""
-    },
-    "rks system": {
-        "name": "RKS System",
-        "description": "Changes type depending on held item.",
-        "effect": ""
-    },
-    "rock head": {
-        "name": "Rock Head",
-        "description": "Protects the Pokémon from recoil damage.",
-        "effect": ""
-    },
-    "rough skin": {
-        "name": "Rough Skin",
-        "description": "Inflicts damage to the attacker on contact.",
-        "effect": ""
-    },
-    "run away": {
-        "name": "Run Away",
-        "description": "Enables a sure getaway from wild Pokémon.",
-        "effect": ""
-    },
-    "sand force": {
-        "name": "Sand Force",
-        "description": "Boosts certain moves' power in a sandstorm.",
-        "effect": ""
-    },
-    "sand rush": {
-        "name": "Sand Rush",
-        "description": "Boosts the Pokémon's Speed in a sandstorm.",
-        "effect": ""
-    },
-    "sand stream": {
-        "name": "Sand Stream",
-        "description": "The Pokémon summons a sandstorm in battle.",
-        "effect": ""
-    },
-    "sand veil": {
-        "name": "Sand Veil",
-        "description": "Boosts the Pokémon's evasion in a sandstorm.",
-        "effect": ""
-    },
-    "sap sipper": {
-        "name": "Sap Sipper",
-        "description": "Boosts Attack when hit by a Grass-type move.",
-        "effect": ""
-    },
-    "schooling": {
-        "name": "Schooling",
-        "description": "Changes Wishiwashi to School form.",
-        "effect": ""
-    },
-    "scrappy": {
-        "name": "Scrappy",
-        "description": "Enables moves to hit Ghost-type Pokémon.",
-        "effect": ""
-    },
-    "serene grace": {
-        "name": "Serene Grace",
-        "description": "Boosts the likelihood of added effects appearing.",
-        "effect": ""
-    },
-    "shadow sheild": {
-        "name": "Shadow Shield",
-        "description": "Reduces damage when HP is full.",
-        "effect": ""
-    },
-    "shadow tag": {
-        "name": "Shadow Tag",
-        "description": "Prevents the foe from escaping.",
-        "effect": ""
-    },
-    "shed skin": {
-        "name": "Shed Skin",
-        "description": "The Pokémon may heal its own status problems.",
-        "effect": ""
-    },
-    "sheer force": {
-        "name": "Sheer Force",
-        "description": "Removes added effects to increase move damage.",
-        "effect": ""
-    },
-    "shell armor": {
-        "name": "Shell Armor",
-        "description": "The Pokémon is protected against critical hits.",
-        "effect": ""
-    },
-    "shield dust": {
-        "name": "Shield Dust",
-        "description": "Blocks the added effects of attacks taken.",
-        "effect": ""
-    },
-    "shields down": {
-        "name": "Shields Down",
-        "description": "Changes stats when HP drops below half.",
-        "effect": ""
-    },
-    "simple": {
-        "name": "Simple",
-        "description": "Doubles all stat changes.",
-        "effect": ""
-    },
-    "skill link": {
-        "name": "Skill Link",
-        "description": "Increases the frequency of multi-strike moves.",
-        "effect": ""
-    },
-    "slow start": {
-        "name": "Slow Start",
-        "description": "Temporarily halves Attack and Speed.",
-        "effect": ""
-    },
-    "slush rush": {
-        "name": "Slush Rush",
-        "description": "Boosts the Pokémon’s Speed stat in a hailstorm.",
-        "effect": ""
-    },
-    "sniper": {
-        "name": "Sniper",
-        "description": "Powers up moves if they become critical hits.",
-        "effect": ""
-    },
-    "snow cloak": {
-        "name": "Snow Cloak",
-        "description": "Raises evasion in a hailstorm.",
-        "effect": ""
-    },
-    "snow warning": {
-        "name": "Snow Warning",
-        "description": "The Pokémon summons a hailstorm in battle.",
-        "effect": ""
-    },
-    "solar power": {
-        "name": "Solar Power",
-        "description": "In sunshine, Sp. Atk is boosted but HP decreases.",
-        "effect": ""
-    },
-    "solid rock": {
-        "name": "Solid Rock",
-        "description": "Reduces damage from supereffective attacks.",
-        "effect": ""
-    },
-    "soul-heart": {
-        "name": "Soul-Heart",
-        "description": "Raises Special Attack when an ally faints.",
-        "effect": ""
-    },
-    "soundproof": {
-        "name": "Soundproof",
-        "description": "Gives immunity to sound-based moves.",
-        "effect": ""
-    },
-    "speed boost": {
-        "name": "Speed Boost",
-        "description": "Its Speed stat is gradually boosted.",
-        "effect": ""
-    },
-    "stakeout": {
-        "name": "Stakeout",
-        "description": "Deals double damage to Pokémon switching in.",
-        "effect": ""
-    },
-    "stall": {
-        "name": "Stall",
-        "description": "The Pokémon moves after all other Pokémon do.",
-        "effect": ""
-    },
-    "stamina": {
-        "name": "Stamina",
-        "description": "Raises Defense when attacked.",
-        "effect": ""
-    },
-    "stance change": {
-        "name": "Stance Change",
-        "description": "Changes form depending on moves used.",
-        "effect": ""
-    },
-    "static": {
-        "name": "Static",
-        "description": "Contact with the Pokémon may cause paralysis.",
-        "effect": ""
-    },
-    "steadfast": {
-        "name": "Steadfast",
-        "description": "Raises Speed each time the Pokémon flinches.",
-        "effect": ""
-    },
-    "steelworker": {
-        "name": "Steelworker",
-        "description": "Powers up Steel-type moves.",
-        "effect": ""
-    },
-    "stench": {
-        "name": "Stench",
-        "description": "The stench may cause the target to flinch.",
-        "effect": ""
-    },
-    "sticky hold": {
-        "name": "Sticky Hold",
-        "description": "Protects the Pokémon from item theft.",
-        "effect": ""
-    },
-    "storm drain": {
-        "name": "Storm Drain",
-        "description": "Draws in all Water-type moves to up Sp. Attack.",
-        "effect": ""
-    },
-    "strong jaw": {
-        "name": "Strong Jaw",
-        "description": "Boosts the power of biting moves.",
-        "effect": ""
-    },
-    "sturdy": {
-        "name": "Sturdy",
-        "description": "It cannot be knocked out with one hit.",
-        "effect": ""
-    },
-    "suction cups": {
-        "name": "Suction Cups",
-        "description": "Negates all moves that force switching out.",
-        "effect": ""
-    },
-    "super luck": {
-        "name": "Super Luck",
-        "description": "Heightens the critical-hit ratios of moves.",
-        "effect": ""
-    },
-    "surge surfer": {
-        "name": "Surge Surfer",
-        "description": "Doubles Speed during Electric Terrain.",
-        "effect": ""
-    },
-    "swarm": {
-        "name": "Swarm",
-        "description": "Powers up Bug-type moves in a pinch.",
-        "effect": ""
-    },
-    "sweet veil": {
-        "name": "Sweet Veil",
-        "description": "Prevents the Pokémon and allies from falling asleep.",
-        "effect": ""
-    },
-    "swift swim": {
-        "name": "Swift Swim",
-        "description": "Boosts the Pokémon's Speed in rain.",
-        "effect": ""
-    },
-    "symbiosis": {
-        "name": "Symbiosis",
-        "description": "The Pokémon can pass an item to an ally.",
-        "effect": ""
-    },
-    "synchronize": {
-        "name": "Synchronize",
-        "description": "Passes a burn, poison, or paralysis to the foe.",
-        "effect": ""
-    },
-    "tangled feet": {
-        "name": "Tangled Feet",
-        "description": "Raises evasion if the Pokémon is confused.",
-        "effect": ""
-    },
-    "tangling hair": {
-        "name": "Tangling Hair",
-        "description": "Contact with the Pokémon lowers the attacker’s Speed stat.",
-        "effect": ""
-    },
-    "technician": {
-        "name": "Technician",
-        "description": "Powers up the Pokémon's weaker moves.",
-        "effect": ""
-    },
-    "telepathy": {
-        "name": "Telepathy",
-        "description": "Anticipates an ally's attack and dodges it.",
-        "effect": ""
-    },
-    "teravolt": {
-        "name": "Teravolt",
-        "description": "Moves can be used regardless of Abilities.",
-        "effect": ""
-    },
-    "thick fat": {
-        "name": "Thick Fat",
-        "description": "Ups resistance to Fire- and Ice-type moves.",
-        "effect": ""
-    },
-    "tinted lens": {
-        "name": "Tinted Lens",
-        "description": "Powers up “not very effective” moves.",
-        "effect": ""
-    },
-    "torrent": {
-        "name": "Torrent",
-        "description": "Powers up Water-type moves in a pinch.",
-        "effect": ""
-    },
-    "tough claws": {
-        "name": "Tough Claws",
-        "description": "Boosts the power of contact moves.",
-        "effect": ""
-    },
-    "toxic boost": {
-        "name": "Toxic Boost",
-        "description": "Powers up physical attacks when poisoned.",
-        "effect": ""
-    },
-    "trace": {
-        "name": "Trace",
-        "description": "The Pokémon copies a foe's Ability.",
-        "effect": ""
-    },
-    "triage": {
-        "name": "Triage",
-        "description": "Gives priority to restorative moves.",
-        "effect": ""
-    },
-    "truant": {
-        "name": "Truant",
-        "description": "Pokémon can't attack on consecutive turns.",
-        "effect": ""
-    },
-    "turboblaze": {
-        "name": "Turboblaze",
-        "description": "Moves can be used regardless of Abilities.",
-        "effect": ""
-    },
-    "unaware": {
-        "name": "Unaware",
-        "description": "Ignores any stat changes in the Pokémon.",
-        "effect": ""
-    },
-    "unburden": {
-        "name": "Unberden",
-        "description": "Raises Speed if a held item is used.",
-        "effect": ""
-    },
-    "unnerve": {
-        "name": "Unnerve",
-        "description": "Makes the foe nervous and unable to eat Berries.",
-        "effect": ""
-    },
-    "victory star": {
-        "name": "Victory Star",
-        "description": "Boosts the accuracy of its allies and itself.",
-        "effect": ""
-    },
-    "vital spirit": {
-        "name": "Vital Spirit",
-        "description": "Prevents the Pokémon from falling asleep.",
-        "effect": ""
-    },
-    "volt absorb": {
-        "name": "Volt Absorb",
-        "description": "Restores HP if hit by an Electric-type move.",
-        "effect": ""
-    },
-    "water absorb": {
-        "name": "Water Absorb",
-        "description": "Restores HP if hit by a Water-type move.",
-        "effect": ""
-    },
-    "water bubble": {
-        "name": "Water Bubble",
-        "description": "Lowers the power of Fire-type moves and prevents burns.",
-        "effect": ""
-    },
-    "water compaction": {
-        "name": "Water Compation",
-        "description": "Sharply raises Defense when hit by a Water-type move.",
-        "effect": ""
-    },
-    "water veil": {
-        "name": "Water Veil",
-        "description": "Prevents the Pokémon from getting a burn.",
-        "effect": ""
-    },
-    "weak armor": {
-        "name": "Weak Armor",
-        "description": "Physical attacks lower Defense and raise Speed.",
-        "effect": ""
-    },
-    "white smoke": {
-        "name": "White Smoke",
-        "description": "Prevents other Pokémon from lowering its stats.",
-        "effect": ""
-    },
-    "wimp out": {
-        "name": "Wimp Out",
-        "description": "Switches out when HP drops below half.",
-        "effect": ""
-    },
-    "wonder guard": {
-        "name": "Wonder Guard",
-        "description": "Only supereffective moves will hit.",
-        "effect": ""
-    },
-    "wonder skin": {
-        "name": "Wonder Skin",
-        "description": "Makes status-changing moves more likely to miss.",
-        "effect": ""
-    },
-    "zen mode": {
-        "name": "Zen Mode",
-        "description": "Changes form when HP drops below half.",
-        "effect": ""
-    }
+		"name": "Adaptability",
+		"description": "Powers up moves of the same type as the Pokémon.",
+		"effect": "Adaptability increases STAB from 1.5× to 2×."
+	},
+	"aerilate": {
+		"name": "Aerilate",
+		"description": "Normal-type moves become Flying-type moves. The power of those moves is boosted a little.",
+		"effect": "Affected moves now receive a 20% power boost."
+	},
+	"aftermath": {
+		"name": "Aftermath",
+		"description": "Damages the attacker if it contacts the Pokémon with a finishing hit.",
+		"effect": "When a Pokémon with this Ability faints due to damage from a move that makes contact, the attacking Pokémon takes damage equal to ¼ of its own maximum HP. This Ability will not activate if a Pokémon with Damp is on the field."
+	},
+	"air lock": {
+		"name": "Air Lock",
+		"description": "Eliminates the effects of weather.",
+		"effect": "During extremely harsh sunlight, heavy rain, and a mysterious air current, even if a Pokémon is negating the effects of weather with Air Lock, the moves Sunny Day, Rain Dance, Sandstorm, and Hail will still fail if used, and the Abilities Drought, Drizzle, Sand Stream, and Snow Warning will still fail to activate. However, all other effects of these weather conditions are negated by Air Lock."
+	},
+	"analytic": {
+		"name": "Analytic",
+		"description": "Boosts move power when the Pokémon moves last.",
+		"effect": "If a Pokémon with Analytic executes its move after the Pokémon it originally targeted has already acted this turn, the power of its move is increased by 30%. Using a move and switching to another Pokémon count as having acted, while Mega Evolving, shifting, or the charging phase of Focus Punch do not.\n\nIn a Triple Battle, this means that if the Pokémon with Analytic is targeting a Pokémon in a flank position that chooses to switch with its ally in the middle, its move's power will always be normal when it attacks the Pokémon that is shifted into the flank position; but if the Pokémon with Analytic targets a Pokémon in the middle whose ally on a flank chooses to shift into the middle position, its move's power still depends on whether the Pokémon that was in the middle (and is now on a flank) has acted when the Pokémon with Analytic uses its move."
+	},
+	"anger point": {
+		"name": "Anger Point",
+		"description": "The Pokémon is angered when it takes a critical hit, and that maxes its Attack stat.",
+		"effect": "Generation IV\nWhen a Pokémon with this Ability is hit by a critical hit, Anger Point maximizes its Attack stat by raising it to +6 stages (regardless of its current stage).\nAnger Point will activate even if the Pokémon's substitute is hit.\nGeneration V onward\nAnger Point no longer activates if the Pokémon's substitute is hit."
+	},
+	"anticipation": {
+		"name": "Anticipation",
+		"description": "Senses the foe’s dangerous moves.",
+		"effect": ""
+	},
+	"arena trap": {
+		"name": "Arena Trap",
+		"description": "Prevents the foe from fleeing.",
+		"effect": ""
+	},
+	"aroma veil": {
+		"name": "Aroma Veil",
+		"description": "Protects allies from attacks that limit their move choices.",
+		"effect": ""
+	},
+	"aura break": {
+		"name": "Aura Break",
+		"description": "The effects of \"Aura\" Abilities are reversed.",
+		"effect": ""
+	},
+	"bad dreams": {
+		"name": "Bad Dreams",
+		"description": "Reduces a sleeping foe’s HP.",
+		"effect": ""
+	},
+	"battery": {
+		"name": "Battery",
+		"description": "Powers up ally Pokémon's special moves.",
+		"effect": ""
+	},
+	"battle armor": {
+		"name": "Battle Armor",
+		"description": "The Pokémon is protected against critical hits.",
+		"effect": ""
+	},
+	"battle bond": {
+		"name": "Battle Bond",
+		"description": "Defeating an opposing Pokémon strengthens the Pokémon's bond with its Trainer, and it becomes Ash-Greninja. Water Shuriken gets more powerful.",
+		"effect": ""
+	},
+	"beast boost": {
+		"name": "Beast Boost",
+		"description": "The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.",
+		"effect": ""
+	},
+	"berserk": {
+		"name": "Berserk",
+		"description": "Boosts the Pokémon's Sp. Atk stat when it takes a hit that causes its HP to become half or less.",
+		"effect": ""
+	},
+	"big pecks": {
+		"name": "Big Pecks",
+		"description": "Protects the Pokémon from Defense-lowering attacks.",
+		"effect": ""
+	},
+	"blaze": {
+		"name": "Blaze",
+		"description": "Powers up Fire-type moves in a pinch.",
+		"effect": ""
+	},
+	"bulletproof": {
+		"name": "Bulletproof",
+		"description": "Protects the Pokémon from some ball and bomb moves.",
+		"effect": ""
+	},
+	"cheek pouch": {
+		"name": "Cheek Pouch",
+		"description": "Restores HP as well when the Pokémon eats a Berry.",
+		"effect": ""
+	},
+	"chlorophyll": {
+		"name": "Chlorophyll",
+		"description": "Boosts the Pokémon’s Speed in sunshine.",
+		"effect": ""
+	},
+	"clear body": {
+		"name": "Clear Body",
+		"description": "Prevents the Pokémon’s stats from being lowered.",
+		"effect": ""
+	},
+	"cloud nine": {
+		"name": "Cloud Nine",
+		"description": "Eliminates the effects of weather.",
+		"effect": ""
+	},
+	"color change": {
+		"name": "Color Change",
+		"description": "Changes the Pokémon’s type to the foe’s move.",
+		"effect": ""
+	},
+	"comatose": {
+		"name": "Comatose",
+		"description": "It's always drowsing and will never wake up. It can attack without waking up.",
+		"effect": ""
+	},
+	"competitive": {
+		"name": "Competitive",
+		"description": "Boosts the Sp.Atk stat when a stat is lowered.",
+		"effect": ""
+	},
+	"compound eyes": {
+		"name": "Compound Eyes",
+		"description": "The Pokémon’s accuracy is boosted.",
+		"effect": ""
+	},
+	"contrary": {
+		"name": "Contrary",
+		"description": "Inverts stat modifiers.",
+		"effect": ""
+	},
+	"corrosion": {
+		"name": "Corrosion",
+		"description": "The Pokémon can poison the target even if it's a Steel or Poison type.",
+		"effect": ""
+	},
+	"cursed body": {
+		"name": "Cursed Body",
+		"description": "Has a 30% chance of Disabling any move that hits the Pokémon.",
+		"effect": ""
+	},
+	"cute charm": {
+		"name": "Cute Charm",
+		"description": "Contact with the Pokémon may cause infatuation.",
+		"effect": ""
+	},
+	"damp": {
+		"name": "Damp",
+		"description": "Prevents combatants from self destructing.",
+		"effect": ""
+	},
+	"dancer": {
+		"name": "Dancer",
+		"description": "When another Pokémon uses a dance move, it can use a dance move following it regardless of its Speed.",
+		"effect": ""
+	},
+	"dark aura": {
+		"name": "Dark Aura",
+		"description": "Powers up each Pokémon's Dark-type moves.",
+		"effect": ""
+	},
+	"dazzling": {
+		"name": "Dazzling",
+		"description": "Surprises the opposing Pokémon, making it unable to attack using priority moves.",
+		"effect": ""
+	},
+	"defeatist": {
+		"name": "Defeatist",
+		"description": "Halves Attack and Special Attack below 50% HP.",
+		"effect": ""
+	},
+	"defiant": {
+		"name": "Defiant",
+		"description": "Raises Attack two stages upon having any stat lowered.",
+		"effect": ""
+	},
+	"delta stream": {
+		"name": "Delta Stream",
+		"description": "Eliminates weather effects and eliminates weaknesses of Flying-type Pokémon.",
+		"effect": ""
+	},
+	"desolate land": {
+		"name": "Desolate Land",
+		"description": "Creates harsh sunlight.",
+		"effect": ""
+	},
+	"disguise": {
+		"name": "Disguise",
+		"description": "Once per battle, the shroud that covers the Pokémon can protect it from an attack.",
+		"effect": ""
+	},
+	"download": {
+		"name": "Download",
+		"description": "Adjusts power according to the foe’s lowest defensive stat.",
+		"effect": ""
+	},
+	"drizzle": {
+		"name": "Drizzle",
+		"description": "The Pokémon makes it rain if it appears in battle.",
+		"effect": ""
+	},
+	"drought": {
+		"name": "Drought",
+		"description": "The Pokémon makes it sunny if it is in battle.",
+		"effect": ""
+	},
+	"dry skin": {
+		"name": "Dry Skin",
+		"description": "Reduces HP if it is hot. Water restores HP.",
+		"effect": ""
+	},
+	"early bird": {
+		"name": "Early Bird",
+		"description": "The Pokémon awakens quickly from sleep.",
+		"effect": ""
+	},
+	"effect spore": {
+		"name": "Effect Spore",
+		"description": "Contact may paralyze, poison, or cause sleep.",
+		"effect": ""
+	},
+	"electric surge": {
+		"name": "Electric Surge",
+		"description": "Turns the ground into Electric Terrain when the Pokémon enters a battle.",
+		"effect": ""
+	},
+	"emergency exit": {
+		"name": "Emergency Exit",
+		"description": "The Pokémon, sensing danger, switches out when its HP becomes half or less.",
+		"effect": ""
+	},
+	"fairy aura": {
+		"name": "Fairy Aura",
+		"description": "Powers up each Pokémon's Fairy-type moves.",
+		"effect": ""
+	},
+	"filter": {
+		"name": "Filter",
+		"description": "Powers down supereffective moves.",
+		"effect": ""
+	},
+	"flame body": {
+		"name": "Flame Body",
+		"description": "Contact with the Pokémon may burn the foe.",
+		"effect": ""
+	},
+	"flare boost": {
+		"name": "Flare Boost",
+		"description": "Increases Special Attack to 1.5× when burned.",
+		"effect": ""
+	},
+	"flash fire": {
+		"name": "Flash Fire",
+		"description": "Powers up Fire-type moves if hit by a fire move.",
+		"effect": ""
+	},
+	"flower gift": {
+		"name": "Flower Gift",
+		"description": "Powers up party Pokémon when it is sunny.",
+		"effect": ""
+	},
+	"flower veil": {
+		"name": "Flower Veil",
+		"description": "Prevents lowering of ally Grass-type Pokémon's stats.",
+		"effect": ""
+	},
+	"fluffy": {
+		"name": "Fluffy",
+		"description": "Halves the damage taken from moves that make direct contact, but doubles that of Fire-type moves.",
+		"effect": ""
+	},
+	"forecast": {
+		"name": "Forecast",
+		"description": "Transforms with the weather.",
+		"effect": ""
+	},
+	"forewarn": {
+		"name": "Forewarn",
+		"description": "Determines what moves the foe has.",
+		"effect": ""
+	},
+	"friend guard": {
+		"name": "Friend Guard",
+		"description": "Decreases damage inflicted against ally Pokémon.",
+		"effect": ""
+	},
+	"frisk": {
+		"name": "Frisk",
+		"description": "The Pokémon can check the foe’s held item.",
+		"effect": ""
+	},
+	"full metal body": {
+		"name": "Full Metal Body",
+		"description": "Prevents other Pokémon's moves or Abilities from lowering the Pokémon's stats.",
+		"effect": ""
+	},
+	"fur coat": {
+		"name": "Fur Coat",
+		"description": "Halves damage from physical moves.",
+		"effect": ""
+	},
+	"gale wings": {
+		"name": "Gale Wings",
+		"description": "Gives priority to Flying-type moves.",
+		"effect": ""
+	},
+	"galvanize": {
+		"name": "Galvanize",
+		"description": "Normal-type moves become Electric-type moves. The power of those moves is boosted a little.",
+		"effect": ""
+	},
+	"gluttony": {
+		"name": "Gluttony",
+		"description": "Encourages the early use of a held Berry.",
+		"effect": ""
+	},
+	"gooey": {
+		"name": "Gooey",
+		"description": "Contact with the Pokémon lowers the attacker's Speed stat.",
+		"effect": ""
+	},
+	"grass pelt": {
+		"name": "Grass Pelt",
+		"description": "Boosts the Defense stat in Grassy Terrain.",
+		"effect": ""
+	},
+	"grassy surge": {
+		"name": "Grassy Surge",
+		"description": "Turns the ground into Grassy Terrain when the Pokémon enters a battle.",
+		"effect": ""
+	},
+	"guts": {
+		"name": "Guts",
+		"description": "Boosts Attack if there is a status problem.",
+		"effect": ""
+	},
+	"harvest": {
+		"name": "Harvest",
+		"description": "Restores any held Berry after the turn on which it is used.",
+		"effect": ""
+	},
+	"healer": {
+		"name": "Healer",
+		"description": "Has a 30% chance of curing each adjacent ally of any major status ailment after each turn.",
+		"effect": ""
+	},
+	"heatproof": {
+		"name": "Heatproof",
+		"description": "Weakens the power of Fire-type moves.",
+		"effect": ""
+	},
+	"heavy metal": {
+		"name": "Heavy Metal",
+		"description": "Doubles the Pokémon's weight.",
+		"effect": ""
+	},
+	"honey gather": {
+		"name": "Honey Gather",
+		"description": "The Pokémon may gather Honey from somewhere.",
+		"effect": ""
+	},
+	"huge power": {
+		"name": "Huge Power",
+		"description": "Raises the Pokémon’s Attack stat.",
+		"effect": ""
+	},
+	"hustle": {
+		"name": "Hustle",
+		"description": "Boosts the Attack stat, but lowers accuracy.",
+		"effect": ""
+	},
+	"hydration": {
+		"name": "Hydration",
+		"description": "Heals status problems if it is raining.",
+		"effect": ""
+	},
+	"hyper cutter": {
+		"name": "Hyper Cutter",
+		"description": "Prevents the Attack stat from being lowered.",
+		"effect": ""
+	},
+	"ice body": {
+		"name": "Ice Body",
+		"description": "The Pokémon regains HP in a hailstorm.",
+		"effect": ""
+	},
+	"illuminate": {
+		"name": "Illuminate",
+		"description": "Raises the likelihood of meeting wild Pokémon.",
+		"effect": ""
+	},
+	"illusion": {
+		"name": "Illusion",
+		"description": "Takes the appearance of the last conscious party Pokémon upon being sent out until hit by a damaging move.",
+		"effect": ""
+	},
+	"immunity": {
+		"name": "Immunity",
+		"description": "Prevents the Pokémon from getting poisoned.",
+		"effect": ""
+	},
+	"imposter": {
+		"name": "Imposter",
+		"description": "Transforms upon entering battle.",
+		"effect": ""
+	},
+	"infiltrator": {
+		"name": "Infiltrator",
+		"description": "Ignores Light Screen, Reflect, and Safeguard.",
+		"effect": ""
+	},
+	"innards out": {
+		"name": "Innards Out",
+		"description": "Damages the attacker landing the finishing hit by the amount equal to its last HP.",
+		"effect": ""
+	},
+	"inner focus": {
+		"name": "Inner Focus",
+		"description": "The Pokémon is protected from flinching.",
+		"effect": ""
+	},
+	"insomnia": {
+		"name": "Insomnia",
+		"description": "Prevents the Pokémon from falling asleep.",
+		"effect": ""
+	},
+	"intimidate": {
+		"name": "Intimidate",
+		"description": "Lowers the foe’s Attack stat.",
+		"effect": ""
+	},
+	"iron barbs": {
+		"name": "Iron Barbs",
+		"description": "Damages attacking Pokémon for 1/8 their max HP on contact.",
+		"effect": ""
+	},
+	"iron fist": {
+		"name": "Iron Fist",
+		"description": "Boosts the power of punching moves.",
+		"effect": ""
+	},
+	"justified": {
+		"name": "Justified",
+		"description": "Raises Attack when hit by Dark-type moves.",
+		"effect": ""
+	},
+	"keen eye": {
+		"name": "Keen Eye",
+		"description": "Prevents the Pokémon from losing accuracy.",
+		"effect": ""
+	},
+	"klutz": {
+		"name": "Klutz",
+		"description": "The Pokémon can’t use any held items.",
+		"effect": ""
+	},
+	"leaf guard": {
+		"name": "Leaf Guard",
+		"description": "Prevents status problems in sunny weather.",
+		"effect": ""
+	},
+	"levitate": {
+		"name": "Levitate",
+		"description": "Gives full immunity to all Ground-type moves.",
+		"effect": ""
+	},
+	"light metal": {
+		"name": "Light Metal",
+		"description": "Halves the Pokémon's weight.",
+		"effect": ""
+	},
+	"lightning rod": {
+		"name": "Lightning Rod",
+		"description": "The Pokémon draws in all Electric-type moves and then raise Sp.Atk.",
+		"effect": ""
+	},
+	"limber": {
+		"name": "Limber",
+		"description": "The Pokémon is protected from paralysis.",
+		"effect": ""
+	},
+	"liquid ooze": {
+		"name": "Liquid Ooze",
+		"description": "Inflicts damage on foes using any draining move.",
+		"effect": ""
+	},
+	"liquid voice": {
+		"name": "Liquid Voice",
+		"description": "All sound-based moves become Water-type moves.",
+		"effect": ""
+	},
+	"long reach": {
+		"name": "Long Reach",
+		"description": "The Pokémon uses its moves without making contact with the target.",
+		"effect": ""
+	},
+	"magic bounce": {
+		"name": "Magic Bounce",
+		"description": "Reflects most non-damaging moves back at their user.",
+		"effect": ""
+	},
+	"magic guard": {
+		"name": "Magic Guard",
+		"description": "The Pokémon only takes damage from attacks.",
+		"effect": ""
+	},
+	"magician": {
+		"name": "Magician",
+		"description": "The Pokémon steals the held item of a Pokémon it hits with a move.",
+		"effect": ""
+	},
+	"magma armor": {
+		"name": "Magma Armor",
+		"description": "Prevents the Pokémon from becoming frozen.",
+		"effect": ""
+	},
+	"magnet pull": {
+		"name": "Magnet Pull",
+		"description": "Prevents Steel-type Pokémon from escaping.",
+		"effect": ""
+	},
+	"marvel scale": {
+		"name": "Marvel Scale",
+		"description": "Boosts Defense if there is a status problem.",
+		"effect": ""
+	},
+	"mega launcher": {
+		"name": "Mega Launcher",
+		"description": "Powers up aura and pulse moves.",
+		"effect": ""
+	},
+	"merciless": {
+		"name": "Merciless",
+		"description": "The Pokémon's attacks become critical hits if the target is poisoned.",
+		"effect": ""
+	},
+	"minus": {
+		"name": "Minus",
+		"description": "Boosts Sp. Atk if another Pokémon has Plus.",
+		"effect": ""
+	},
+	"misty surge": {
+		"name": "Misty Surge",
+		"description": "Turns the ground into Misty Terrain when the Pokémon enters a battle.",
+		"effect": ""
+	},
+	"mold breaker": {
+		"name": "Mold Breaker",
+		"description": "Moves can be used regardless of Abilities.",
+		"effect": ""
+	},
+	"moody": {
+		"name": "Moody",
+		"description": "Raises a random stat two stages and lowers another one stage after each turn.",
+		"effect": ""
+	},
+	"motor drive": {
+		"name": "Motor Drive",
+		"description": "Raises Speed if hit by an Electric-type move.",
+		"effect": ""
+	},
+	"moxie": {
+		"name": "Moxie",
+		"description": "Raises Attack one stage upon KOing a Pokémon.",
+		"effect": ""
+	},
+	"multiscale": {
+		"name": "Multiscale",
+		"description": "Halves damage taken from full HP.",
+		"effect": ""
+	},
+	"multitype": {
+		"name": "Multitype",
+		"description": "Changes type to match the held Plate.",
+		"effect": ""
+	},
+	"mummy": {
+		"name": "Mummy",
+		"description": "Contact with this Pokémon spreads this Ability.",
+		"effect": ""
+	},
+	"natural cure": {
+		"name": "Natural Cure",
+		"description": "All status problems are healed upon switching out.",
+		"effect": ""
+	},
+	"no guard": {
+		"name": "No Guard",
+		"description": "Ensures the Pokémon and its foe’s attacks land.",
+		"effect": ""
+	},
+	"normalize": {
+		"name": "Normalize",
+		"description": "All the Pokémon’s moves become the Normal type.",
+		"effect": ""
+	},
+	"oblivious": {
+		"name": "Oblivious",
+		"description": "Prevents the Pokémon from becoming infatuated.",
+		"effect": ""
+	},
+	"overcoat": {
+		"name": "Overcoat",
+		"description": "Protects against damage from weather.",
+		"effect": ""
+	},
+	"overgrow": {
+		"name": "Overgrow",
+		"description": "Powers up Grass-type moves in a pinch.",
+		"effect": ""
+	},
+	"own tempo": {
+		"name": "Own Tempo",
+		"description": "Prevents the Pokémon from becoming confused.",
+		"effect": ""
+	},
+	"parental bond": {
+		"name": "Parental Bond",
+		"description": "Parent and child attack together.",
+		"effect": ""
+	},
+	"pickpocket": {
+		"name": "Pickpocket",
+		"description": "Steals attacking Pokémon's held item on contact.",
+		"effect": ""
+	},
+	"pickup": {
+		"name": "Pickup",
+		"description": "The Pokémon may pick up items.",
+		"effect": ""
+	},
+	"pixilate": {
+		"name": "Pixilate",
+		"description": "Normal-type moves become Fairy-type moves.",
+		"effect": ""
+	},
+	"plus": {
+		"name": "Plus",
+		"description": "Boosts Sp. Atk if another Pokémon has Minus.",
+		"effect": ""
+	},
+	"poison heal": {
+		"name": "Poison Heal",
+		"description": "Restores HP if the Pokémon is poisoned.",
+		"effect": ""
+	},
+	"poison point": {
+		"name": "Poison Point",
+		"description": "Contact with the Pokémon may poison the foe.",
+		"effect": ""
+	},
+	"poison touch": {
+		"name": "Poison Touch",
+		"description": "Has a 30% chance of poisoning Pokémon upon contact when attacking.",
+		"effect": ""
+	},
+	"power construct": {
+		"name": "Power Construct",
+		"description": "Other Cells gather to aid when its HP becomes half or less. Then the Pokémon changes its form to Complete Forme.",
+		"effect": ""
+	},
+	"power of alchemy": {
+		"name": "Power of Alchemy",
+		"description": "The Pokémon copies the Ability of a defeated ally.",
+		"effect": ""
+	},
+	"prankster": {
+		"name": "Prankster",
+		"description": "Raises non-damaging moves' priority by one stage.",
+		"effect": ""
+	},
+	"pressure": {
+		"name": "Pressure",
+		"description": "The Pokémon raises the foe’s PP usage.",
+		"effect": ""
+	},
+	"primordial sea": {
+		"name": "Primordial Sea",
+		"description": "Causes heavy rain.",
+		"effect": ""
+	},
+	"prism armor": {
+		"name": "Prism Armor",
+		"description": "Reduces the power of supereffective attacks taken.",
+		"effect": ""
+	},
+	"protean": {
+		"name": "Protean",
+		"description": "Changes the Pokémon's type to the same type of the move it is using.",
+		"effect": ""
+	},
+	"psychic surge": {
+		"name": "Psychic Surge",
+		"description": "Turns the ground into Psychic Terrain when the Pokémon enters a battle.",
+		"effect": ""
+	},
+	"pure power": {
+		"name": "Pure Power",
+		"description": "Boosts the power of physical attacks.",
+		"effect": ""
+	},
+	"queenly majesty": {
+		"name": "Queenly Majesty",
+		"description": "Its majesty pressures the opposing Pokémon, making it unable to attack using priority moves.",
+		"effect": ""
+	},
+	"quick feet": {
+		"name": "Quick Feet",
+		"description": "Boosts Speed if there is a status problem.",
+		"effect": ""
+	},
+	"rain dish": {
+		"name": "Rain Dish",
+		"description": "The Pokémon gradually recovers HP in rain.",
+		"effect": ""
+	},
+	"rattled": {
+		"name": "Rattled",
+		"description": "Raises Speed one stage upon being hit by a Dark, Ghost, or Bug move.",
+		"effect": ""
+	},
+	"receiver": {
+		"name": "Receiver",
+		"description": "The Pokémon copies the Ability of a defeated ally.",
+		"effect": ""
+	},
+	"reckless": {
+		"name": "Reckless",
+		"description": "Powers up moves that have recoil damage.",
+		"effect": ""
+	},
+	"refrigerate": {
+		"name": "Refrigerate",
+		"description": "Normal-type moves become Ice-type moves.",
+		"effect": ""
+	},
+	"regenerator": {
+		"name": "Regenerator",
+		"description": "Heals for 1/3 max HP upon leaving battle.",
+		"effect": ""
+	},
+	"rivalry": {
+		"name": "Rivalry",
+		"description": "Raises Attack if the foe is of the same gender.",
+		"effect": ""
+	},
+	"rks system": {
+		"name": "RKS System",
+		"description": "Changes the Pokémon’s type to match the memory disc it holds.",
+		"effect": ""
+	},
+	"rock head": {
+		"name": "Rock Head",
+		"description": "Protects the Pokémon from recoil damage.",
+		"effect": ""
+	},
+	"rough skin": {
+		"name": "Rough Skin",
+		"description": "Inflicts damage to the foe on contact.",
+		"effect": ""
+	},
+	"run away": {
+		"name": "Run Away",
+		"description": "Enables sure getaway from wild Pokémon.",
+		"effect": ""
+	},
+	"sand force": {
+		"name": "Sand Force",
+		"description": "Strengthens Rock, Ground, and Steel moves to 1.3× their power during a sandstorm.",
+		"effect": ""
+	},
+	"sand rush": {
+		"name": "Sand Rush",
+		"description": "Doubles Speed during a sandstorm.",
+		"effect": ""
+	},
+	"sand stream": {
+		"name": "Sand Stream",
+		"description": "The Pokémon summons a sandstorm in battle.",
+		"effect": ""
+	},
+	"sand veil": {
+		"name": "Sand Veil",
+		"description": "Boosts the Pokémon’s evasion in a sandstorm.",
+		"effect": ""
+	},
+	"sap sipper": {
+		"name": "Sap Sipper",
+		"description": "Absorbs Grass moves, raising Attack one stage.",
+		"effect": ""
+	},
+	"schooling": {
+		"name": "Schooling",
+		"description": "When it has a lot of HP, the Pokémon forms a powerful school. It stops schooling when its HP is low.",
+		"effect": ""
+	},
+	"scrappy": {
+		"name": "Scrappy",
+		"description": "Enables moves to hit Ghost-type foes.",
+		"effect": ""
+	},
+	"serene grace": {
+		"name": "Serene Grace",
+		"description": "Boosts the likelihood of added effects appearing.",
+		"effect": ""
+	},
+	"shadow shield": {
+		"name": "Shadow Shield",
+		"description": "Reduces the amount of damage the Pokémon takes while its HP is full.",
+		"effect": ""
+	},
+	"shadow tag": {
+		"name": "Shadow Tag",
+		"description": "Prevents the foe from escaping.",
+		"effect": ""
+	},
+	"shed skin": {
+		"name": "Shed Skin",
+		"description": "The Pokémon may heal its own status problems.",
+		"effect": ""
+	},
+	"sheer force": {
+		"name": "Sheer Force",
+		"description": "Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects.",
+		"effect": ""
+	},
+	"shell armor": {
+		"name": "Shell Armor",
+		"description": "The Pokémon is protected against critical hits.",
+		"effect": ""
+	},
+	"shield dust": {
+		"name": "Shield Dust",
+		"description": "Blocks the added effects of attacks taken.",
+		"effect": ""
+	},
+	"shields down": {
+		"name": "Shields Down",
+		"description": "When its HP becomes half or less, the Pokémon's shell breaks and it becomes aggressive.",
+		"effect": ""
+	},
+	"simple": {
+		"name": "Simple",
+		"description": "The Pokémon is prone to wild stat changes.",
+		"effect": ""
+	},
+	"skill link": {
+		"name": "Skill Link",
+		"description": "Increases the frequency of multi-strike moves.",
+		"effect": ""
+	},
+	"slow start": {
+		"name": "Slow Start",
+		"description": "Temporarily halves Attack and Speed.",
+		"effect": ""
+	},
+	"slush rush": {
+		"name": "Slush Rush",
+		"description": "Boosts the Pokémon's Speed stat in a hailstorm.",
+		"effect": ""
+	},
+	"sniper": {
+		"name": "Sniper",
+		"description": "Powers up moves if they become critical hits.",
+		"effect": ""
+	},
+	"snow cloak": {
+		"name": "Snow Cloak",
+		"description": "Raises evasion in a hailstorm.",
+		"effect": ""
+	},
+	"snow warning": {
+		"name": "Snow Warning",
+		"description": "The Pokémon summons a hailstorm in battle.",
+		"effect": ""
+	},
+	"solar power": {
+		"name": "Solar Power",
+		"description": "Boosts Sp. Atk, but lowers HP in sunshine.",
+		"effect": ""
+	},
+	"solid rock": {
+		"name": "Solid Rock",
+		"description": "Powers down supereffective moves.",
+		"effect": ""
+	},
+	"soul-heart": {
+		"name": "Soul-Heart",
+		"description": "Boosts its Sp. Atk stat every time a Pokémon faints.",
+		"effect": ""
+	},
+	"soundproof": {
+		"name": "Soundproof",
+		"description": "Gives full immunity to all sound-based moves.",
+		"effect": ""
+	},
+	"speed boost": {
+		"name": "Speed Boost",
+		"description": "The Pokémon’s Speed stat is gradually boosted.",
+		"effect": ""
+	},
+	"stakeout": {
+		"name": "Stakeout",
+		"description": "Doubles the damage dealt to the target's replacement if the target switches out.",
+		"effect": ""
+	},
+	"stall": {
+		"name": "Stall",
+		"description": "The Pokémon moves after even slower foes.",
+		"effect": ""
+	},
+	"stamina": {
+		"name": "Stamina",
+		"description": "Boosts the Defense stat when hit by an attack.",
+		"effect": ""
+	},
+	"stance change": {
+		"name": "Stance Change",
+		"description": "The Pokémon changes form depending on how it battles.",
+		"effect": ""
+	},
+	"static": {
+		"name": "Static",
+		"description": "Contact with the Pokémon may cause paralysis.",
+		"effect": ""
+	},
+	"steadfast": {
+		"name": "Steadfast",
+		"description": "Raises Speed each time the Pokémon flinches.",
+		"effect": ""
+	},
+	"steelworker": {
+		"name": "Steelworker",
+		"description": "Powers up Steel-type moves.",
+		"effect": ""
+	},
+	"stench": {
+		"name": "Stench",
+		"description": "The stench may cause the target to flinch.",
+		"effect": ""
+	},
+	"sticky hold": {
+		"name": "Sticky Hold",
+		"description": "Protects the Pokémon from item theft.",
+		"effect": ""
+	},
+	"storm drain": {
+		"name": "Storm Drain",
+		"description": "The Pokémon draws in all Water-type moves.",
+		"effect": ""
+	},
+	"strong jaw": {
+		"name": "Strong Jaw",
+		"description": "The Pokémon's strong jaw gives it tremendous biting power.",
+		"effect": ""
+	},
+	"sturdy": {
+		"name": "Sturdy",
+		"description": "The Pokémon is protected against 1-hit KO attacks.",
+		"effect": ""
+	},
+	"suction cups": {
+		"name": "Suction Cups",
+		"description": "Negates moves that force switching out.",
+		"effect": ""
+	},
+	"super luck": {
+		"name": "Super Luck",
+		"description": "Heightens the critical-hit ratios of moves.",
+		"effect": ""
+	},
+	"surge surfer": {
+		"name": "Surge Surfer",
+		"description": "Doubles the Pokémon's Speed stat on Electric Terrain.",
+		"effect": ""
+	},
+	"swarm": {
+		"name": "Swarm",
+		"description": "Powers up Bug-type moves in a pinch.",
+		"effect": ""
+	},
+	"sweet veil": {
+		"name": "Sweet Veil",
+		"description": "Prevents itself and its allies from falling asleep.",
+		"effect": ""
+	},
+	"swift swim": {
+		"name": "Swift Swim",
+		"description": "Boosts the Pokémon’s Speed in rain.",
+		"effect": ""
+	},
+	"symbiosis": {
+		"name": "Symbiosis",
+		"description": "The Pokémon can pass an item to an ally.",
+		"effect": ""
+	},
+	"synchronize": {
+		"name": "Synchronize",
+		"description": "Passes on a burn, poison, or paralysis to the foe.",
+		"effect": ""
+	},
+	"tangled feet": {
+		"name": "Tangled Feet",
+		"description": "Raises evasion if the Pokémon is confused.",
+		"effect": ""
+	},
+	"tangling hair": {
+		"name": "Tangling Hair",
+		"description": "Contact with the Pokémon lowers the attacker's Speed stat.",
+		"effect": ""
+	},
+	"technician": {
+		"name": "Technician",
+		"description": "Powers up the Pokémon’s weaker moves.",
+		"effect": ""
+	},
+	"telepathy": {
+		"name": "Telepathy",
+		"description": "Protects against damaging moves from friendly Pokémon.",
+		"effect": ""
+	},
+	"teravolt": {
+		"name": "Teravolt",
+		"description": "Moves can be used regardless of Abilities.",
+		"effect": ""
+	},
+	"thick fat": {
+		"name": "Thick Fat",
+		"description": "Raises resistance to Fire- and Ice-type moves.",
+		"effect": ""
+	},
+	"tinted lens": {
+		"name": "Tinted Lens",
+		"description": "Powers up “not very effective” moves.",
+		"effect": ""
+	},
+	"torrent": {
+		"name": "Torrent",
+		"description": "Powers up Water-type moves in a pinch.",
+		"effect": ""
+	},
+	"tough claws": {
+		"name": "Tough Claws",
+		"description": "Powers up moves that make direct contact.",
+		"effect": ""
+	},
+	"toxic boost": {
+		"name": "Toxic Boost",
+		"description": "Increases Attack to 1.5× when poisoned.",
+		"effect": ""
+	},
+	"trace": {
+		"name": "Trace",
+		"description": "The Pokémon copies a foe's Ability.",
+		"effect": ""
+	},
+	"triage": {
+		"name": "Triage",
+		"description": "Gives priority to a healing move.",
+		"effect": ""
+	},
+	"truant": {
+		"name": "Truant",
+		"description": "The Pokémon can't attack on consecutive turns.",
+		"effect": ""
+	},
+	"turboblaze": {
+		"name": "Turboblaze",
+		"description": "Moves can be used regardless of Abilities.",
+		"effect": ""
+	},
+	"unaware": {
+		"name": "Unaware",
+		"description": "Ignores any change in stats by the foe.",
+		"effect": ""
+	},
+	"unburden": {
+		"name": "Unburden",
+		"description": "Raises Speed if a held item is used.",
+		"effect": ""
+	},
+	"unnerve": {
+		"name": "Unnerve",
+		"description": "Prevents opposing Pokémon from eating held Berries.",
+		"effect": ""
+	},
+	"victory star": {
+		"name": "Victory Star",
+		"description": "Raises moves' accuracy to 1.1× for friendly Pokémon.",
+		"effect": ""
+	},
+	"vital spirit": {
+		"name": "Vital Spirit",
+		"description": "Prevents the Pokémon from falling asleep.",
+		"effect": ""
+	},
+	"volt absorb": {
+		"name": "Volt Absorb",
+		"description": "Restores HP if hit by an Electric-type move.",
+		"effect": ""
+	},
+	"water absorb": {
+		"name": "Water Absorb",
+		"description": "Restores HP if hit by a Water-type move.",
+		"effect": ""
+	},
+	"water bubble": {
+		"name": "Water Bubble",
+		"description": "Lowers the power of Fire-type moves done to the Pokémon and prevents the Pokémon from getting a burn.",
+		"effect": ""
+	},
+	"water compaction": {
+		"name": "Water Compaction",
+		"description": "Boosts the Pokémon's Defense stat sharply when hit by a Water-type move.",
+		"effect": ""
+	},
+	"water veil": {
+		"name": "Water Veil",
+		"description": "Prevents the Pokémon from getting a burn.",
+		"effect": ""
+	},
+	"weak armor": {
+		"name": "Weak Armor",
+		"description": "Raises Speed and lowers Defense by one stage each upon being hit by any move.",
+		"effect": ""
+	},
+	"white smoke": {
+		"name": "White Smoke",
+		"description": "Prevents the Pokémon’s stats from being lowered.",
+		"effect": ""
+	},
+	"wimp out": {
+		"name": "Wimp Out",
+		"description": "The Pokémon cowardly switches out when its HP becomes half or less.",
+		"effect": ""
+	},
+	"wonder guard": {
+		"name": "Wonder Guard",
+		"description": "Only supereffective moves will hit.",
+		"effect": ""
+	},
+	"wonder skin": {
+		"name": "Wonder Skin",
+		"description": "Has a 50% chance of protecting against non-damaging moves that inflict major status ailments.",
+		"effect": ""
+	},
+	"zen mode": {
+		"name": "Zen Mode",
+		"description": "Changes the Pokémon's shape when HP is halved.",
+		"effect": ""
+	}
 }
