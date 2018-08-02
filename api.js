@@ -28,7 +28,7 @@ app.enable('trust proxy')
 app.disable('case sensitive routing') 
 
 var apiTimelimit = 15
-var apiTotalCalls = 5
+var apiTotalCalls = 100
 var limiter = new RateLimit({
   windowMs: apiTimelimit*60*1000, // 15 minutes
   max: apiTotalCalls, // limit each IP to 100 requests per windowMs
