@@ -12,92 +12,92 @@
     "aerilate": {
         "name": "Aerilate",
         "description": "Normal-type moves become Flying-type moves. The power of those moves is boosted a little.",
-        "effect": "Affected moves now receive a 20% power boost."
+        "effect": "In battle\r\nGeneration VI\r\nAerilate causes all Normal-type moves used by the Pokémon to become Flying-type and receive a 30% power boost.\r\n\r\nGeneration VII\r\nAffected moves now receive a 20% power boost.\r\n\r\nOutside of battle\r\nAerilate has no effect outside of battle."
     },
     "aftermath": {
         "name": "Aftermath",
         "description": "Damages the attacker if it contacts the Pokémon with a finishing hit.",
-        "effect": "When a Pokémon with this Ability faints due to damage from a move that makes contact, the attacking Pokémon takes damage equal to ¼ of its own maximum HP. This Ability will not activate if a Pokémon with Damp is on the field."
+        "effect": "In battle\r\nWhen a Pokémon with this Ability faints due to damage from a move that makes contact, the attacking Pokémon takes damage equal to ¼ of its own maximum HP. This Ability will not activate if a Pokémon with Damp is on the field.\r\n\r\nOutside of battle\r\nAftermath has no effect outside of battle."
     },
     "air lock": {
         "name": "Air Lock",
         "description": "Eliminates the effects of weather.",
-        "effect": "During extremely harsh sunlight, heavy rain, and a mysterious air current, even if a Pokémon is negating the effects of weather with Air Lock, the moves Sunny Day, Rain Dance, Sandstorm, and Hail will still fail if used, and the Abilities Drought, Drizzle, Sand Stream, and Snow Warning will still fail to activate. However, all other effects of these weather conditions are negated by Air Lock."
+        "effect": "In battle\r\nWhen a Pokémon with Air Lock is in battle, all effects of weather are negated (though the weather itself does not disappear).\r\n\r\nGeneration V\r\nWhen a Pokémon with Air Lock is brought out, the message \"The effects of weather disappeared.\" will be displayed after the Ability is announced.\r\n\r\nGeneration VI\r\nDuring extremely harsh sunlight, heavy rain, and a mysterious air current, even if a Pokémon is negating the effects of weather with Air Lock, the moves Sunny Day, Rain Dance, Sandstorm, and Hail will still fail if used, and the Abilities Drought, Drizzle, Sand Stream, and Snow Warning will still fail to activate. However, all other effects of these weather conditions are negated by Air Lock.\r\n\r\nOutside of battle\r\nAir Lock has no effect outside of battle."
     },
     "analytic": {
         "name": "Analytic",
         "description": "Boosts move power when the Pokémon moves last.",
-        "effect": "If a Pokémon with Analytic executes its move after the Pokémon it originally targeted has already acted this turn, the power of its move is increased by 30%. Using a move and switching to another Pokémon count as having acted, while Mega Evolving, shifting, or the charging phase of Focus Punch do not.\n\nIn a Triple Battle, this means that if the Pokémon with Analytic is targeting a Pokémon in a flank position that chooses to switch with its ally in the middle, its move's power will always be normal when it attacks the Pokémon that is shifted into the flank position; but if the Pokémon with Analytic targets a Pokémon in the middle whose ally on a flank chooses to shift into the middle position, its move's power still depends on whether the Pokémon that was in the middle (and is now on a flank) has acted when the Pokémon with Analytic uses its move."
+        "effect": "In battle\r\nIf a Pokémon with Analytic executes its move after the Pokémon it originally targeted has already acted this turn, the power of its move is increased by 30%. Using a move and switching to another Pokémon count as having acted, while Mega Evolving, shifting, or the charging phase of Focus Punch do not.\r\n\r\nIn a Triple Battle, this means that if the Pokémon with Analytic is targeting a Pokémon in a flank position that chooses to switch with its ally in the middle, its move's power will always be normal when it attacks the Pokémon that is shifted into the flank position; but if the Pokémon with Analytic targets a Pokémon in the middle whose ally on a flank chooses to shift into the middle position, its move's power still depends on whether the Pokémon that was in the middle (and is now on a flank) has acted when the Pokémon with Analytic uses its move.\r\n\r\nOutside of battle\r\nAnalytic has no effect outside of battle."
     },
     "anger point": {
         "name": "Anger Point",
         "description": "The Pokémon is angered when it takes a critical hit, and that maxes its Attack stat.",
-        "effect": "Generation IV\nWhen a Pokémon with this Ability is hit by a critical hit, Anger Point maximizes its Attack stat by raising it to +6 stages (regardless of its current stage).\nAnger Point will activate even if the Pokémon's substitute is hit.\nGeneration V onward\nAnger Point no longer activates if the Pokémon's substitute is hit."
+        "effect": "In battle\r\nGeneration IV\r\nWhen a Pokémon with this Ability is hit by a critical hit, Anger Point maximizes its Attack stat by raising it to +6 stages (regardless of its current stage).\r\n\r\nAnger Point will activate even if the Pokémon's substitute is hit.\r\n\r\nGeneration V onward\r\nAnger Point no longer activates if the Pokémon's substitute is hit.\r\n\r\nOutside of battle\r\nAnger Point has no effect outside of battle."
     },
     "anticipation": {
         "name": "Anticipation",
-        "description": "Senses the foe’s dangerous moves.",
-        "effect": ""
+        "description": "The Pokémon can sense an opposing Pokémon's dangerous moves.",
+        "effect": "In battle\r\nGeneration IV\r\nWhen a Pokémon with Anticipation enters the battle or a Pokémon gains the Ability Anticipation, it causes the Pokémon to \"shudder\" if any opponent has a damaging move that is super effective against the Pokémon with Anticipation, a one-hit knockout move, or Selfdestruct or Explosion.\r\n\r\nHidden Power, Judgment, Weather Ball, and Natural Gift are treated as Normal-type moves. Counter, Metal Burst, and Mirror Coat do not trigger Anticipation.\r\n\r\nGeneration V\r\nThe moves Selfdestruct and Explosion are now treated like all other Normal-type moves, and thus no longer trigger Anticipation.\r\n\r\nCounter, Metal Burst, and Mirror Coat are counted as attacking moves of their types, so can trigger Anticipation. Techno Blast is treated as a Normal-type move.\r\n\r\nGeneration VI onward\r\nHidden Power is now treated as its effective type rather than Normal-type. Revelation Dance and Multi-Attack are treated as Normal-type moves.\r\n\r\nNormal-type moves (including Self-Destruct and Explosion) can trigger Anticipation in Inverse Battles, if the Pokémon is weak to Normal-type moves.\r\n\r\nAnticipation ignores a mysterious air current.\r\n\r\nOutside of battle\r\nAnticipation has no effect outside of battle."
     },
     "arena trap": {
         "name": "Arena Trap",
-        "description": "Prevents the foe from fleeing.",
-        "effect": ""
+        "description": "Prevents opposing Pokémon from fleeing.",
+        "effect": "In battle\r\nArena Trap prevents all grounded foes from fleeing (including Teleport) or switching out as long as the user remains in battle.\r\n\r\nUsing Baton Pass, U-turn, Volt Switch, or Parting Shot will still cause the Pokémon to switch out. Holding a Shed Shell allows the Pokémon to switch out, but not flee or Teleport. Having the Ability Run Away or holding a Smoke Ball allows the Pokémon to flee or Teleport, but not switch.\r\n\r\nIf a wild Pokémon has Arena Trap and the player's Pokémon faints, if the player attempts to flee instead of sending out another Pokémon, they are unaffected by Arena Trap.\r\n\r\nArena Trap does not affect allies.\r\n\r\nGeneration VI\r\nGhost-type Pokémon are now immune to Arena Trap."
     },
     "aroma veil": {
         "name": "Aroma Veil",
-        "description": "Protects allies from attacks that limit their move choices.",
-        "effect": ""
+        "description": "Protects itself and its allies from attacks that limit their move choices.",
+        "effect": "In battle\r\nAroma Veil prevents the Pokémon with this Ability and its allies (including non-adjacent allies) from being afflicted by Taunt, Torment, Encore, Disable and Cursed Body, Heal Block, and infatuation.\r\n\r\nWhen a Pokémon with Mold Breaker, Turboblaze or Teravolt uses a move, the effects of Aroma Veil (including allies') are ignored for the duration of that move. As such, if the move of a Pokémon with one of these Abilities triggers Cursed Body, Cute Charm or a Destiny Knot, it will not be protected by Aroma Veil; likewise, if its own Destiny Knot is activated during that attack (such as in response to the attack target's Cute Charm), that target will not be protected by its allies' Aroma Veil.\r\n\r\nOutside of battle\r\nIt is unknown if Aroma Veil has an effect outside of battle."
     },
     "aura break": {
         "name": "Aura Break",
-        "description": "The effects of \"Aura\" Abilities are reversed.",
-        "effect": ""
+        "description": "The effects of \"Aura\" Abilities are reversed to lower the power of affected moves.",
+        "effect": "In battle\r\nAura Break inverts the effects of Fairy Aura and Dark Aura: instead of multiplying the power of Fairy- or Dark-type moves by those Abilities' normal multiplier of 1.33, the power of moves of that type is divided by 1.33 instead, resulting in approximately a 25% decrease in power as long as both Abilities are active.\r\n\r\nEven if a Pokémon with Mold Breaker, Teravolt, or Turboblaze uses a Fairy- or Dark-type move, the effect of Aura Break still applies.\r\n\r\nOutside of battle\r\nZygarde with the Ability Aura Break can be separated back into Cores and Cells.\r\n\r\nZygarde cannot switch between Abilities using an Ability Capsule."
     },
     "bad dreams": {
         "name": "Bad Dreams",
-        "description": "Reduces a sleeping foe’s HP.",
-        "effect": ""
+        "description": "Reduces the HP of sleeping opposing Pokémon.",
+        "effect": "In battle\r\nAt the end of each turn, each adjacent sleeping opponent takes damage equal to 1/8 of its maximum HP.\r\n\r\nBad Dreams inflicts damage after a Pokémon that is drowsy due to Yawn falls asleep (and thus inflicts damage to a Pokémon the same turn it falls asleep due to drowsiness). Bad Dreams applies after a Pokémon has the opportunity to be woken up by Hydration, Shed Skin, or Healer.\r\n\r\nOutside of battle\r\nBad Dreams has no effect outside of battle.\r\n"
     },
     "battery": {
         "name": "Battery",
         "description": "Powers up ally Pokémon's special moves.",
-        "effect": ""
+        "effect": "In battle\r\nThis Ability raises the power of allies' special moves by 30%.\r\n\r\nOutside of battle\r\nBattery has no effect outside of battle."
     },
     "battle armor": {
         "name": "Battle Armor",
-        "description": "The Pokémon is protected against critical hits.",
-        "effect": ""
+        "description": "Hard armor protects the Pokémon from critical hits.",
+        "effect": "In battle\r\nBattle Armor prevents the opponent from landing a critical hit.\r\n\r\nOutside of battle\r\nBattle Armor has no effect outside of battle."
     },
     "battle bond": {
         "name": "Battle Bond",
         "description": "Defeating an opposing Pokémon strengthens the Pokémon's bond with its Trainer, and it becomes Ash-Greninja. Water Shuriken gets more powerful.",
-        "effect": ""
+        "effect": "In battle\r\nWhen a Greninja with Battle Bond directly causes another Pokémon (including allies) to faint by using a damaging move, unless this ends the battle, it will change into Ash-Greninja. After the battle, the Pokémon reverts to its original form.\r\n\r\nAsh-Greninja has higher base stats than regular Greninja. If Ash-Greninja uses Water Shuriken, the move's power becomes 20 (rather than the usual 15) and it always hits three times. If a Pokémon transforms into Ash-Greninja, Battle Bond does not affect the transformed Pokémon's use of Water Shuriken.\r\n\r\nMultiple Greninja can activate this Ability during the same battle. If Ash-Greninja faints in battle, it will revert to its original form, and that Greninja cannot change into Ash-Greninja again during the same battle even after being revived.\r\n\r\nGastro Acid, Worry Seed, Simple Beam, and Entrainment fail if the target has Battle Bond. Role Play and Skill Swap fail if either Pokémon has Battle Bond. Battle Bond cannot be copied by Trace, Power of Alchemy, or Receiver. Battle Bond cannot be replaced by Mummy or suppressed by Core Enforcer. If a Pokémon other than Greninja obtains Battle Bond with Imposter or Transform, the Pokémon cannot change form into Ash-Greninja even if it knocks out another Pokémon.\r\n\r\nOutside of battle\r\nGreninja with this Ability cannot breed nor be used in the Battle Spot if Special Pokémon are banned. However, it can be used in the Battle Tree."
     },
     "beast boost": {
         "name": "Beast Boost",
         "description": "The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.",
-        "effect": ""
+        "effect": "In battle\r\nWhen a Pokémon with Beast Boost directly causes another Pokémon (including allies) to faint by using a damaging move, its highest stat (other than HP) is increased by one stage. If this stat is already at +6 stages, Beast Boost will not activate (not even in the case of a tie of two or more stats).\r\n\r\nFor determining the highest stat, Beast Boost does not take into account stat stages, held items, or reductions due to status conditions; however, it does consider the effects of Power Split, Guard Split, Power Trick, Wonder Room, and Speed Swap. In the case of a tie between multiple stats, it increases one stat, prioritized in this order: Attack, Defense, Special Attack, Special Defense, and Speed.\r\n\r\nIf the Pokémon fainting ends the battle, Beast Boost will not activate. Beast Boost activates after the Pokémon gains Attack from Fell Stinger. If a Pokémon with Beast Boost defeats a Pokémon with Mummy using a contact move, the Pokémon's Ability will become Mummy before Beast Boost has the opportunity to activate.\r\n\r\nOutside of battle\r\nBeast Boost has no effect outside of battle."
     },
     "berserk": {
         "name": "Berserk",
         "description": "Boosts the Pokémon's Sp. Atk stat when it takes a hit that causes its HP to become half or less.",
-        "effect": ""
+        "effect": "In battle\r\nEvery time the HP of a Pokémon with Berserk drops below half, its Special Attack is raised by one stage. If the HP falls below half due to indirect damage, such as one caused by Leech Seed, status conditions or weather, Berserk won't activate.\r\n\r\nOutside of battle\r\nBerserk has no effect outside of battle."
     },
     "big pecks": {
         "name": "Big Pecks",
-        "description": "Protects the Pokémon from Defense-lowering attacks.",
-        "effect": ""
+        "description": "Protects the Pokémon from Defense-lowering effects.",
+        "effect": "In battle\r\nBig Pecks prevents other Pokémon from lowering the Defense stat stage of the Pokémon with this Ability. It does not prevent the Pokémon with this Ability from lowering its own Defense, such as by using Shell Smash.\r\n\r\nEffects that decrease Defense without using stat stages, such as Guard Swap, Heart Swap, or Guard Split, are unaffected by Big Pecks.\r\n\r\nThis Ability can be ignored with Mold Breaker, Teravolt, and Turboblaze."
     },
     "blaze": {
         "name": "Blaze",
-        "description": "Powers up Fire-type moves in a pinch.",
-        "effect": ""
+        "description": "Powers up Fire-type moves when the Pokémon's HP is low.",
+        "effect": "In battle\r\nGenerations III to IV\r\nWhen a Pokémon with Blaze uses a Fire-type move, the move's power will be increased by 50% if the user has less than or equal to ⅓ of its maximum HP remaining.\r\n\r\nGenerations V onwards\r\nInstead of boosting Fire-type moves' power, Blaze now technically boosts the Pokémon's Attack or Special Attack by 50% during damage calculation if a Fire-type move is being used, resulting in effectively the same effect.\r\n\r\nOutside of battle\r\nBlaze has no effect outside of battle."
     },
     "bulletproof": {
         "name": "Bulletproof",
         "description": "Protects the Pokémon from some ball and bomb moves.",
-        "effect": ""
+        "effect": "In battle\r\nPokémon with Bulletproof are not affected by ball and bomb moves, as well as some cannon-based and blast-based attacks.\r\n\r\nBall and bomb moves\r\nThe Ability affects the following moves:\r\n\r\nMove\tType\tCat.\tGen.\r\nAcid Spray*\t Poison \tSpecial\tVI+\r\nAura Sphere*\t Fighting \tSpecial\tVI+\r\nBarrage*\t Normal \tPhysical\tVI+\r\nBeak Blast*\t Flying \tPhysical\tVII\r\nBullet Seed\t Grass \tPhysical\tVI+\r\nEgg Bomb\t Normal \tPhysical\tVI+\r\nElectro Ball\t Electric \tSpecial\tVI+\r\nEnergy Ball\t Grass \tSpecial\tVI+\r\nFocus Blast*\t Fighting \tSpecial\tVI+\r\nGyro Ball\t Steel \tPhysical\tVI+\r\nIce Ball\t Ice \tPhysical\tVI+\r\nMagnet Bomb\t Steel \tPhysical\tVI+\r\nMist Ball\t Psychic \tSpecial\tVI+\r\nMud Bomb\t Ground \tSpecial\tVI+\r\nOctazooka*\t Water \tSpecial\tVI+\r\nPollen Puff*\t Bug \tSpecial\tVII\r\nRock Blast\t Rock \tPhysical\tVII\r\nRock Wrecker*\t Rock \tPhysical\tVI+\r\nSearing Shot*\t Fire \tSpecial\tVI+\r\nSeed Bomb\t Grass \tPhysical\tVI+\r\nShadow Ball\t Ghost \tSpecial\tVI+\r\nSludge Bomb\t Poison \tSpecial\tVI+\r\nWeather Ball\t Normal \tSpecial\tVI+\r\nZap Cannon\t Electric \tSpecial\tVI+\r\n\r\nOutside of battle\r\nBulletproof has no effect outside of battle."
     },
     "cheek pouch": {
         "name": "Cheek Pouch",
