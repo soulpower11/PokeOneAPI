@@ -18,19 +18,19 @@ const dsearch = require("./util/datasearch.js")
 
 //API Listening
 function listening() {
-    console.log("API Listening!")
+  console.log("API Listening!")
 };
 
 //Home/Ratelimit/Bans/Tokens
 app.use('/pokemon', express.static("pics"));
 app.use('/home', express.static("website"));
 app.enable('trust proxy')
-app.disable('case sensitive routing') 
+app.disable('case sensitive routing')
 
 var apiTimelimit = 15
-var apiTotalCalls = 100
+var apiTotalCalls = 5
 var limiter = new RateLimit({
-  windowMs: apiTimelimit*60*1000, // 15 minutes
+  windowMs: apiTimelimit * 60 * 1000, // 15 minutes
   max: apiTotalCalls, // limit each IP to 100 requests per windowMs
   delayMs: 0, // disable delaying - full speed until the max limit is reached
   message: `Max API Calls reached for this (${apiTimelimit} minutes) Window\nIf you need more then (${apiTotalCalls}/${apiTimelimit}min) Contact AussieGamer1994#2751 on discord`
@@ -57,6 +57,7 @@ app.get("/public/quests/:search?", dsearch.quests);
 app.get("/public/guilds/:search?", dsearch.guilds);
 app.get("/public/location/:search?", dsearch.locations);
 app.get("/public/types/:search?", dsearch.types);
+app.get("/public/encounters/:search?", dsearch.encounters);
 
 //Searches {Private}
 app.get("/private/pokemon/:search?", dsearch.pokemon);
@@ -73,6 +74,7 @@ app.get("/private/quests/:search?", dsearch.quests);
 app.get("/private/guilds/:search?", dsearch.guilds);
 app.get("/private/location/:search?", dsearch.locations);
 app.get("/private/types/:search?", dsearch.types);
+app.get("/private/encounters/:search?", dsearch.encounters);
 
 //app.post("/account/ban/:search?", )
 //app.post("/account/unban/:search?", )
