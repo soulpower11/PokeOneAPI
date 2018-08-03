@@ -96,7 +96,7 @@
         ]
     },
     "route: 1": {
-        "area": "Route: 1",
+        "area": "Route 1",
         "region": "Kanto",
         "pokemon": [
             {
@@ -228,7 +228,7 @@
         ]
     },
     "route: 22": {
-        "area": "Route: 22",
+        "area": "Route 22",
         "region": "Kanto",
         "pokemon": [
             {
@@ -294,7 +294,7 @@
         ]
     },
     "route: 2": {
-        "area": "Route: 2",
+        "area": "Route 2",
         "region": "Kanto",
         "pokemon": [
             {
@@ -558,7 +558,7 @@
         ]
     },
     "route: 3": {
-        "area": "Route: 3",
+        "area": "Route 3",
         "region": "Kanto",
         "pokemon": [
             {
@@ -720,7 +720,7 @@
         ]
     },
     "route: 4": {
-        "area": "Route: 4",
+        "area": "Route 4",
         "region": "Kanto",
         "pokemon": [
             {
@@ -834,7 +834,7 @@
         ]
     },
     "route: 24": {
-        "area": "Route: 24",
+        "area": "Route 24",
         "region": "Kanto",
         "pokemon": [
             {
@@ -942,7 +942,7 @@
         ]
     },
     "route: 25": {
-        "area": "Route: 25",
+        "area": "Route 25",
         "region": "Kanto",
         "pokemon": [
             {
@@ -1104,7 +1104,7 @@
         ]
     },
     "route: 5": {
-        "area": "Route: 5",
+        "area": "Route 5",
         "region": "Kanto",
         "pokemon": [
             {
@@ -1188,7 +1188,7 @@
         ]
     },
     "route: 6": {
-        "area": "Route: 6",
+        "area": "Route 6",
         "region": "Kanto",
         "pokemon": [
             {
@@ -1794,7 +1794,7 @@
         ]
     },
     "route: 8": {
-        "area": "Route: 8",
+        "area": "Route 8",
         "region": "Kanto",
         "pokemon": [
             {
@@ -1854,7 +1854,7 @@
         ]
     },
     "route: 7": {
-        "area": "Route: 7",
+        "area": "Route 7",
         "region": "Kanto",
         "pokemon": [
             {
@@ -1998,7 +1998,7 @@
         ]
     },
     "route: 12": {
-        "area": "Route: 12",
+        "area": "Route 12",
         "region": "Kanto",
         "pokemon": [
             {
@@ -2130,7 +2130,7 @@
         ]
     },
     "route: 13": {
-        "area": "Route: 13",
+        "area": "Route 13",
         "region": "Kanto",
         "pokemon": [
             {
@@ -2376,7 +2376,7 @@
         ]
     },
     "route: 15": {
-        "area": "Route: 15",
+        "area": "Route 15",
         "region": "Kanto",
         "pokemon": [
             {
@@ -2472,7 +2472,7 @@
         ]
     },
     "route: 16": {
-        "area": "Route: 16",
+        "area": "Route 16",
         "region": "Kanto",
         "pokemon": [
             {
@@ -2538,7 +2538,7 @@
         ]
     },
     "route: 17": {
-        "area": "Route: 17",
+        "area": "Route 17",
         "region": "Kanto",
         "pokemon": [
             {
@@ -2580,7 +2580,7 @@
         ]
     },
     "route: 18": {
-        "area": "Route: 18",
+        "area": "Route 18",
         "region": "Kanto",
         "pokemon": [
             {
@@ -3180,7 +3180,7 @@
         ]
     },
     "route: 19": {
-        "area": "Route: 19",
+        "area": "Route 19",
         "region": "Kanto",
         "pokemon": [
             {
@@ -3600,7 +3600,7 @@
         ]
     },
     "route: 21": {
-        "area": "Route: 21",
+        "area": "Route 21",
         "region": "Kanto",
         "pokemon": [
             {
@@ -3672,7 +3672,7 @@
         ]
     },
     "route: 23": {
-        "area": "Route: 23",
+        "area": "Route 23",
         "region": "Kanto",
         "pokemon": [
             {
@@ -4032,7 +4032,7 @@
         ]
     },
     "route: 28": {
-        "area": "Route: 28",
+        "area": "Route 28",
         "region": "Kanto",
         "pokemon": [
             {
@@ -4518,7 +4518,7 @@
         ]
     },
     "route: 26": {
-        "area": "Route: 26",
+        "area": "Route 26",
         "region": "Kanto",
         "pokemon": [
             {
@@ -4626,7 +4626,7 @@
         ]
     },
     "route: 27": {
-        "area": "Route: 27",
+        "area": "Route 27",
         "region": "Kanto",
         "pokemon": [
             {
@@ -4806,7 +4806,7 @@
         ]
     },
     "route: 29": {
-        "area": "Route: 29",
+        "area": "Route 29",
         "region": "Johto",
         "pokemon": [
             {
@@ -4920,7 +4920,7 @@
         ]
     },
     "route: 30": {
-        "area": "Route: 30",
+        "area": "Route 30",
         "region": "Johto",
         "pokemon": [
             {
@@ -5130,7 +5130,7 @@
         ]
     },
     "route: 31": {
-        "area": "Route: 31",
+        "area": "Route 31",
         "region": "Johto",
         "pokemon": [
             {
@@ -5364,7 +5364,7 @@
         ]
     },
     "route: 32": {
-        "area": "Route: 32",
+        "area": "Route 32",
         "region": "Johto",
         "pokemon": [
             {
@@ -5538,7 +5538,7 @@
         ]
     },
     "route: 33": {
-        "area": "Route: 33",
+        "area": "Route 33",
         "region": "Johto",
         "pokemon": [
             {
@@ -5760,7 +5760,7 @@
         ]
     },
     "route: 36": {
-        "area": "Route: 36",
+        "area": "Route 36",
         "region": "Johto",
         "pokemon": [
             {
@@ -5832,7 +5832,7 @@
         ]
     },
     "route: 34": {
-        "area": "Route: 34",
+        "area": "Route 34",
         "region": "Johto",
         "pokemon": [
             {
@@ -5940,7 +5940,7 @@
         ]
     },
     "route: 35": {
-        "area": "Route: 35",
+        "area": "Route 35",
         "region": "Johto",
         "pokemon": [
             {
@@ -6090,7 +6090,7 @@
         ]
     },
     "route: 37": {
-        "area": "Route: 37",
+        "area": "Route 37",
         "region": "Johto",
         "pokemon": [
             {
@@ -6246,7 +6246,7 @@
         ]
     },
     "route: 38/moomoo farm": {
-        "area": "Route: 38/Moomoo Farm",
+        "area": "Route 38/Moomoo Farm",
         "region": "Johto",
         "pokemon": [
             {
@@ -6300,7 +6300,7 @@
         ]
     },
     "route: 39": {
-        "area": "Route: 39",
+        "area": "Route 39",
         "region": "Johto",
         "pokemon": [
             {
@@ -6378,7 +6378,7 @@
         ]
     },
     "route: 40": {
-        "area": "Route: 40",
+        "area": "Route 40",
         "region": "Johto",
         "pokemon": [
             {
@@ -6486,7 +6486,7 @@
         ]
     },
     "route: 41": {
-        "area": "Route: 41",
+        "area": "Route 41",
         "region": "Johto",
         "pokemon": [
             {
@@ -6618,7 +6618,7 @@
         ]
     },
     "route: 47": {
-        "area": "Route: 47",
+        "area": "Route 47",
         "region": "Johto",
         "pokemon": [
             {
@@ -6846,7 +6846,7 @@
         ]
     },
     "route: 48": {
-        "area": "Route: 48",
+        "area": "Route 48",
         "region": "Johto",
         "pokemon": [
             {
@@ -7860,7 +7860,7 @@
         ]
     },
     "route: 42": {
-        "area": "Route: 42",
+        "area": "Route 42",
         "region": "Johto",
         "pokemon": [
             {
@@ -8118,7 +8118,7 @@
         ]
     },
     "route: 44": {
-        "area": "Route: 44",
+        "area": "Route 44",
         "region": "Johto",
         "pokemon": [
             {
@@ -8202,7 +8202,7 @@
         ]
     },
     "route: 43": {
-        "area": "Route: 43",
+        "area": "Route 43",
         "region": "Johto",
         "pokemon": [
             {
@@ -8442,7 +8442,7 @@
         ]
     },
     "route: 45": {
-        "area": "Route: 45",
+        "area": "Route 45",
         "region": "Johto",
         "pokemon": [
             {
@@ -8538,7 +8538,7 @@
         ]
     },
     "route: 46": {
-        "area": "Route: 46",
+        "area": "Route 46",
         "region": "Johto",
         "pokemon": [
             {
